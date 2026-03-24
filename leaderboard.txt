@@ -1,0 +1,235 @@
+RANK | PERSON | BEERS
+-----|--------|------
+1 | Tom Nicholl | 300
+2 | Sam Mcmahon | 161
+3 | Jack | 143
+4 | James 2 | 135
+5 | Thom | 130
+6 | Em Allen | 114
+7 | Mike Manzo | 112
+8 | Mik | 110
+9 | Michael Schmid | 109
+10 | Ben Furby | 105
+11 | Mitchell Schoffro | 102
+12 | Joseph | 99
+13 | Sam | 97
+14 | Will Nicholl | 87
+15 | Mags | 84
+16 | Matt | 71
+17 | Andre | 67
+18 | Ives | 59
+19 | Nick Cunningham | 58
+20 | Cam Schoffro | 57
+21 | Red Freeman | 54
+22 | Phil | 52
+23 | CJ Gunther | 48
+24 | Lydia McKay | 46
+25 | Connor Wright | 46
+26 | joe. | 41
+27 | Conor Mansfield | 40
+28 | Boby Brooks | 40
+29 | Joel Slater | 39
+30 | melanie | 39
+31 | Luke L | 37
+32 | Sudip Dasgupta | 37
+33 | Harry Church | 36
+34 | Vinay | 34
+35 | Jono Dennis | 33
+36 | Garett | 33
+37 | Will Salter | 32
+38 | Thanura | 32
+39 | Nin | 32
+40 | Luke | 31
+41 | Abbie | 29
+42 | Alex Morton | 28
+43 | Harry Lonsdale | 27
+44 | Celeste James | 26
+45 | Imogen | 26
+46 | corinna | 25
+47 | Patty | 25
+48 | Evan | 24
+49 | Malcolm | 24
+50 | Alana | 23
+51 | Billy | 23
+52 | Greg | 22
+53 | Fish | 22
+54 | Gay Ben | 22
+55 | Andrew | 22
+56 | Paul | 20
+57 | George Purcell | 20
+58 | Daniel | 20
+59 | Jess - That Ran In Italy That One Time | 20
+60 | Chelsea Wilkins | 19
+61 | Conor Mansfield | 19
+62 | Ben 3 | 19
+63 | Mark 🔴⚪️ | 18
+64 | Maggieeeee | 18
+65 | Rayhan | 18
+66 | Ollie Collins | 17
+67 | Nicholas Fraser | 16
+68 | Marta | 15
+69 | Hunter Burk | 15
+70 | Bec | 15
+71 | doultonjhall | 14
+72 | Tim | 14
+73 | Karl von Sanden | 14
+74 | Laura | 14
+75 | Emily Packer | 13
+76 | Edward Carden | 13
+77 | Jess Manzo | 13
+78 | Marc | 13
+79 | Alex | 13
+80 | Jesse Chrisitian | 13
+81 | Conor | 12
+82 | Who's this Aldi fella | 12
+83 | Jess - 2 | 12
+84 | Maddie | 11
+85 | Vito Naso | 11
+86 | Kumayle Riza | 11
+87 | keith🍂 | 11
+88 | Nish | 11
+89 | Josh | 11
+90 | Sophie Bale | 11
+91 | Mathew Berry | 10
+92 | Christian Packard | 10
+93 | jake lockwood | 10
+94 | Harrison | 10
+95 | Bryn Nahrung | 10
+96 | Kelsey | 10
+97 | Chris Raymond | 10
+98 | DavidD | 10
+99 | Rachael Stephenson | 10
+100 | Tia | 9
+101 | Max Rogers | 9
+102 | Abby | 9
+103 | Wesley Nicholson | 9
+104 | Natasha Foley | 9
+105 | DN 🛰️ | 9
+106 | Kev Morrissey | 9
+107 | Christopher Hallett | 8
+108 | Makalu | 8
+109 | Andrew M | 8
+110 | Sara Parker | 8
+111 | Adam Petley | 8
+112 | Sam Steen | 7
+113 | Oli | 7
+114 | shea | 7
+115 | Mark McCarthy | 7
+116 | Jacob Holmes | 7
+117 | Wes - UK WES | 7
+118 | Aidan Holmes | 7
+119 | Troy | 7
+120 | Sofia | 6
+121 | Iris Fraser | 6
+122 | Ryan Jones | 6
+123 | Dan - Less Popular | 6
+124 | Dann Moreno | 6
+125 | Jeremy Pollicina | 6
+126 | Jesse Christian | 6
+127 | Jess Smith | 6
+128 | Jamie Rhind | 6
+129 | Damo | 6
+130 | Isaac Barrett | 6
+131 | Grace Lindquist | 5
+132 | Max | 5
+133 | Wilson | 5
+134 | Roy | 5
+135 | Lia Woods | 5
+136 | Wes | 5
+137 | James 1 | 5
+138 | Will Choy | 5
+139 | Oliver Price | 5
+140 | Dan - Quiet Dan | 5
+141 | Louis | 5
+142 | James Vyse | 5
+143 | Tom Neaverson | 5
+144 | Charlie Roberts | 5
+145 | Luke Bentley | 5
+146 | Joey | 4
+147 | Will Johnson | 4
+148 | Sophie | 4
+149 | Alex Neale | 4
+150 | Rob Littlefield | 4
+151 | Daniel Wattimena | 4
+152 | Chlöe | 4
+153 | Matthew Salmini | 4
+154 | Steven | 4
+155 | Jonaa Eva | 4
+156 | Jamie Spirgi | 4
+157 | Daniel Martin | 4
+158 | Jess ✨ | 4
+159 | Joe Hannant | 4
+160 | Dom Morgan | 3
+161 | Lachlan Brown | 3
+162 | Jack Towers | 3
+163 | Hugh Green | 3
+164 | Zander | 3
+165 | Sophie Keenan | 3
+166 | Elena | 3
+167 | Rich | 3
+168 | Sachin | 3
+169 | Pat Jaffe | 3
+170 | Harrison Living | 3
+171 | Rick | 3
+172 | Laurence Woodhouse | 3
+173 | David | 3
+174 | Rhys | 3
+175 | George Duffy | 3
+176 | Spencer | 3
+177 | Wes - USA WES | 2
+178 | Stu | 2
+179 | Matthew | 2
+180 | kenny | 2
+181 | keith | 2
+182 | Charlie O'Neill | 2
+183 | Mark W | 2
+184 | Nicholas Makins | 2
+185 | Sebastian Green | 2
+186 | Brad Pearce | 2
+187 | Dave Brewer | 2
+188 | Thomas | 2
+189 | Jen | 2
+190 | Kate | 2
+191 | Adrian Johansen | 2
+192 | David Stephenson | 2
+193 | Gianpaolo Joyce | 1
+194 | Lachlan Fasher | 1
+195 | Carlos Romero | 1
+196 | Joshua | 1
+197 | Gaby | 1
+198 | Andy Davies | 1
+199 | Dan | 1
+200 | Mark | 1
+201 | Louis Dale | 1
+202 | Sam S | 1
+203 | Jared Swart | 1
+204 | Liam | 1
+205 | Fraser allan | 1
+206 | Jack Brewer | 1
+207 | Verity | 1
+208 | M | 1
+209 | Jason | 1
+210 | Mike Wray | 1
+211 | Wes Jemmett-Smith | 1
+212 | Dan Lowndes | 1
+213 | Fraser Allan | 1
+214 | Benjamin Alcock | 1
+215 | Nick | 1
+216 | Joe Jamison | 1
+217 | Max Nahrung | 1
+218 | smiff | 1
+219 | Jeff Rezazada | 1
+220 | Ian Emery | 1
+221 | Axinia | 1
+222 | Hayden Fleming | 1
+223 | Will | 1
+224 | Matt Harrall | 1
+225 | David Santos | 1
+226 | Richard Brown | 1
+227 | Harrison Birkett | 1
+228 | Littlemissbored13 | 1
+229 | Read | 1
+230 | L 🧡 | 1
+231 | Francis | 1
+
+TOTAL: 4434 beers across 231 people. 149 Beers have been accidentally skipped. 135 Beers are duplicate claims.
