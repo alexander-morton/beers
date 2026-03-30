@@ -3,12 +3,12 @@ import beersData from './data/beers.json'
 import WorldMap from './components/WorldMap'
 import VelocityChart from './components/VelocityChart'
 
-const LAST_UPDATED = '2026-03-24'
+const LAST_UPDATED = '2026-03-30'
 const MEDALS = ['🥇', '🥈', '🥉']
 const GOAL = 1_000_000
 
 function computeProjection(data) {
-  const now = new Date('2026-03-25')
+  const now = new Date("2026-03-30")
   const cutoff = new Date(now)
   cutoff.setDate(now.getDate() - 30)
 
@@ -33,7 +33,7 @@ function computeProjection(data) {
 
 function filterByPeriod(data, period) {
   if (period === 'all') return data
-  const now = new Date('2026-03-25')
+  const now = new Date("2026-03-30")
   const cutoff = new Date(now)
   if (period === 'week') cutoff.setDate(now.getDate() - 7)
   if (period === 'month') cutoff.setMonth(now.getMonth() - 1)
@@ -186,7 +186,6 @@ export default function App() {
   const filtered = useMemo(() => filterByPeriod(beersData, period), [period])
   const totalRows = useMemo(() => computeTotalBeers(filtered), [filtered])
   const postRows = useMemo(() => computePosts(filtered), [filtered])
-  const singleRows = useMemo(() => computeSinglePosts(filtered), [filtered])
 
   const baseRows = (tab === 'total' ? totalRows : postRows).map((r, i) => ({ ...r, rank: i + 1 }))
   const rows = search.trim()
@@ -194,9 +193,8 @@ export default function App() {
     : baseRows
   const barMax = baseRows[0]?.count ?? 1
 
-  const totalBeers = useMemo(() => beersData.reduce((s, e) => s + e.beers.length, 0), [])
+  const lastBeerNum = useMemo(() => Math.max(...beersData.flatMap(e => e.beers)), [])
   const totalPeople = useMemo(() => new Set(beersData.map(e => e.person)).size, [])
-  const totalPosts = beersData.length
   const projection = useMemo(() => computeProjection(beersData), [])
 
   const periodBeers = useMemo(() => filtered.reduce((s, e) => s + e.beers.length, 0), [filtered])
@@ -279,11 +277,11 @@ export default function App() {
       <div style={{ maxWidth: '640px', margin: '0 auto', padding: '0 16px 64px' }}>
         {/* Stat cards — always visible */}
         <div style={{ display: 'flex', gap: '12px', justifyContent: 'center', flexWrap: 'wrap', marginBottom: '8px' }}>
-          <StatCard label="Beer Count" value={4448} />
+          <StatCard label="Beer Count" value={lastBeerNum} />
           <StatCard label="Contributors" value={totalPeople} />
         </div>
         <p style={{ textAlign: 'center', fontSize: '0.7rem', color: '#78350f', marginBottom: '28px' }}>
-          true total is 4,434 due to skipped numbers &amp; duplicate claims
+          true total is 5,037 due to skipped numbers &amp; duplicate claims
         </p>
 
         {/* ── LEADERBOARD PAGE ── */}
