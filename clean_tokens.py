@@ -14,7 +14,7 @@ CONTROL_CHARS = [
     '\ufeff',            # BOM
 ]
 
-msg_re = re.compile(r'^\[([^\]]+)\]\s+(.+?):\s*(.*)')
+msg_re = re.compile(r'^\[([^\]]+)\]\s+(.+?):\s*(.*)') #hi
 
 SYSTEM_CONTENT = [
     re.compile(r'created this group', re.I),
