@@ -53,12 +53,12 @@ RANK | PERSON | BEERS
 51 | Billy | 23
 52 | Greg | 22
 53 | Fish | 22
-54 | Gay Ben | 22
+54 | Ben 1 | 22
 55 | Andrew | 22
 56 | Paul | 20
 57 | George Purcell | 20
 58 | Daniel | 20
-59 | Jess - That Ran In Italy That One Time | 20
+59 | Jess 1 | 20
 60 | Chelsea Wilkins | 19
 61 | Conor Mansfield | 19
 62 | Ben 3 | 19

@@ -159,7 +159,7 @@
 {"date":"4/3","time":"12:48am","person":"Mitchell Schoffro","beers":[2569],"city":null,"location":"Crown and Dragon","location_confidence":"medium","session":5,"notes":null}
 {"date":"4/3","time":"2:10am","person":"Joseph","beers":[2570,2571],"city":"Montreal","location":null,"location_confidence":"high","session":5,"notes":"Wrote 'just finished the drinks, forgot to post earlier'"}
 {"date":"4/3","time":"5:30pm","person":"Sam","beers":[2572],"city":"London","location":"Paternoster, St Paul's","location_confidence":"high","session":6,"notes":null}
-{"date":"4/3","time":"6:37pm","person":"Jess - That Ran In Italy That One Time","beers":[2573,2574],"city":"London","location":"Camden","location_confidence":"high","session":6,"notes":null}
+{"date":"4/3","time":"6:37pm","person":"Jess 1","beers":[2573,2574],"city":"London","location":"Camden","location_confidence":"high","session":6,"notes":null}
 {"date":"4/3","time":"6:59pm","person":"Em Allen","beers":[2575,2576],"city":"London","location":"The Hart, Marylebone","location_confidence":"high","session":6,"notes":null}
 {"date":"4/3","time":"7:17pm","person":"Jess Manzo","beers":[2577],"city":"London","location":"Avanti West Coast train to Euston","location_confidence":"high","session":6,"notes":null}
 {"date":"4/3","time":"7:25pm","person":"Paul","beers":[2578],"city":"London","location":"Old Dairy, N4","location_confidence":"high","session":6,"notes":null}
@@ -211,12 +211,12 @@
 {"date":"5/3","time":"7:09pm","person":"Sam Mcmahon","beers":[2668],"city":null,"location":"The George","location_confidence":"high","session":8,"notes":null}
 {"date":"5/3","time":"7:10pm","person":"Phil","beers":[2669],"city":null,"location":"Home","location_confidence":"high","session":8,"notes":null}
 {"date":"5/3","time":"7:18pm","person":"Luke","beers":[2670],"city":null,"location":"Peak District","location_confidence":"medium","session":8,"notes":null}
-{"date":"5/3","time":"7:21pm","person":"Gay Ben","beers":[2671],"city":null,"location":"Llandaff","location_confidence":"high","session":8,"notes":null}
+{"date":"5/3","time":"7:21pm","person":"Ben 1","beers":[2671],"city":null,"location":"Llandaff","location_confidence":"high","session":8,"notes":null}
 {"date":"5/3","time":"7:38pm","person":"Lydia McKay","beers":[2672],"city":"London","location":"Sydney Smith","location_confidence":"medium","session":8,"notes":"Wrote '1672' — corrected to 2672 based on sequence"}
-{"date":"5/3","time":"7:50pm","person":"Gay Ben","beers":[2673],"city":null,"location":"Llandaff","location_confidence":"medium","session":8,"notes":"Wrote '1673' — corrected to 2673 based on sequence"}
+{"date":"5/3","time":"7:50pm","person":"Ben 1","beers":[2673],"city":null,"location":"Llandaff","location_confidence":"medium","session":8,"notes":"Wrote '1673' — corrected to 2673 based on sequence"}
 {"date":"5/3","time":"7:53pm","person":"Boby Brooks","beers":[2674,2675],"city":"London","location":"Elliots, Hackney","location_confidence":"high","session":8,"notes":null}
 {"date":"5/3","time":"7:59pm","person":"Verity","beers":[2676],"city":"London","location":"Sydney Smith, Aldgate","location_confidence":"high","session":8,"notes":null}
-{"date":"5/3","time":"8:04pm","person":"Jess - That Ran In Italy That One Time","beers":[2677,2678],"city":"London","location":"Fitzrovia","location_confidence":"high","session":8,"notes":"Wrote '1677, 1678' — corrected to 2677, 2678 based on sequence"}
+{"date":"5/3","time":"8:04pm","person":"Jess 1","beers":[2677,2678],"city":"London","location":"Fitzrovia","location_confidence":"high","session":8,"notes":"Wrote '1677, 1678' — corrected to 2677, 2678 based on sequence"}
 {"date":"5/3","time":"8:09pm","person":"Mags","beers":[2679,2680,2681,2682,2683,2684,2685,2686],"city":"London","location":null,"location_confidence":"low","session":8,"notes":null}
 {"date":"5/3","time":"8:09pm","person":"Ben 3","beers":[2687],"city":"London","location":"Sydney Smith","location_confidence":"high","session":8,"notes":null}
 {"date":"5/3","time":"8:11pm","person":"Chelsea Wilkins","beers":[2688,2689],"city":"London","location":"Commercial Tavern","location_confidence":"medium","session":8,"notes":null}

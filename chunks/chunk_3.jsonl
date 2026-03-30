@@ -178,7 +178,7 @@
 {"date":"7/2","time":"11:32pm","person":"Luke","beers":[1029],"city":"Rome","location":"Castel Sant'Angelo","location_confidence":"high","session":8,"notes":null}
 {"date":"7/2","time":"11:33pm","person":"Fish","beers":[1030],"city":"Rome","location":null,"location_confidence":"medium","session":8,"notes":null}
 {"date":"7/2","time":"11:33pm","person":"Connor Wright","beers":[1031],"city":null,"location":null,"location_confidence":"low","session":8,"notes":null}
-{"date":"7/2","time":"11:37pm","person":"Gay Ben","beers":[1032],"city":null,"location":null,"location_confidence":"low","session":8,"notes":"Fish posted '1031' at 11:36pm but this appears to be confirming the running count rather than a new beer claim (Connor Wright had just claimed 1031 at 11:33pm). Gay Ben then claims 1032."}
+{"date":"7/2","time":"11:37pm","person":"Ben 1","beers":[1032],"city":null,"location":null,"location_confidence":"low","session":8,"notes":"Fish posted '1031' at 11:36pm but this appears to be confirming the running count rather than a new beer claim (Connor Wright had just claimed 1031 at 11:33pm). Ben 1 then claims 1032."}
 {"date":"7/2","time":"11:38pm","person":"Joseph","beers":[1033,1034,1035,1036],"city":"Montreal","location":null,"location_confidence":"low","session":8,"notes":"Stated 'montreal book club beers'."}
 {"date":"7/2","time":"11:54pm","person":"Cam Schoffro","beers":[1037,1038],"city":"Toronto","location":"Artful Dodger","location_confidence":"high","session":8,"notes":"Stated 'Fartful dodger' — variant of Artful Dodger."}
 {"date":"8/2","time":"12:00am","person":"Kumayle Riza","beers":[1039,1040,1041],"city":"London","location":"Strongroom","location_confidence":"high","session":8,"notes":null}
@@ -219,7 +219,7 @@
 {"date":"8/2","time":"4:10pm","person":"James 2","beers":[1101,1102],"city":"Dublin","location":"Capstons Bar","location_confidence":"medium","session":8,"notes":null}
 {"date":"8/2","time":"4:32pm","person":"Nin","beers":[1103,1104,1105],"city":"London","location":"King's Head","location_confidence":"high","session":8,"notes":null}
 {"date":"8/2","time":"4:33pm","person":"James 2","beers":[1106],"city":"Dublin","location":"Capstons Bar","location_confidence":"medium","session":8,"notes":null}
-{"date":"8/2","time":"4:38pm","person":"Gay Ben","beers":[1107],"city":"Cardiff","location":null,"location_confidence":"high","session":8,"notes":null}
+{"date":"8/2","time":"4:38pm","person":"Ben 1","beers":[1107],"city":"Cardiff","location":null,"location_confidence":"high","session":8,"notes":null}
 {"date":"8/2","time":"4:56pm","person":"Jack","beers":[1108,1109],"city":"Val d'Isère","location":null,"location_confidence":"high","session":8,"notes":null}
 {"date":"8/2","time":"5:09pm","person":"Tom Nicholl","beers":[1110,1111],"city":"London","location":"Compton Arms","location_confidence":"medium","session":8,"notes":null}
 {"date":"8/2","time":"5:14pm","person":"James 2","beers":[1112,1113],"city":"Dublin","location":"Capstons Bar","location_confidence":"medium","session":8,"notes":null}
@@ -232,7 +232,7 @@
 {"date":"8/2","time":"6:44pm","person":"Luke","beers":[1127],"city":"Rome","location":null,"location_confidence":"medium","session":8,"notes":null}
 {"date":"8/2","time":"6:44pm","person":"Fish","beers":[1128],"city":"Rome","location":"Testaccio","location_confidence":"high","session":8,"notes":null}
 {"date":"8/2","time":"6:46pm","person":"Connor Wright","beers":[1129],"city":"Rome","location":"L'Oasi della Birra","location_confidence":"high","session":8,"notes":null}
-{"date":"8/2","time":"6:52pm","person":"Gay Ben","beers":[1130],"city":"Cardiff","location":null,"location_confidence":"medium","session":8,"notes":null}
+{"date":"8/2","time":"6:52pm","person":"Ben 1","beers":[1130],"city":"Cardiff","location":null,"location_confidence":"medium","session":8,"notes":null}
 {"date":"8/2","time":"6:54pm","person":"James 2","beers":[1131,1132],"city":"Dublin","location":"Capstons Bar","location_confidence":"medium","session":8,"notes":null}
 {"date":"8/2","time":"7:17pm","person":"Luke","beers":[1133],"city":"Rome","location":null,"location_confidence":"medium","session":8,"notes":null}
 {"date":"8/2","time":"9:10pm","person":"Connor Wright","beers":[1134],"city":"Rome","location":"Vinoteca Tempere Prati","location_confidence":"high","session":8,"notes":null}

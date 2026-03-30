@@ -47,7 +47,7 @@
 {"date":"21/3","time":"2:20pm","person":"Tom Neaverson","beers":[4207,4208],"city":"Hong Kong","location":null,"location_confidence":"medium","session":1,"notes":null}
 {"date":"21/3","time":"2:33pm","person":"Maggieeeee","beers":[4209],"city":"Hitchin","location":"Hitchin","location_confidence":"high","session":1,"notes":null}
 {"date":"21/3","time":"3:14pm","person":"Sam Mcmahon","beers":[4210],"city":"London","location":"Scolt Head","location_confidence":"medium","session":1,"notes":null}
-{"date":"21/3","time":"3:21pm","person":"Jess - That Ran In Italy That One Time","beers":[4211,4212],"city":"Rome","location":null,"location_confidence":"high","session":1,"notes":null}
+{"date":"21/3","time":"3:21pm","person":"Jess 1","beers":[4211,4212],"city":"Rome","location":null,"location_confidence":"high","session":1,"notes":null}
 {"date":"21/3","time":"3:23pm","person":"Thom","beers":[4213,4214,4215],"city":"London","location":"Scolt Head","location_confidence":"high","session":1,"notes":null}
 {"date":"21/3","time":"3:42pm","person":"Tom Nicholl","beers":[4216,4217,4218],"city":"London","location":"Scolt Head","location_confidence":"high","session":1,"notes":null}
 {"date":"21/3","time":"3:47pm","person":"Rhys","beers":[4219,4220],"city":"Cardiff","location":"Lewis Arms, Castle Coch","location_confidence":"high","session":1,"notes":null}
@@ -126,7 +126,7 @@
 {"date":"22/3","time":"2:44pm","person":"Tom Nicholl","beers":[4370,4371],"city":"London","location":"The Canonbury","location_confidence":"high","session":1,"notes":null}
 {"date":"22/3","time":"2:46pm","person":"Joe Hannant","beers":[4372],"city":"Koh Lanta","location":null,"location_confidence":"medium","session":1,"notes":null}
 {"date":"22/3","time":"2:49pm","person":"Rachael Stephenson","beers":[4373,4374],"city":"London","location":"Epping Forest oyster shack","location_confidence":"high","session":1,"notes":null}
-{"date":"22/3","time":"2:52pm","person":"Jess - That Ran In Italy That One Time","beers":[4375,4376],"city":"Rome","location":null,"location_confidence":"medium","session":1,"notes":null}
+{"date":"22/3","time":"2:52pm","person":"Jess 1","beers":[4375,4376],"city":"Rome","location":null,"location_confidence":"medium","session":1,"notes":null}
 {"date":"22/3","time":"3:06pm","person":"Nick Cunningham","beers":[4377],"city":"London","location":"Wembley Stadium","location_confidence":"high","session":1,"notes":"4377 is a rogue number — Joseph claimed 4377 earlier at 5:42am 22/3 (out-of-sequence). Likely the true 4377 belongs here."}
 {"date":"22/3","time":"3:22pm","person":"Sam Mcmahon","beers":[4378,4379],"city":"London","location":"Canonbury Tavern","location_confidence":"high","session":1,"notes":"4378-4379 also claimed by Joseph at 5:42am 22/3 (rogue). Likely true 4378-4379 belong here."}
 {"date":"22/3","time":"3:33pm","person":"Sudip Dasgupta","beers":[4380,4381,4382],"city":"London","location":"Wembley","location_confidence":"high","session":1,"notes":null}
@@ -142,7 +142,7 @@
 {"date":"22/3","time":"4:46pm","person":"Mags","beers":[4393],"city":"London","location":"The Windmill","location_confidence":"high","session":1,"notes":null}
 {"date":"22/3","time":"4:54pm","person":"joe.","beers":[4394,4395],"city":null,"location":"Rounders","location_confidence":"high","session":1,"notes":"No city stated"}
 {"date":"22/3","time":"4:57pm","person":"Luke","beers":[4396],"city":"Cwmbran","location":"Cwmbran","location_confidence":"high","session":1,"notes":"Wales"}
-{"date":"22/3","time":"5:49pm","person":"Jess - That Ran In Italy That One Time","beers":[4397,4398],"city":"Rome","location":"Rome airport","location_confidence":"high","session":1,"notes":"'rome airport, post run'"}
+{"date":"22/3","time":"5:49pm","person":"Jess 1","beers":[4397,4398],"city":"Rome","location":"Rome airport","location_confidence":"high","session":1,"notes":"'rome airport, post run'"}
 {"date":"22/3","time":"6:24pm","person":"Nick Cunningham","beers":[4399,4400,4401],"city":"London","location":"Wembley","location_confidence":"medium","session":1,"notes":"Originally claimed '4378-4380' but those numbers were already assigned. Jack's 9:21pm correction sets the sequence at 4405 next, implying rogue entries. Nick's three Wembley beers tentatively assigned 4399-4401 to fill the gap, but sequence is uncertain."}
 {"date":"22/3","time":"6:25pm","person":"Nick Cunningham","beers":[4402],"city":"London","location":"Wembley station","location_confidence":"high","session":1,"notes":"Originally claimed '4381' — rogue number. Tentatively 4402 in sequence; see above."}
 {"date":"22/3","time":"6:25pm","person":"Nick Cunningham","beers":[4403,4404],"city":"London","location":"Wembley","location_confidence":"medium","session":1,"notes":"Originally claimed '4581-4582' — clearly rogue/typo. Tentatively 4403-4404 in sequence. Jack's message at 9:21pm says correct number is 4405, suggesting the sequence lands here."}

@@ -25,7 +25,7 @@
 {"date": "10/2", "time": "8:41pm", "person": "Mike Manzo", "beers": [1178], "city": "London", "location": "The Parakeet", "location_confidence": "medium", "session": 3, "notes": "Originally posted as 1778 (typo). Corrected in context of Tom Nicholl's correction."}
 {"date": "10/2", "time": "9:29pm", "person": "Mike Manzo", "beers": [1179, 1180], "city": "London", "location": "The Parakeet", "location_confidence": "medium", "session": 3, "notes": "Originally posted as 1779,1780 (typos). Corrected in context of Tom Nicholl's correction."}
 {"date": "10/2", "time": "9:55pm", "person": "James 2", "beers": [1178, 1179, 1180, 1181, 1182], "city": "Glasgow", "location": null, "location_confidence": "medium", "session": 3, "notes": "Numbers 1178-1180 conflict with Mike Manzo's corrected claims. James 2 posted this after the correction discussion."}
-{"date": "10/2", "time": "10:03pm", "person": "Gay Ben", "beers": [1183, 1184], "city": "Cardiff", "location": "Tiny Rebs", "location_confidence": "high", "session": 3, "notes": null}
+{"date": "10/2", "time": "10:03pm", "person": "Ben 1", "beers": [1183, 1184], "city": "Cardiff", "location": "Tiny Rebs", "location_confidence": "high", "session": 3, "notes": null}
 {"date": "10/2", "time": "10:29pm", "person": "James 2", "beers": [1185, 1186, 1187, 1188, 1189], "city": "Glasgow", "location": null, "location_confidence": "medium", "session": 3, "notes": null}
 {"date": "11/2", "time": "12:07am", "person": "Imogen", "beers": [1190, 1191], "city": "Montreal", "location": "Petite Patrie", "location_confidence": "high", "session": 3, "notes": null}
 {"date": "11/2", "time": "8:04am", "person": "Will Salter", "beers": [1192], "city": null, "location": "Pacific Ocean", "location_confidence": "high", "session": 4, "notes": null}
@@ -58,7 +58,7 @@
 {"date": "12/2", "time": "1:08pm", "person": "Michael Schmid", "beers": [1233], "city": "Tokyo", "location": null, "location_confidence": "low", "session": 5, "notes": "Schmid noted 'had to have a beer to correct the score' — likely resuming the correct sequence after the catch-up number confusion (1127-1132)."}
 {"date": "12/2", "time": "4:00pm", "person": "Jack", "beers": [1234, 1235], "city": null, "location": "Val D'Isere", "location_confidence": "high", "session": 5, "notes": "Continuation line 'W/ @Nish' indicates Nish was present."}
 {"date": "12/2", "time": "4:11pm", "person": "Garett", "beers": [1236], "city": null, "location": "O'Casey's pub", "location_confidence": "high", "session": 5, "notes": null}
-{"date": "12/2", "time": "4:15pm", "person": "Jess - That Ran In Italy That One Time", "beers": [1237, 1238], "city": null, "location": "Val D'Isere", "location_confidence": "high", "session": 5, "notes": null}
+{"date": "12/2", "time": "4:15pm", "person": "Jess 1", "beers": [1237, 1238], "city": null, "location": "Val D'Isere", "location_confidence": "high", "session": 5, "notes": null}
 {"date": "12/2", "time": "4:26pm", "person": "Wilson", "beers": [1239, 1240], "city": "Singapore", "location": "Bar Station", "location_confidence": "high", "session": 5, "notes": "Birthday pint noted."}
 {"date": "12/2", "time": "4:35pm", "person": "Garett", "beers": [1241], "city": null, "location": "O'Casey's, Den Haag", "location_confidence": "high", "session": 5, "notes": null}
 {"date": "12/2", "time": "5:21pm", "person": "Alex Morton", "beers": [1242, 1243], "city": "London", "location": "Waterloo", "location_confidence": "high", "session": 5, "notes": null}
@@ -99,16 +99,16 @@
 {"date": "13/2", "time": "5:18pm", "person": "Connor Wright", "beers": [1309], "city": "Copenhagen", "location": "Himitsu Ramen, København", "location_confidence": "high", "session": 6, "notes": null}
 {"date": "13/2", "time": "5:27pm", "person": "Mike Manzo", "beers": [1310, 1311], "city": "London", "location": "Bike Shed Moto, Shoreditch", "location_confidence": "high", "session": 6, "notes": null}
 {"date": "13/2", "time": "6:00pm", "person": "Evan", "beers": [1312, 1313], "city": "London", "location": "Hackney Wick", "location_confidence": "high", "session": 6, "notes": null}
-{"date": "13/2", "time": "6:00pm", "person": "Gay Ben", "beers": [1314], "city": "Cardiff", "location": "Flowerhorn", "location_confidence": "high", "session": 6, "notes": null}
+{"date": "13/2", "time": "6:00pm", "person": "Ben 1", "beers": [1314], "city": "Cardiff", "location": "Flowerhorn", "location_confidence": "high", "session": 6, "notes": null}
 {"date": "13/2", "time": "6:03pm", "person": "Mark 🔴⚪️", "beers": [1315], "city": "Maidstone", "location": "The White Horse, Bearsted", "location_confidence": "high", "session": 6, "notes": null}
 {"date": "13/2", "time": "6:14pm", "person": "Nin", "beers": [1316, 1317], "city": "London", "location": "Carpenters Arms", "location_confidence": "high", "session": 6, "notes": null}
 {"date": "13/2", "time": "6:15pm", "person": "James 2", "beers": [1318, 1319, 1320], "city": "Glasgow", "location": "The Lismore", "location_confidence": "high", "session": 6, "notes": null}
-{"date": "13/2", "time": "6:33pm", "person": "Jess - That Ran In Italy That One Time", "beers": [1321, 1322], "city": null, "location": "France", "location_confidence": "high", "session": 6, "notes": null}
+{"date": "13/2", "time": "6:33pm", "person": "Jess 1", "beers": [1321, 1322], "city": null, "location": "France", "location_confidence": "high", "session": 6, "notes": null}
 {"date": "13/2", "time": "6:36pm", "person": "Mike Manzo", "beers": [1323, 1324], "city": "London", "location": "Bike Shed Moto, Shoreditch", "location_confidence": "medium", "session": 6, "notes": "'Same deal. 2 for £9 special' — same venue as earlier entry."}
 {"date": "13/2", "time": "7:20pm", "person": "Who's this Aldi fella", "beers": [1325], "city": "Malaga", "location": null, "location_confidence": "high", "session": 6, "notes": null}
 {"date": "13/2", "time": "7:24pm", "person": "Luke", "beers": [1326], "city": null, "location": null, "location_confidence": "low", "session": 6, "notes": null}
 {"date": "13/2", "time": "8:02pm", "person": "George Purcell", "beers": [1327, 1328, 1329, 1330, 1331], "city": "London", "location": "The Elephant and Castle, Elephant and Castle", "location_confidence": "high", "session": 6, "notes": null}
-{"date": "13/2", "time": "8:19pm", "person": "Gay Ben", "beers": [1332], "city": "Cardiff", "location": "Pontcanna", "location_confidence": "high", "session": 6, "notes": null}
+{"date": "13/2", "time": "8:19pm", "person": "Ben 1", "beers": [1332], "city": "Cardiff", "location": "Pontcanna", "location_confidence": "high", "session": 6, "notes": null}
 {"date": "13/2", "time": "8:51pm", "person": "Jack", "beers": [1333], "city": null, "location": "Val D'Isere", "location_confidence": "medium", "session": 6, "notes": null}
 {"date": "13/2", "time": "8:53pm", "person": "Chelsea Wilkins", "beers": [1334, 1335], "city": "London", "location": "Prospect of Whitby", "location_confidence": "high", "session": 6, "notes": "1334 noted as 'already gone' (photo taken after drinking)."}
 {"date": "13/2", "time": "9:23pm", "person": "James 2", "beers": [1336, 1337], "city": "Glasgow", "location": "The Lismore", "location_confidence": "medium", "session": 6, "notes": null}
@@ -150,8 +150,8 @@
 {"date": "14/2", "time": "2:16pm", "person": "Tom Nicholl", "beers": [1398, 1399, 1400], "city": "London", "location": "Bank of Friendship", "location_confidence": "high", "session": 6, "notes": null}
 {"date": "14/2", "time": "2:23pm", "person": "Paul", "beers": [1401, 1402, 1403], "city": "London", "location": "Bank of Friendship", "location_confidence": "high", "session": 6, "notes": null}
 {"date": "14/2", "time": "2:39pm", "person": "keith🍂", "beers": [1404, 1405], "city": "Singapore", "location": "Locality", "location_confidence": "high", "session": 6, "notes": null}
-{"date": "14/2", "time": "2:45pm", "person": "Mike Manzo", "beers": [1406, 1407], "city": "London", "location": "Nancy Spain's", "location_confidence": "high", "session": 6, "notes": "1407 also claimed by Gay Ben at 2:46pm — conflict."}
-{"date": "14/2", "time": "2:46pm", "person": "Gay Ben", "beers": [1407], "city": "Cardiff", "location": "Llandaff", "location_confidence": "high", "session": 6, "notes": "1407 also claimed by Mike Manzo at 2:45pm — conflict."}
+{"date": "14/2", "time": "2:45pm", "person": "Mike Manzo", "beers": [1406, 1407], "city": "London", "location": "Nancy Spain's", "location_confidence": "high", "session": 6, "notes": "1407 also claimed by Ben 1 at 2:46pm — conflict."}
+{"date": "14/2", "time": "2:46pm", "person": "Ben 1", "beers": [1407], "city": "Cardiff", "location": "Llandaff", "location_confidence": "high", "session": 6, "notes": "1407 also claimed by Mike Manzo at 2:45pm — conflict."}
 {"date": "14/2", "time": "2:53pm", "person": "Fish", "beers": [1408], "city": "London", "location": "Fulham", "location_confidence": "high", "session": 6, "notes": null}
 {"date": "14/2", "time": "3:06pm", "person": "Abbie", "beers": [1409, 1410], "city": "London", "location": "Gorg Domeage", "location_confidence": "high", "session": 6, "notes": null}
 {"date": "14/2", "time": "3:13pm", "person": "Tom Nicholl", "beers": [1411, 1412], "city": "Las Vegas", "location": null, "location_confidence": "high", "session": 6, "notes": "Tom Nicholl states 'Las Vegas, Nevada' — unexpected location given earlier London entries; taken at face value."}
@@ -179,7 +179,7 @@
 {"date": "14/2", "time": "6:28pm", "person": "Thom", "beers": [1454, 1455, 1456], "city": "London", "location": "Hammerton Tap Room", "location_confidence": "high", "session": 6, "notes": "Written as 'jammerton' (typo/nickname). 1454 and 1455 also claimed by Edward Carden at same timestamp; 1456 also claimed by Luke at same timestamp — conflicts on all three numbers."}
 {"date": "14/2", "time": "6:28pm", "person": "Edward Carden", "beers": [1454, 1455], "city": "Cambridge", "location": "Devonshire Arms", "location_confidence": "high", "session": 6, "notes": "1454 and 1455 conflict with Thom's claim at the same timestamp."}
 {"date": "14/2", "time": "6:28pm", "person": "Luke", "beers": [1456], "city": "Wales", "location": null, "location_confidence": "high", "session": 6, "notes": "1456 conflicts with Thom's claim at the same timestamp."}
-{"date": "14/2", "time": "6:33pm", "person": "Gay Ben", "beers": [1457], "city": "Cardiff", "location": null, "location_confidence": "medium", "session": 6, "notes": null}
+{"date": "14/2", "time": "6:33pm", "person": "Ben 1", "beers": [1457], "city": "Cardiff", "location": null, "location_confidence": "medium", "session": 6, "notes": null}
 {"date": "14/2", "time": "6:39pm", "person": "Evan", "beers": [1458], "city": null, "location": "Sandwich, Kent", "location_confidence": "high", "session": 6, "notes": null}
 {"date": "14/2", "time": "6:43pm", "person": "Lydia McKay", "beers": [1459, 1460], "city": "London", "location": "The Greyhound, Peckham", "location_confidence": "high", "session": 6, "notes": null}
 {"date": "14/2", "time": "7:00pm", "person": "Garett", "beers": [1461], "city": null, "location": "Netherlands", "location_confidence": "high", "session": 6, "notes": "Valentine's Day noted."}
@@ -201,5 +201,5 @@
 {"date": "14/2", "time": "10:23pm", "person": "Bec", "beers": [1493], "city": "London", "location": "golf club, North London", "location_confidence": "medium", "session": 6, "notes": "Still at the wedding venue ('nana starting to pass out')."}
 {"date": "14/2", "time": "10:41pm", "person": "Mitchell Schoffro", "beers": [1494], "city": "Toronto", "location": "Bar Volo", "location_confidence": "high", "session": 6, "notes": null}
 {"date": "14/2", "time": "11:23pm", "person": "Rob Littlefield", "beers": [1495], "city": "Glasgow", "location": null, "location_confidence": "high", "session": 6, "notes": null}
-{"date": "14/2", "time": "11:24pm", "person": "Gay Ben", "beers": [1496], "city": "Cardiff", "location": null, "location_confidence": "medium", "session": 6, "notes": null}
+{"date": "14/2", "time": "11:24pm", "person": "Ben 1", "beers": [1496], "city": "Cardiff", "location": null, "location_confidence": "medium", "session": 6, "notes": null}
 {"date": "14/2", "time": "11:35pm", "person": "Ollie Collins", "beers": [1497], "city": "Auckland", "location": "Sail GP", "location_confidence": "high", "session": 6, "notes": null}

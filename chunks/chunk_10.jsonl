@@ -32,7 +32,7 @@
 {"date":"15/3","time":"1:45pm","person":"Wes - UK WES","beers":[3636],"city":"Edinburgh","location":null,"location_confidence":"high","session":2,"notes":null}
 {"date":"15/3","time":"2:11pm","person":"Mik","beers":[3637],"city":null,"location":"Shannon airport","location_confidence":"high","session":2,"notes":"Message said '3637, 3637' — duplicate number, likely a typo. Tom Nicholl claimed 3638 in the next message, so Mik probably only has 3637."}
 {"date":"15/3","time":"2:18pm","person":"Tom Nicholl","beers":[3638,3639,3640],"city":"San Sebastián","location":"basqueland","location_confidence":"high","session":2,"notes":null}
-{"date":"15/3","time":"2:27pm","person":"Jess - That Ran In Italy That One Time","beers":[3641,3642],"city":"London","location":"Soho","location_confidence":"high","session":2,"notes":null}
+{"date":"15/3","time":"2:27pm","person":"Jess 1","beers":[3641,3642],"city":"London","location":"Soho","location_confidence":"high","session":2,"notes":null}
 {"date":"15/3","time":"2:36pm","person":"Maggieeeee","beers":[3643,3644],"city":"London","location":"Hoxton","location_confidence":"high","session":2,"notes":null}
 {"date":"15/3","time":"3:16pm","person":"Chris Raymond","beers":[3645,3646,3647,3648,3649],"city":null,"location":"the mainland","location_confidence":"high","session":2,"notes":"5 beers claimed (3645-3649). 'The mainland' is vague — location_confidence low for city."}
 {"date":"15/3","time":"3:37pm","person":"Sam Mcmahon","beers":[3650,3651,3652,3653],"city":"San Sebastián","location":null,"location_confidence":"high","session":2,"notes":"Location written as 'Sam sebby'"}

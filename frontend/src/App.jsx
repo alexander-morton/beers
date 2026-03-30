@@ -5,6 +5,31 @@ import VelocityChart from './components/VelocityChart'
 
 const LAST_UPDATED = '2026-03-24'
 const MEDALS = ['🥇', '🥈', '🥉']
+const GOAL = 1_000_000
+
+function computeProjection(data) {
+  const now = new Date('2026-03-25')
+  const cutoff = new Date(now)
+  cutoff.setDate(now.getDate() - 30)
+
+  const recent = data.filter(e => new Date(e.isoDate) >= cutoff)
+  const recentBeers = recent.reduce((s, e) => s + e.beers.length, 0)
+  const ratePerDay = recentBeers / 30
+
+  const totalBeers = data.reduce((s, e) => s + e.beers.length, 0)
+  const remaining = GOAL - totalBeers
+  const daysLeft = remaining / ratePerDay
+
+  const projected = new Date(now)
+  projected.setDate(projected.getDate() + Math.round(daysLeft))
+
+  return {
+    ratePerDay: Math.round(ratePerDay),
+    daysLeft: Math.round(daysLeft),
+    projectedYear: projected.getFullYear(),
+    projectedDate: projected.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' }),
+  }
+}
 
 function filterByPeriod(data, period) {
   if (period === 'all') return data
@@ -156,18 +181,23 @@ export default function App() {
   const [page, setPage] = useState('leaderboard') // 'leaderboard' | 'map' | 'velocity'
   const [tab, setTab] = useState('total')
   const [period, setPeriod] = useState('all')
+  const [search, setSearch] = useState('')
 
   const filtered = useMemo(() => filterByPeriod(beersData, period), [period])
   const totalRows = useMemo(() => computeTotalBeers(filtered), [filtered])
   const postRows = useMemo(() => computePosts(filtered), [filtered])
   const singleRows = useMemo(() => computeSinglePosts(filtered), [filtered])
 
-  const rows = tab === 'total' ? totalRows : postRows
-  const barMax = rows[0]?.count ?? 1
+  const baseRows = (tab === 'total' ? totalRows : postRows).map((r, i) => ({ ...r, rank: i + 1 }))
+  const rows = search.trim()
+    ? baseRows.filter(r => r.person.toLowerCase().includes(search.trim().toLowerCase()))
+    : baseRows
+  const barMax = baseRows[0]?.count ?? 1
 
   const totalBeers = useMemo(() => beersData.reduce((s, e) => s + e.beers.length, 0), [])
   const totalPeople = useMemo(() => new Set(beersData.map(e => e.person)).size, [])
   const totalPosts = beersData.length
+  const projection = useMemo(() => computeProjection(beersData), [])
 
   const periodBeers = useMemo(() => filtered.reduce((s, e) => s + e.beers.length, 0), [filtered])
   const periodPeople = useMemo(() => new Set(filtered.map(e => e.person)).size, [filtered])
@@ -187,7 +217,6 @@ export default function App() {
     <div style={{ minHeight: '100vh', background: 'linear-gradient(180deg, #0f0a03 0%, #1a0d00 50%, #0f0a03 100%)' }}>
       {/* Header */}
       <div style={{ textAlign: 'center', padding: '40px 16px 24px' }}>
-        <div style={{ fontSize: '3rem', marginBottom: '8px' }}>🍺</div>
         <h1 style={{
           fontSize: 'clamp(2rem, 6vw, 3rem)',
           fontWeight: 800,
@@ -316,6 +345,26 @@ export default function App() {
               </div>
             </div>
 
+            <input
+              type="text"
+              placeholder="Search by name..."
+              value={search}
+              onChange={e => setSearch(e.target.value)}
+              style={{
+                width: '100%',
+                boxSizing: 'border-box',
+                background: 'rgba(251,191,36,0.06)',
+                border: '1px solid rgba(251,191,36,0.15)',
+                borderRadius: '12px',
+                padding: '9px 14px',
+                color: '#fde68a',
+                fontSize: '0.875rem',
+                outline: 'none',
+              }}
+              onFocus={e => e.target.style.borderColor = 'rgba(251,191,36,0.4)'}
+              onBlur={e => e.target.style.borderColor = 'rgba(251,191,36,0.15)'}
+            />
+
             {period !== 'all' && (
               <div style={{ textAlign: 'center', fontSize: '0.8rem', color: '#92400e', marginBottom: '12px' }}>
                 {period === 'week' ? 'Last 7 days' : 'Last 30 days'}:{' '}
@@ -333,16 +382,16 @@ export default function App() {
 
             <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
               {rows.length === 0
-                ? <div style={{ textAlign: 'center', color: '#78350f', padding: '48px' }}>No data for this period</div>
-                : rows.map((row, i) => (
+                ? <div style={{ textAlign: 'center', color: '#78350f', padding: '48px' }}>{search.trim() ? 'No matches found' : 'No data for this period'}</div>
+                : rows.map((row) => (
                   <LeaderboardRow
                     key={`${tab}-${period}-${row.person}`}
-                    rank={i + 1}
+                    rank={row.rank}
                     person={row.person}
                     count={row.count}
                     barMax={barMax}
                     label={tab === 'total' ? 'beers' : 'posts'}
-                    delay={Math.min(i * 18, 350)}
+                    delay={Math.min(row.rank * 18, 350)}
                   />
                 ))
               }
@@ -363,9 +412,21 @@ export default function App() {
         {/* ── VELOCITY PAGE ── */}
         {page === 'velocity' && (
           <>
-            <h2 style={{ textAlign: 'center', color: '#b45309', fontSize: '0.8rem', fontWeight: 500, marginBottom: '16px', textTransform: 'uppercase', letterSpacing: '0.1em' }}>
+            <h2 style={{ textAlign: 'center', color: '#b45309', fontSize: '0.8rem', fontWeight: 500, marginBottom: '4px', textTransform: 'uppercase', letterSpacing: '0.1em' }}>
               Drinking momentum over time
             </h2>
+            <div style={{ textAlign: 'center', marginBottom: '16px' }}>
+              <div style={{ fontSize: '0.65rem', color: '#4a2008', textTransform: 'uppercase', letterSpacing: '0.12em', marginBottom: '4px' }}>
+                at current pace · {projection.ratePerDay} beers/day
+              </div>
+              <div style={{ fontSize: '1.1rem', fontWeight: 700, color: '#92400e', letterSpacing: '-0.01em' }}>
+                1,000,000 by{' '}
+                <span style={{ color: '#b45309' }}>{projection.projectedDate}</span>
+              </div>
+              <div style={{ fontSize: '0.7rem', color: '#3d1a03', marginTop: '2px' }}>
+                {projection.daysLeft.toLocaleString()} days · {projection.projectedYear - 2026} years from now
+              </div>
+            </div>
             <VelocityChart data={beersData} />
           </>
         )}

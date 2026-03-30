@@ -29,7 +29,7 @@
 {"date":"6/3","time":"7:46pm","person":"Jack","beers":[2766,2767],"city":"London","location":"Marylebone","location_confidence":"high","session":1,"notes":null}
 {"date":"6/3","time":"7:46pm","person":"Dan - Less Popular","beers":[2768],"city":"London","location":"Clapham North","location_confidence":"high","session":1,"notes":null}
 {"date":"6/3","time":"8:09pm","person":"Sam","beers":[2769,2770,2771],"city":"London","location":"Old Shades, Westminster","location_confidence":"high","session":1,"notes":null}
-{"date":"6/3","time":"8:09pm","person":"Gay Ben","beers":[2772],"city":"Cardiff","location":"Pontcanna","location_confidence":"high","session":1,"notes":null}
+{"date":"6/3","time":"8:09pm","person":"Ben 1","beers":[2772],"city":"Cardiff","location":"Pontcanna","location_confidence":"high","session":1,"notes":null}
 {"date":"6/3","time":"8:16pm","person":"Thanura","beers":[2773,2774],"city":"London","location":"Hemingford Arms","location_confidence":"high","session":1,"notes":null}
 {"date":"6/3","time":"8:48pm","person":"Red Freeman","beers":[2775,2776],"city":"London","location":null,"location_confidence":"low","session":1,"notes":null}
 {"date":"6/3","time":"9:14pm","person":"Sam","beers":[2777,2778,2779],"city":"London","location":"Westminster Arms","location_confidence":"high","session":1,"notes":null}
@@ -68,7 +68,7 @@
 {"date":"7/3","time":"3:58pm","person":"Nish","beers":[2859],"city":null,"location":"a house somewhere","location_confidence":"medium","session":3,"notes":null}
 {"date":"7/3","time":"3:58pm","person":"Sam Mcmahon","beers":[2860,2861],"city":"London","location":"Angel","location_confidence":"high","session":3,"notes":null}
 {"date":"7/3","time":"4:21pm","person":"Tom Nicholl","beers":[2862,2863],"city":"London","location":"Angel","location_confidence":"medium","session":3,"notes":null}
-{"date":"7/3","time":"4:27pm","person":"Jess - That Ran In Italy That One Time","beers":[2864,2865],"city":"London","location":"Pear Tree","location_confidence":"high","session":3,"notes":null}
+{"date":"7/3","time":"4:27pm","person":"Jess 1","beers":[2864,2865],"city":"London","location":"Pear Tree","location_confidence":"high","session":3,"notes":null}
 {"date":"7/3","time":"4:29pm","person":"Nin","beers":[2866,2867],"city":"London","location":"The Famous Royal Oak","location_confidence":"medium","session":3,"notes":null}
 {"date":"7/3","time":"4:38pm","person":"Sam Mcmahon","beers":[2868,2869],"city":"London","location":"Angel","location_confidence":"medium","session":3,"notes":null}
 {"date":"7/3","time":"4:40pm","person":"James 1","beers":[2870,2871,2872],"city":null,"location":"Victoria Park, Meltham","location_confidence":"high","session":3,"notes":null}

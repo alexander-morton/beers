@@ -104,7 +104,7 @@
 {"date":"13/3","time":"10:06pm","person":"Phil","beers":[3297],"city":"Worcester","location":null,"location_confidence":"medium","session":6,"notes":null}
 {"date":"13/3","time":"10:28pm","person":"Harry Church","beers":[3298],"city":"Chicago","location":null,"location_confidence":"high","session":6,"notes":null}
 {"date":"13/3","time":"10:50pm","person":"Tom Nicholl","beers":[3299,3300,3301],"city":"San Sebastian","location":"Bondi Icebergs","location_confidence":"high","session":6,"notes":"Venue name 'Bondi Icebergs' appears to be a bar name in San Sebastian, not the Sydney location"}
-{"date":"13/3","time":"11:01pm","person":"Jess - That Ran In Italy That One Time","beers":[3302,3303],"city":"London","location":"Wetherspoons","location_confidence":"high","session":6,"notes":null}
+{"date":"13/3","time":"11:01pm","person":"Jess 1","beers":[3302,3303],"city":"London","location":"Wetherspoons","location_confidence":"high","session":6,"notes":null}
 {"date":"13/3","time":"11:25pm","person":"Sam Mcmahon","beers":[3304,3305,3306,3307,3308],"city":"San Sebastian","location":"Bondi Icebergs","location_confidence":"high","session":6,"notes":null}
 {"date":"13/3","time":"11:31pm","person":"Harry Church","beers":[3309,3310,3311,3312],"city":"Chicago","location":"Wills","location_confidence":"high","session":6,"notes":null}
 {"date":"14/3","time":"12:03am","person":"Mitchell Schoffro","beers":[3313],"city":"Toronto","location":"Future Bistro","location_confidence":"high","session":6,"notes":null}
@@ -150,7 +150,7 @@
 {"date":"14/3","time":"2:15pm","person":"Sam Mcmahon","beers":[3397,3398,3399,3400,3401],"city":"San Sebastian","location":null,"location_confidence":"medium","session":6,"notes":null}
 {"date":"14/3","time":"2:16pm","person":"Em Allen","beers":[3402,3403,3404,3405,3406,3407,3408],"city":"Galway","location":null,"location_confidence":"medium","session":6,"notes":null}
 {"date":"14/3","time":"2:17pm","person":"Mark 🔴⚪️","beers":[3409],"city":"London","location":"W.B. Yeats","location_confidence":"high","session":6,"notes":null}
-{"date":"14/3","time":"2:32pm","person":"Gay Ben","beers":[3411],"city":"Cardiff","location":"Flowerhorn","location_confidence":"high","session":6,"notes":"Gap at 3410 — Jamie Spirgi posted at 2:26pm with location 'Diversey, Chicago' but no beer number"}
+{"date":"14/3","time":"2:32pm","person":"Ben 1","beers":[3411],"city":"Cardiff","location":"Flowerhorn","location_confidence":"high","session":6,"notes":"Gap at 3410 — Jamie Spirgi posted at 2:26pm with location 'Diversey, Chicago' but no beer number"}
 {"date":"14/3","time":"2:35pm","person":"Abbie","beers":[3412,3413,3414,3415],"city":"Les Deux Alpes","location":null,"location_confidence":"high","session":6,"notes":"Location: Les 2 Alpes, France"}
 {"date":"14/3","time":"2:36pm","person":"Mark McCarthy","beers":[3416,3417],"city":"London","location":"AFC Tavern","location_confidence":"high","session":6,"notes":"Location from continuation line"}
 {"date":"14/3","time":"2:51pm","person":"Nick Cunningham","beers":[3418,3419],"city":"London","location":"Park Tavern","location_confidence":"high","session":6,"notes":null}
