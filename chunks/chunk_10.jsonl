@@ -24,7 +24,7 @@
 {"date":"15/3","time":"4:58am","person":"Christian Packard","beers":[3622],"city":"New York","location":"Valhalla","location_confidence":"high","session":1,"notes":null}
 {"date":"15/3","time":"5:26am","person":"Marc","beers":[3623,3624],"city":"Montreal","location":null,"location_confidence":"high","session":1,"notes":"Location written as 'MTL'"}
 {"date":"15/3","time":"5:40am","person":"Ben Furby","beers":[3625,3626],"city":"Sydney","location":"Nag's Head, Glebe","location_confidence":"medium","session":1,"notes":null}
-{"date":"15/3","time":"7:41am","person":"Dan - Quiet Dan","beers":[3627],"city":null,"location":"Hamilton Island","location_confidence":"high","session":1,"notes":null}
+{"date":"15/3","time":"7:41am","person":"Dan (UK) 2","beers":[3627],"city":null,"location":"Hamilton Island","location_confidence":"high","session":1,"notes":null}
 {"date":"15/3","time":"12:12pm","person":"Dave Brewer","beers":[3628,3629],"city":null,"location":"Allhallows","location_confidence":"high","session":2,"notes":null}
 {"date":"15/3","time":"12:36pm","person":"Tom Nicholl","beers":[3630],"city":"San Sebastián","location":null,"location_confidence":"high","session":2,"notes":null}
 {"date":"15/3","time":"1:27pm","person":"Paul","beers":[3631,3632,3633],"city":"San Sebastián","location":null,"location_confidence":"high","session":2,"notes":"Location written as 'San Sebby'"}

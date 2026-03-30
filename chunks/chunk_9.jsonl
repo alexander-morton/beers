@@ -14,7 +14,7 @@
 {"date":"10/3","time":"7:22pm","person":"Rich","beers":[3119],"city":"London","location":"train","location_confidence":"medium","session":4,"notes":null}
 {"date":"10/3","time":"8:05pm","person":"Tom Nicholl","beers":[3120,3121,3122,3123],"city":"London","location":"Parakeet","location_confidence":"high","session":4,"notes":null}
 {"date":"10/3","time":"8:05pm","person":"Josh","beers":[3124],"city":"London","location":"train","location_confidence":"high","session":4,"notes":null}
-{"date":"10/3","time":"8:35pm","person":"Dan - Quiet Dan","beers":[3125],"city":"London","location":"Heathrow","location_confidence":"high","session":4,"notes":null}
+{"date":"10/3","time":"8:35pm","person":"Dan (UK) 2","beers":[3125],"city":"London","location":"Heathrow","location_confidence":"high","session":4,"notes":null}
 {"date":"10/3","time":"9:04pm","person":"Sam Mcmahon","beers":[3126,3127,3128,3129,3130],"city":"London","location":"Parakeet","location_confidence":"high","session":4,"notes":null}
 {"date":"10/3","time":"9:16pm","person":"Boby Brooks","beers":[3131],"city":null,"location":null,"location_confidence":"high","session":4,"notes":"Somewhere between London and Hong Kong (in flight)"}
 {"date":"10/3","time":"9:59pm","person":"Mitchell Schoffro","beers":[3132],"city":"Toronto","location":null,"location_confidence":"high","session":4,"notes":null}
@@ -35,7 +35,7 @@
 {"date":"12/3","time":"5:17pm","person":"Lydia McKay","beers":[3152,3153,3154],"city":"London","location":null,"location_confidence":"low","session":6,"notes":null}
 {"date":"12/3","time":"5:18pm","person":"Mik","beers":[3155],"city":"London","location":"Clapham","location_confidence":"high","session":6,"notes":null}
 {"date":"12/3","time":"5:19pm","person":"Kev Morrissey","beers":[3156],"city":"Arnold","location":null,"location_confidence":"high","session":6,"notes":null}
-{"date":"12/3","time":"5:25pm","person":"Dan - Less Popular","beers":[3157],"city":"London","location":"Clapham North","location_confidence":"high","session":6,"notes":null}
+{"date":"12/3","time":"5:25pm","person":"Dan (UK)","beers":[3157],"city":"London","location":"Clapham North","location_confidence":"high","session":6,"notes":null}
 {"date":"12/3","time":"6:41pm","person":"Jack","beers":[3158],"city":"London","location":"Alley Cats","location_confidence":"high","session":6,"notes":null}
 {"date":"12/3","time":"6:47pm","person":"Joel Slater","beers":[3159,3160],"city":"London","location":"Canonbury","location_confidence":"high","session":6,"notes":"Date night"}
 {"date":"12/3","time":"6:53pm","person":"Lydia McKay","beers":[3161],"city":"London","location":"Sir Sydney Smith","location_confidence":"high","session":6,"notes":null}
@@ -49,13 +49,13 @@
 {"date":"12/3","time":"9:55pm","person":"Benjamin Alcock","beers":[3171],"city":"Bristol","location":null,"location_confidence":"high","session":6,"notes":"Posted as 3621; Ben Furby issued correction to 3171 at 9:59pm, confirming this number"}
 {"date":"12/3","time":"11:20pm","person":"Cam Schoffro","beers":[3172],"city":null,"location":null,"location_confidence":"low","session":6,"notes":null}
 {"date":"13/3","time":"1:19am","person":"Andre","beers":[3173],"city":null,"location":null,"location_confidence":"high","session":6,"notes":"Location stated as North America"}
-{"date":"13/3","time":"2:17am","person":"Dan - Quiet Dan","beers":[3174],"city":"Sydney","location":"Darling Harbour","location_confidence":"high","session":6,"notes":null}
+{"date":"13/3","time":"2:17am","person":"Dan (UK) 2","beers":[3174],"city":"Sydney","location":"Darling Harbour","location_confidence":"high","session":6,"notes":null}
 {"date":"13/3","time":"5:54am","person":"Mik","beers":[3175,3176,3177,3178],"city":"London","location":"Stansted airport","location_confidence":"high","session":6,"notes":null}
 {"date":"13/3","time":"7:37am","person":"Ben Furby","beers":[3179],"city":"Sydney","location":"Camperdown","location_confidence":"high","session":6,"notes":null}
 {"date":"13/3","time":"8:07am","person":"Boby Brooks","beers":[3180,3181,3182,3183],"city":"Sydney","location":"Bill Barry's North Sydney","location_confidence":"high","session":6,"notes":null}
-{"date":"13/3","time":"8:10am","person":"Dan - Quiet Dan","beers":[3184],"city":"Sydney","location":"Leura","location_confidence":"high","session":6,"notes":null}
+{"date":"13/3","time":"8:10am","person":"Dan (UK) 2","beers":[3184],"city":"Sydney","location":"Leura","location_confidence":"high","session":6,"notes":null}
 {"date":"13/3","time":"8:16am","person":"Boby Brooks","beers":[3185,3186,3187,3188,3189,3190],"city":"Sydney","location":"Bill Barry's North Sydney","location_confidence":"medium","session":6,"notes":"Same place as 3180-3183"}
-{"date":"13/3","time":"8:24am","person":"Dan - Quiet Dan","beers":[3191],"city":"Sydney","location":"Barangaroo","location_confidence":"high","session":6,"notes":null}
+{"date":"13/3","time":"8:24am","person":"Dan (UK) 2","beers":[3191],"city":"Sydney","location":"Barangaroo","location_confidence":"high","session":6,"notes":null}
 {"date":"13/3","time":"10:57am","person":"Tom Nicholl","beers":[3192,3193],"city":"London","location":"Gatwick","location_confidence":"high","session":6,"notes":"Posted as 'scatwick' — interpreted as Gatwick"}
 {"date":"13/3","time":"10:59am","person":"Louis","beers":[3194,3195,3196],"city":"Sydney","location":"North Sydney","location_confidence":"high","session":6,"notes":"Posted as '3124-3196' — clearly a typo for 3194-3196 (3 beers, fits sequence)"}
 {"date":"13/3","time":"11:41am","person":"Sam Mcmahon","beers":[3197,3198],"city":"London","location":"Gatwick airport","location_confidence":"high","session":6,"notes":null}
@@ -108,7 +108,7 @@
 {"date":"13/3","time":"11:25pm","person":"Sam Mcmahon","beers":[3304,3305,3306,3307,3308],"city":"San Sebastian","location":"Bondi Icebergs","location_confidence":"high","session":6,"notes":null}
 {"date":"13/3","time":"11:31pm","person":"Harry Church","beers":[3309,3310,3311,3312],"city":"Chicago","location":"Wills","location_confidence":"high","session":6,"notes":null}
 {"date":"14/3","time":"12:03am","person":"Mitchell Schoffro","beers":[3313],"city":"Toronto","location":"Future Bistro","location_confidence":"high","session":6,"notes":null}
-{"date":"14/3","time":"12:11am","person":"Dan - Less Popular","beers":[3314,3315],"city":"London","location":"Clapham","location_confidence":"high","session":6,"notes":null}
+{"date":"14/3","time":"12:11am","person":"Dan (UK)","beers":[3314,3315],"city":"London","location":"Clapham","location_confidence":"high","session":6,"notes":null}
 {"date":"14/3","time":"12:23am","person":"Imogen","beers":[3316,3317],"city":"Montreal","location":"Mellön Brasserie","location_confidence":"high","session":6,"notes":null}
 {"date":"14/3","time":"12:30am","person":"Tom Nicholl","beers":[3318,3319,3320],"city":"San Sebastian","location":null,"location_confidence":"medium","session":6,"notes":null}
 {"date":"14/3","time":"12:31am","person":"Luke L","beers":[3321,3322],"city":"Toronto","location":"Crafty Coyote","location_confidence":"high","session":6,"notes":null}

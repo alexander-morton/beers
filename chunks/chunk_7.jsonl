@@ -53,7 +53,7 @@
 {"date":"28/2","time":"4:22pm","person":"Chelsea Wilkins","beers":[2362],"city":null,"location":"Salamander, Bath","location_confidence":"high","session":1,"notes":null}
 {"date":"28/2","time":"4:44pm","person":"Tom Nicholl","beers":[2364,2365],"city":"London","location":"Canonbury","location_confidence":"high","session":1,"notes":"2363 unaccounted for; Dave Brewer posted at 4:28pm with location 'Allhallows UK' but no beer number"}
 {"date":"28/2","time":"4:44pm","person":"Sam","beers":[2366,2367,2368,2369],"city":"London","location":"Westminster","location_confidence":"high","session":1,"notes":"Wrote '2366-2369'"}
-{"date":"28/2","time":"4:45pm","person":"Dan - Less Popular","beers":[2370],"city":"London","location":"Clapham North","location_confidence":"high","session":1,"notes":null}
+{"date":"28/2","time":"4:45pm","person":"Dan (UK)","beers":[2370],"city":"London","location":"Clapham North","location_confidence":"high","session":1,"notes":null}
 {"date":"28/2","time":"4:47pm","person":"Jack","beers":[2371],"city":null,"location":"Wales","location_confidence":"medium","session":1,"notes":null}
 {"date":"28/2","time":"4:47pm","person":"Thom","beers":[2372,2373,2374],"city":"London","location":"Snooty Fox","location_confidence":"high","session":1,"notes":"Wrote 'ingerland' — England football context"}
 {"date":"28/2","time":"4:50pm","person":"Sam Mcmahon","beers":[2375],"city":"London","location":"Mossy Well","location_confidence":"medium","session":1,"notes":"Wrote 'mosey well' — likely same as 'Mossy Well'"}
@@ -149,7 +149,7 @@
 {"date":"3/3","time":"1:46am","person":"Alana","beers":[2540,2541],"city":null,"location":"Marahau, NZ","location_confidence":"high","session":3,"notes":null}
 {"date":"3/3","time":"3:26am","person":"Andre","beers":[2542],"city":null,"location":null,"location_confidence":"low","session":3,"notes":"Wrote 'Great White North' — somewhere in Canada"}
 {"date":"3/3","time":"1:00pm","person":"Jack Brewer","beers":[2543],"city":null,"location":"Tenterden, UK","location_confidence":"high","session":4,"notes":null}
-{"date":"3/3","time":"5:41pm","person":"Dan - Less Popular","beers":[2544],"city":"London","location":"Clapham","location_confidence":"high","session":5,"notes":null}
+{"date":"3/3","time":"5:41pm","person":"Dan (UK)","beers":[2544],"city":"London","location":"Clapham","location_confidence":"high","session":5,"notes":null}
 {"date":"3/3","time":"7:24pm","person":"Jono Dennis","beers":[2545,2546],"city":null,"location":null,"location_confidence":"low","session":5,"notes":"2547-2565 unaccounted for. Boby Brooks later posted 'Count is 2566*' as correction"}
 {"date":"3/3","time":"7:30pm","person":"Fish","beers":[2457,2458,2459,2460,2461],"city":"London","location":"Waltham Green, Chelsea","location_confidence":"high","session":5,"notes":"Retroactive claim — these numbers were already used: 2457 by Cam Schoffro (1/3 12:53am), 2458-2459 by Marc (1/3 1:28am). Serious numbering conflict"}
 {"date":"3/3","time":"8:00pm","person":"Jess Manzo","beers":[2462,2463],"city":"London","location":"The Lord Stanley","location_confidence":"high","session":5,"notes":"Retroactive claim — 2460-2466 range was skipped over by others on 1/3. Numbering conflict with existing entries"}
