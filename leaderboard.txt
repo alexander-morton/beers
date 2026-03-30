@@ -122,7 +122,7 @@ RANK | PERSON | BEERS
 120 | Sofia | 6
 121 | Iris Fraser | 6
 122 | Ryan Jones | 6
-123 | Dan - Less Popular | 6
+123 | Dan (UK) | 6
 124 | Dann Moreno | 6
 125 | Jeremy Pollicina | 6
 126 | Jesse Christian | 6
@@ -139,7 +139,7 @@ RANK | PERSON | BEERS
 137 | James 1 | 5
 138 | Will Choy | 5
 139 | Oliver Price | 5
-140 | Dan - Quiet Dan | 5
+140 | Dan (UK) 2 | 5
 141 | Louis | 5
 142 | James Vyse | 5
 143 | Tom Neaverson | 5

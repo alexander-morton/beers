@@ -43,15 +43,37 @@ def is_system(sender, content):
         return True
     return False
 
-TS_RE = re.compile(
+# Old format: [8/2/2026, 6:01:32 am]  (12h with am/pm)
+TS_RE_12H = re.compile(
     r'\[(\d{1,2}/\d{1,2})/2026,\s*(\d{1,2}:\d{2}):\d{2}\s*(am|pm)\]'
+)
+# New format: [30/03/2026, 04:54:36]  (24h, zero-padded, no am/pm)
+TS_RE_24H = re.compile(
+    r'\[(\d{2}/\d{2})/2026,\s*(\d{2}):(\d{2}):\d{2}\]'
 )
 
 def compact_timestamp(line):
-    return TS_RE.sub(lambda m: f'{m.group(1)} {m.group(2)}{m.group(3)}', line)
+    def fmt_12h(m):
+        # strip leading zeros: "08/02" → "8/2"
+        day, month = m.group(1).split('/')
+        date = f'{int(day)}/{int(month)}'
+        return f'{date} {m.group(2)}{m.group(3)}'
+
+    def fmt_24h(m):
+        day, month = m.group(1).split('/')
+        date = f'{int(day)}/{int(month)}'
+        hour, minute = int(m.group(2)), m.group(3)
+        suffix = 'am' if hour < 12 else 'pm'
+        hour12 = hour % 12 or 12
+        return f'{date} {hour12}:{minute}{suffix}'
+
+    line = TS_RE_12H.sub(fmt_12h, line)
+    line = TS_RE_24H.sub(fmt_24h, line)
+    return line
 
 def clean_line(line):
     line = strip_control(line)
+    line = line.replace('\u202f', ' ')  # narrow no-break space → regular space (new WhatsApp format)
     line = re.sub(r'\s*image omitted\s*$', '', line)
     line = re.sub(r'\s*video omitted\s*$', '', line)
     line = re.sub(r'\s*GIF omitted\s*$', '', line)

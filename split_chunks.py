@@ -15,7 +15,8 @@ chunks = [
     ("chunk_8.txt",   1676, 1891, "Mar 6  - Mar 8"),
     ("chunk_9.txt",   1891, 2132, "Mar 9  - Mar 14"),
     ("chunk_10.txt",  2132, 2457, "Mar 15 - Mar 20"),
-    ("chunk_11.txt",  2457, len(lines), "Mar 21 - Mar 23"),
+    ("chunk_11.txt",  2457, 2654, "Mar 21 - Mar 23"),
+    ("chunk_12.txt",  2654, len(lines), "Mar 24 - Mar 30"),
 ]
 
 os.makedirs('chunks', exist_ok=True)
