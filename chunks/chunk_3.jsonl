@@ -204,7 +204,7 @@
 {"date":"8/2","time":"6:03am","person":"Sam","beers":[1068,1069,1070,1071],"city":"Tokyo","location":"Kirin City, Ginza","location_confidence":"medium","session":8,"notes":"Original: '1068, 69, 70, 71' — expanded to 1068-1071."}
 {"date":"8/2","time":"6:04am","person":"Sam","beers":[1072,1073,1074,1075],"city":"Tokyo","location":"Kirin City, Ginza","location_confidence":"medium","session":8,"notes":"Original: '1072, 73, 74 75' — expanded to 1072-1075."}
 {"date":"8/2","time":"8:47am","person":"Vinay","beers":[1076,1077,1078],"city":"Bangalore","location":null,"location_confidence":"high","session":8,"notes":"Double-posted identical message at 8:47am and 8:51am. Counted once. Note: Vinay listed as New York/Brooklyn-based but this message explicitly states Bangalore with Indian flag emoji."}
-{"date":"8/2","time":"8:48am","person":"Will Salter","beers":[1079],"city":"Australia","location":"Rainbow Beach","location_confidence":"high","session":8,"notes":null}
+{"date":"8/2","time":"8:48am","person":"Will Salter","beers":[1079],"city":"Rainbow Beach","location":"Rainbow Beach","location_confidence":"high","session":8,"notes":null}
 {"date":"8/2","time":"9:44am","person":"Michael Schmid","beers":[1080],"city":"Tokyo","location":null,"location_confidence":"medium","session":8,"notes":"Stated 'beer on the rice cooker'."}
 {"date":"8/2","time":"11:26am","person":"CJ Gunther","beers":[1081,1082,1083,1084],"city":"Tokyo","location":"Shinjuku","location_confidence":"high","session":8,"notes":"Location 'Shinjuku Tokyo' on continuation line. Original: '1081,82,83,84' — expanded to 1081-1084."}
 {"date":"8/2","time":"12:14pm","person":"keith🍂","beers":[1085],"city":"Singapore","location":null,"location_confidence":"high","session":8,"notes":null}
