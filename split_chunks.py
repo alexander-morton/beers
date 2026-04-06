@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
 import os
+import re
 
-with open('_chat_cleaned.txt', 'r') as f:
-    lines = f.readlines()
+MAX_CHUNK = 300
 
-chunks = [
+with open('_chat_cleaned.txt', 'r') as fh:
+    lines = fh.readlines()
+
+# Original 12 chunks — hardcoded line ranges (0-indexed start, end).
+# These are already parsed into .jsonl files — DO NOT rewrite their .txt files.
+original_chunks = [
     ("chunk_1.txt",   0,    217,  "Jan 7  - Jan 23"),
     ("chunk_2.txt",   217,  471,  "Jan 24 - Jan 30"),
     ("chunk_3.txt",   471,  756,  "Jan 31 - Feb 8"),
@@ -16,13 +21,55 @@ chunks = [
     ("chunk_9.txt",   1891, 2132, "Mar 9  - Mar 14"),
     ("chunk_10.txt",  2132, 2457, "Mar 15 - Mar 20"),
     ("chunk_11.txt",  2457, 2654, "Mar 21 - Mar 23"),
-    ("chunk_12.txt",  2654, len(lines), "Mar 24 - Mar 30"),
+    ("chunk_12.txt",  2654, 2988, "Mar 24 - Mar 30"),
+    ("chunk_13.txt",  2988, 3288, "Mar 30 - Apr 3"),
+    ("chunk_14.txt",  3288, 3588, "Apr 3  - Apr 5"),
+    ("chunk_15.txt",  3588, 3717, "Apr 5  - Apr 6"),
 ]
 
+# Derive auto-split start from the table above — never hardcode separately
+auto_start = original_chunks[-1][2]
+
+DATE_RE = re.compile(r'^(\d{1,2}/\d{1,2})\s')
+
+def get_date(line):
+    m = DATE_RE.match(line)
+    return m.group(1) if m else None
+
+# Auto-split new content into max MAX_CHUNK lines each
+new_chunks = []
+start = auto_start
+chunk_num = len(original_chunks) + 1
+while start < len(lines):
+    end = min(start + MAX_CHUNK, len(lines))
+    chunk_lines = lines[start:end]
+    dates = [get_date(l) for l in chunk_lines if get_date(l)]
+    first_date = dates[0] if dates else "?"
+    last_date  = dates[-1] if dates else "?"
+    desc = first_date if first_date == last_date else f"{first_date} - {last_date}"
+    new_chunks.append((f"chunk_{chunk_num}.txt", start, end, desc))
+    chunk_num += 1
+    start = end
+
 os.makedirs('chunks', exist_ok=True)
-for name, start, end, desc in chunks:
-    chunk = lines[start:end]
-    path = f'chunks/{name}'
-    with open(path, 'w') as f:
-        f.writelines(chunk)
+
+# Remove only auto-split .txt files (chunk_13+) — never touch the originals
+for fname in os.listdir('chunks'):
+    if not (fname.startswith('chunk_') and fname.endswith('.txt')):
+        continue
+    num = fname[len('chunk_'):-len('.txt')]
+    if num.isdigit() and int(num) > len(original_chunks):
+        os.remove(f'chunks/{fname}')
+
+# Write only the new auto-split chunks
+for name, start, end, desc in new_chunks:
+    with open(f'chunks/{name}', 'w') as fh:
+        fh.writelines(lines[start:end])
     print(f"{name}: lines {start+1}-{end} ({end-start} lines) — {desc}")
+
+# Print summary of original chunks too (read-only, not rewritten)
+print("\nOriginal chunks (not rewritten):")
+for name, start, end, desc in original_chunks:
+    print(f"  {name}: lines {start+1}-{end} ({end-start} lines) — {desc}")
+
+print(f"\nTotal: {len(original_chunks) + len(new_chunks)} chunks from {len(lines)} lines")

@@ -4,6 +4,11 @@ import {
   CartesianGrid, Tooltip, ReferenceLine,
 } from 'recharts'
 
+function parseIsoDateUTC(dateStr) {
+  const [year, month, day] = dateStr.split('-').map(Number)
+  return new Date(Date.UTC(year, month - 1, day))
+}
+
 function groupByDay(data) {
   const map = {}
   for (const entry of data) {
@@ -28,10 +33,11 @@ function groupByDay(data) {
 function groupByWeek(data) {
   const map = {}
   for (const entry of data) {
-    const d = new Date(entry.isoDate)
-    const day = d.getDay()
-    const diff = d.getDate() - day + (day === 0 ? -6 : 1)
-    const monday = new Date(d.setDate(diff))
+    const d = parseIsoDateUTC(entry.isoDate)
+    const day = d.getUTCDay()
+    const diff = day === 0 ? -6 : 1 - day
+    d.setUTCDate(d.getUTCDate() + diff)
+    const monday = d
     const key = monday.toISOString().slice(0, 10)
     if (!map[key]) map[key] = 0
     map[key] += entry.beers.length
@@ -41,10 +47,11 @@ function groupByWeek(data) {
     .map(([date, beers]) => ({ date, beers }))
   // Drop the last week if it's incomplete (its Sunday hasn't passed yet)
   if (weeks.length) {
-    const today = new Date('2026-03-25')
-    const lastMonday = new Date(weeks[weeks.length - 1].date)
+    const now = new Date()
+    const today = new Date(Date.UTC(now.getFullYear(), now.getMonth(), now.getDate()))
+    const lastMonday = parseIsoDateUTC(weeks[weeks.length - 1].date)
     const lastSunday = new Date(lastMonday)
-    lastSunday.setDate(lastMonday.getDate() + 6)
+    lastSunday.setUTCDate(lastMonday.getUTCDate() + 6)
     if (lastSunday >= today) weeks.pop()
   }
   return weeks

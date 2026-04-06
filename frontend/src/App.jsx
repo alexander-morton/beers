@@ -3,12 +3,23 @@ import beersData from './data/beers.json'
 import WorldMap from './components/WorldMap'
 import VelocityChart from './components/VelocityChart'
 
-const LAST_UPDATED = '2026-03-30'
+const LAST_UPDATED = '2026-04-06'
 const MEDALS = ['🥇', '🥈', '🥉']
 const GOAL = 1_000_000
 
+function parseIsoDateUTC(dateStr) {
+  const [year, month, day] = dateStr.split('-').map(Number)
+  return new Date(Date.UTC(year, month - 1, day))
+}
+
+function shiftIsoDate(dateStr, days) {
+  const d = parseIsoDateUTC(dateStr)
+  d.setUTCDate(d.getUTCDate() + days)
+  return d.toISOString().slice(0, 10)
+}
+
 function computeProjection(data) {
-  const now = new Date("2026-03-30")
+  const now = new Date("2026-04-06")
   const cutoff = new Date(now)
   cutoff.setDate(now.getDate() - 30)
 
@@ -31,13 +42,17 @@ function computeProjection(data) {
   }
 }
 
-function filterByPeriod(data, period) {
-  if (period === 'all') return data
-  const now = new Date("2026-03-30")
+function filterByPeriod(data, period, anchorDate = LAST_UPDATED) {
+  const now = parseIsoDateUTC(anchorDate)
   const cutoff = new Date(now)
-  if (period === 'week') cutoff.setDate(now.getDate() - 7)
-  if (period === 'month') cutoff.setMonth(now.getMonth() - 1)
-  return data.filter(e => new Date(e.isoDate) >= cutoff)
+  if (period === 'week') cutoff.setUTCDate(now.getUTCDate() - 7)
+  if (period === 'month') cutoff.setUTCMonth(now.getUTCMonth() - 1)
+  return data.filter((entry) => {
+    const entryDate = parseIsoDateUTC(entry.isoDate)
+    if (entryDate > now) return false
+    if (period === 'all') return true
+    return entryDate >= cutoff
+  })
 }
 
 function computeTotalBeers(data) {
@@ -71,6 +86,10 @@ function computePosts(data) {
   return Object.values(map).sort((a, b) => b.count - a.count)
 }
 
+function buildRankMap(rows) {
+  return Object.fromEntries(rows.map((row, index) => [row.person, index + 1]))
+}
+
 function StatCard({ label, value }) {
   return (
     <div style={{
@@ -93,9 +112,19 @@ function StatCard({ label, value }) {
   )
 }
 
-function LeaderboardRow({ rank, person, count, barMax, label, delay }) {
+function LeaderboardRow({ rank, rankChange, showRankChange, person, count, barMax, label, delay }) {
   const isTop3 = rank <= 3
   const pct = Math.max(4, (count / barMax) * 100)
+  const movementLabel =
+    rankChange === null ? 'new'
+    : rankChange > 0 ? `↑${rankChange}`
+    : rankChange < 0 ? `↓${Math.abs(rankChange)}`
+    : '='
+  const movementColor =
+    rankChange === null ? '#7dd3fc'
+    : rankChange > 0 ? '#86efac'
+    : rankChange < 0 ? '#fca5a5'
+    : '#78350f'
 
   const borderColor =
     rank === 1 ? 'rgba(251,191,36,0.5)'
@@ -134,11 +163,18 @@ function LeaderboardRow({ rank, person, count, barMax, label, delay }) {
       onMouseLeave={e => e.currentTarget.style.transform = 'scale(1)'}
     >
       {/* Rank */}
-      <div style={{ width: '32px', textAlign: 'center', flexShrink: 0 }}>
-        {rank <= 3
-          ? <span style={{ fontSize: '1.25rem' }}>{MEDALS[rank - 1]}</span>
-          : <span style={{ fontSize: '0.75rem', fontFamily: 'monospace', color: '#92400e' }}>#{rank}</span>
-        }
+      <div style={{ width: '44px', textAlign: 'center', flexShrink: 0 }}>
+        <div>
+          {rank <= 3
+            ? <span style={{ fontSize: '1.25rem' }}>{MEDALS[rank - 1]}</span>
+            : <span style={{ fontSize: '0.75rem', fontFamily: 'monospace', color: '#92400e' }}>#{rank}</span>
+          }
+        </div>
+        {showRankChange && (
+          <div style={{ fontSize: '0.62rem', fontFamily: 'monospace', color: movementColor, marginTop: '3px' }}>
+            {movementLabel}
+          </div>
+        )}
       </div>
 
       {/* Name + bar */}
@@ -183,19 +219,36 @@ export default function App() {
   const [period, setPeriod] = useState('all')
   const [search, setSearch] = useState('')
 
-  const filtered = useMemo(() => filterByPeriod(beersData, period), [period])
+  const filtered = useMemo(() => filterByPeriod(beersData, period, LAST_UPDATED), [period])
+  const previousFiltered = useMemo(() => filterByPeriod(beersData, period, shiftIsoDate(LAST_UPDATED, -7)), [period])
   const totalRows = useMemo(() => computeTotalBeers(filtered), [filtered])
   const postRows = useMemo(() => computePosts(filtered), [filtered])
+  const previousTotalRows = useMemo(() => computeTotalBeers(previousFiltered), [previousFiltered])
+  const previousPostRows = useMemo(() => computePosts(previousFiltered), [previousFiltered])
+  const previousRankMap = useMemo(
+    () => buildRankMap(tab === 'total' ? previousTotalRows : previousPostRows),
+    [tab, previousTotalRows, previousPostRows],
+  )
 
-  const baseRows = (tab === 'total' ? totalRows : postRows).map((r, i) => ({ ...r, rank: i + 1 }))
+  const baseRows = (tab === 'total' ? totalRows : postRows).map((row, index) => {
+    const rank = index + 1
+    const previousRank = previousRankMap[row.person]
+    return {
+      ...row,
+      rank,
+      rankChange: previousRank ? previousRank - rank : null,
+    }
+  })
   const rows = search.trim()
     ? baseRows.filter(r => r.person.toLowerCase().includes(search.trim().toLowerCase()))
     : baseRows
   const barMax = baseRows[0]?.count ?? 1
+  const showRankChange = period !== 'week'
 
   const lastBeerNum = useMemo(() => Math.max(...beersData.flatMap(e => e.beers)), [])
   const totalPeople = useMemo(() => new Set(beersData.map(e => e.person)).size, [])
   const projection = useMemo(() => computeProjection(beersData), [])
+  const trueBeerCount = useMemo(() => beersData.reduce((sum, entry) => sum + entry.beers.length, 0), [])
 
   const periodBeers = useMemo(() => filtered.reduce((s, e) => s + e.beers.length, 0), [filtered])
   const periodPeople = useMemo(() => new Set(filtered.map(e => e.person)).size, [filtered])
@@ -281,7 +334,7 @@ export default function App() {
           <StatCard label="Contributors" value={totalPeople} />
         </div>
         <p style={{ textAlign: 'center', fontSize: '0.7rem', color: '#78350f', marginBottom: '28px' }}>
-          true total is 5,037 due to skipped numbers &amp; duplicate claims
+          true total is {trueBeerCount.toLocaleString()} due to skipped numbers &amp; duplicate claims
         </p>
 
         {/* ── LEADERBOARD PAGE ── */}
@@ -377,6 +430,11 @@ export default function App() {
                 ? 'Ranked by total beers claimed across all posts'
                 : 'Ranked by number of messages posted claiming any amount of beers'}
             </p>
+            {showRankChange && (
+              <p style={{ textAlign: 'center', fontSize: '0.68rem', color: '#6b3412', marginTop: '-8px', marginBottom: '16px' }}>
+                Place change is vs 7 days earlier
+              </p>
+            )}
 
             <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
               {rows.length === 0
@@ -385,6 +443,8 @@ export default function App() {
                   <LeaderboardRow
                     key={`${tab}-${period}-${row.person}`}
                     rank={row.rank}
+                    rankChange={row.rankChange}
+                    showRankChange={showRankChange}
                     person={row.person}
                     count={row.count}
                     barMax={barMax}
