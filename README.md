@@ -76,6 +76,8 @@ For each new chunk, give the agent:
 - Count resets announced by Alex Morton or Ben Furby — these are ground truth, correct all subsequent entries accordingly
 - Multi-line messages (venue on next line) — combine into one entry
 
+After parsing all new chunks, **add them to the hardcoded table in `split_chunks.py`** so they're frozen for next week. Copy the auto-split line ranges from the script output and add entries to `original_chunks`. Then update the description in the Chunk housekeeping section below.
+
 ---
 
 ### 6. Rebuild beers.jsonl and beers.json
@@ -131,12 +133,11 @@ EOF
 
 ### 7. Update the hardcoded date in App.jsx
 
-Open `frontend/src/App.jsx` and update **three** occurrences of the date (lines 6, 11, 36):
+Open `frontend/src/App.jsx` and update **two** occurrences of the date:
 
 ```js
-const LAST_UPDATED = 'YYYY-MM-DD'   // line 6  — shown in header
-const now = new Date("YYYY-MM-DD")  // line 11 — projection calculation
-const now = new Date("YYYY-MM-DD")  // line 36 — period filtering
+const LAST_UPDATED = 'YYYY-MM-DD'   // line 6  — shown in header & used by filterByPeriod
+const now = new Date("YYYY-MM-DD")  // line ~22 — projection calculation
 ```
 
 Replace with today's date in `YYYY-MM-DD` format.
@@ -162,9 +163,9 @@ git push
 
 ## Chunk housekeeping
 
-- **Parsed chunks are frozen.** Currently 1–15 are in the hardcoded table. Their `.txt` files are never rewritten by `split_chunks.py`. Once you've parsed a chunk's `.jsonl`, add it to the hardcoded table so the auto-split starts from the next one.
-- **Auto-split start** is always taken from the `end` value of the last hardcoded chunk (currently `2988`). If you ever add a new hardcoded entry to the table, the auto-split will automatically follow from there — no separate variable to update.
-- **If the cleaned file shifts** (e.g. `clean_tokens.py` is changed in a way that affects old data), verify that line 2988 of `_chat_cleaned.txt` still falls within `30/3` content before running the script. Run `sed -n '2988p' _chat_cleaned.txt` to check.
+- **Parsed chunks are frozen.** Currently 1–18 are in the hardcoded table. Their `.txt` files are never rewritten by `split_chunks.py`. Once you've parsed a chunk's `.jsonl`, add it to the hardcoded table so the auto-split starts from the next one.
+- **Auto-split start** is always taken from the `end` value of the last hardcoded chunk (currently line `4404`). If you ever add a new hardcoded entry to the table, the auto-split will automatically follow from there — no separate variable to update.
+- **If the cleaned file shifts** (e.g. `clean_tokens.py` is changed in a way that affects old data), verify that line 4404 of `_chat_cleaned.txt` still falls within `13/4` content before running the script. Run `sed -n '4404p' _chat_cleaned.txt` to check.
 
 ---
 
