@@ -28,6 +28,9 @@ original_chunks = [
     ("chunk_16.txt",  3717, 4017, "Apr 6  - Apr 10"),
     ("chunk_17.txt",  4017, 4317, "Apr 10 - Apr 12"),
     ("chunk_18.txt",  4317, 4404, "Apr 12 - Apr 13"),
+    ("chunk_19.txt",  4404, 4704, "Apr 13 - Apr 18"),
+    ("chunk_20.txt",  4704, 5004, "Apr 18 - Apr 20"),
+    ("chunk_21.txt",  5004, 5063, "Apr 20"),
 ]
 
 # Derive auto-split start from the table above — never hardcode separately
