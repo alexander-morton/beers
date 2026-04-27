@@ -4623,3 +4623,736 @@
 {"date": "20/4", "time": "11:21am", "person": "Lia Woods", "beers": [8386, 8387], "city": "Sydney", "location": "Sydney Airport", "location_confidence": "high", "session": 31, "notes": null}
 {"date": "20/4", "time": "11:33am", "person": "Daniel", "beers": [8388, 8389], "city": "Montreal", "location": "Wunderbar", "location_confidence": "high", "session": 31, "notes": null}
 {"date": "20/4", "time": "2:06pm", "person": "Adrian Johansen", "beers": [8390], "city": "Hawaii", "location": null, "location_confidence": "high", "session": 31, "notes": null}
+{"date": "20/4", "time": "5:35pm", "person": "Chris O'Donnell", "beers": [8391, 8394], "city": "Roma", "location": null, "location_confidence": "high", "session": 31, "notes": "Posted 8391,8394 with gap; 8392 and 8393 are unaccounted for — may be image-only posts. City is Roma QLD."}
+{"date": "20/4", "time": "7:19pm", "person": "Ian", "beers": [8395], "city": "Sydney", "location": null, "location_confidence": "high", "session": 31, "notes": null}
+{"date": "20/4", "time": "10:19pm", "person": "serena", "beers": [8396, 8397], "city": "Guardamar del Segura", "location": null, "location_confidence": "high", "session": 31, "notes": "Location posted as 'guardamar'"}
+{"date": "21/4", "time": "12:08am", "person": "Harry Church", "beers": [8398, 8399], "city": "Boston", "location": "Kenmore", "location_confidence": "high", "session": 32, "notes": null}
+{"date": "21/4", "time": "12:19am", "person": "Maya", "beers": [8400], "city": "Manchester", "location": "Quarter House", "location_confidence": "high", "session": 32, "notes": null}
+{"date": "21/4", "time": "12:19am", "person": "Dominic Santarcangelo", "beers": [8401], "city": "Manchester", "location": "Quarter House", "location_confidence": "high", "session": 32, "notes": null}
+{"date": "21/4", "time": "12:21am", "person": "Harry Church", "beers": [8402, 8403], "city": "Boston", "location": null, "location_confidence": "medium", "session": 32, "notes": "Location posted as 'Boston mara'"}
+{"date": "21/4", "time": "1:49am", "person": "mattyb", "beers": [8404], "city": "London", "location": "Pembury Tavern", "location_confidence": "high", "session": 32, "notes": null}
+{"date": "21/4", "time": "2:46am", "person": "Charlie Roberts", "beers": [8405], "city": "London", "location": "Pembury Tavern", "location_confidence": "high", "session": 32, "notes": null}
+{"date": "21/4", "time": "2:46am", "person": "mattyb", "beers": [8406], "city": "London", "location": "Pembury Tavern", "location_confidence": "high", "session": 32, "notes": null}
+{"date": "21/4", "time": "3:01am", "person": "Summer", "beers": [8407], "city": null, "location": "Wetherspoons", "location_confidence": "high", "session": 32, "notes": "Posted as 'whetherspoons'"}
+{"date": "21/4", "time": "3:57am", "person": "Charlie Roberts", "beers": [8408], "city": "London", "location": "Pembury Tavern", "location_confidence": "high", "session": 32, "notes": "Posted as 'pembury tav'"}
+{"date": "21/4", "time": "4:13am", "person": "jake", "beers": [8409, 8410], "city": "Spain", "location": null, "location_confidence": "high", "session": 32, "notes": null}
+{"date": "21/4", "time": "4:20am", "person": "Andrew M", "beers": [8411, 8412], "city": "Nafplio", "location": null, "location_confidence": "high", "session": 32, "notes": "City posted as 'Nafplion, Greece'"}
+{"date": "21/4", "time": "4:22am", "person": "mattyb", "beers": [8413], "city": "London", "location": "Pembury Tavern", "location_confidence": "high", "session": 32, "notes": null}
+{"date": "21/4", "time": "4:54am", "person": "Tomos Griffiths", "beers": [8414], "city": "London", "location": "The Rake", "location_confidence": "high", "session": 32, "notes": "Location: The Rake, London Bridge"}
+{"date": "21/4", "time": "4:55am", "person": "Marta", "beers": [8415, 8416], "city": null, "location": "home", "location_confidence": "high", "session": 32, "notes": null}
+{"date": "21/4", "time": "5:09am", "person": "Charlie", "beers": [8417], "city": "London", "location": "Marylebone", "location_confidence": "high", "session": 32, "notes": null}
+{"date": "21/4", "time": "5:21am", "person": "Cellan Brady", "beers": [8418], "city": "London", "location": "London Bridge", "location_confidence": "high", "session": 32, "notes": null}
+{"date": "21/4", "time": "5:51am", "person": "Cellan Brady", "beers": [8419, 8420], "city": "London", "location": "London Bridge", "location_confidence": "high", "session": 32, "notes": null}
+{"date": "21/4", "time": "6:05am", "person": "James Vyse", "beers": [8421], "city": "Ruddington", "location": "The Framebreakers", "location_confidence": "high", "session": 32, "notes": "Posted as 'the  framebreakers, Ruddington'"}
+{"date": "21/4", "time": "6:20am", "person": "Elliot", "beers": [8422, 8423], "city": "London", "location": "Bank of Friendship", "location_confidence": "high", "session": 32, "notes": null}
+{"date": "21/4", "time": "6:33am", "person": "Andre", "beers": [8424], "city": null, "location": null, "location_confidence": "low", "session": 32, "notes": "No location given; mentioned Judge Judy and a Dragon Stout"}
+{"date": "21/4", "time": "6:34am", "person": "Phil", "beers": [8425], "city": "London", "location": "Patrick's", "location_confidence": "high", "session": 32, "notes": "Location: Patrick's in Beckenham"}
+{"date": "21/4", "time": "6:41am", "person": "James Vyse", "beers": [8426], "city": "Ruddington", "location": null, "location_confidence": "high", "session": 32, "notes": null}
+{"date": "21/4", "time": "6:51am", "person": "Kev Morrissey", "beers": [8427], "city": "Piacenza", "location": null, "location_confidence": "medium", "session": 32, "notes": "Posted as 'Piacenza, Spain' but Piacenza is in Italy, not Spain — possible error in location"}
+{"date": "21/4", "time": "6:52am", "person": "Ed Sykes", "beers": [8428], "city": "London", "location": "George Inn", "location_confidence": "high", "session": 32, "notes": "Location: George Inn Beckenham"}
+{"date": "21/4", "time": "10:23am", "person": "Matthew", "beers": [8429], "city": null, "location": "Chinatown", "location_confidence": "medium", "session": 32, "notes": null}
+{"date": "21/4", "time": "6:19pm", "person": "Ben Corbett-Jones", "beers": [8430, 8431], "city": "Boston", "location": "Beacon Hill", "location_confidence": "high", "session": 32, "notes": null}
+{"date": "21/4", "time": "6:23pm", "person": "SpagEddy", "beers": [8432], "city": "Sydney", "location": "Narrabeen", "location_confidence": "high", "session": 32, "notes": null}
+{"date": "21/4", "time": "8:11pm", "person": "Rayhan", "beers": [8433, 8434], "city": "Rotterdam", "location": null, "location_confidence": "high", "session": 32, "notes": null}
+{"date": "21/4", "time": "9:11pm", "person": "Cian", "beers": [8439], "city": null, "location": "Thorpe Park", "location_confidence": "high", "session": 32, "notes": "8435-8438 skipped — likely image-only posts not captured in this log"}
+{"date": "21/4", "time": "9:29pm", "person": "Ian", "beers": [8440, 8441], "city": "Sydney", "location": null, "location_confidence": "high", "session": 32, "notes": null}
+{"date": "21/4", "time": "9:52pm", "person": "Tom Neaverson", "beers": [8442], "city": null, "location": "Peel Street", "location_confidence": "medium", "session": 32, "notes": null}
+{"date": "22/4", "time": "2:15am", "person": "Wes - UK WES", "beers": [8443], "city": "Freckleton", "location": null, "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "2:30am", "person": "James Vyse", "beers": [8444], "city": "West Bridgford", "location": null, "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "2:31am", "person": "Beckixcx", "beers": [8445, 8446], "city": "Merthyr Tydfil", "location": null, "location_confidence": "high", "session": 33, "notes": "Posted as 'Merthyr'"}
+{"date": "22/4", "time": "3:28am", "person": "Mags", "beers": [8447], "city": null, "location": "The Parakeet", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "3:36am", "person": "Tom Nicholl", "beers": [8448], "city": null, "location": "The Parakeet", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "3:38am", "person": "Sam Mcmahon", "beers": [8449], "city": null, "location": "The Parakeet", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "4:00am", "person": "Tom Nicholl", "beers": [8450], "city": null, "location": "The Parakeet", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "4:00am", "person": "Mags", "beers": [8451], "city": null, "location": "The Parakeet", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "4:01am", "person": "Thom", "beers": [8452], "city": null, "location": "The Parakeet", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "4:02am", "person": "Sam Mcmahon", "beers": [8453], "city": null, "location": "The Parakeet", "location_confidence": "high", "session": 33, "notes": "Message included 'with admin'"}
+{"date": "22/4", "time": "4:05am", "person": "Luke (UK)", "beers": [8454], "city": "Grenoble", "location": null, "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "4:19am", "person": "Thom", "beers": [8455], "city": null, "location": "The Parakeet", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "4:21am", "person": "Conor mansfield", "beers": [8456, 8457], "city": null, "location": "The Parakeet", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "4:28am", "person": "Rayhan", "beers": [8458], "city": "Rotterdam", "location": null, "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "4:32am", "person": "Tom Nicholl", "beers": [8459], "city": null, "location": "The Parakeet", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "4:32am", "person": "Mags", "beers": [8460], "city": null, "location": "The Parakeet", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "4:32am", "person": "Tom Nicholl", "beers": [], "city": null, "location": "The Parakeet", "location_confidence": "high", "session": 33, "notes": "Duplicate post of 8459 at same time — admin entry"}
+{"date": "22/4", "time": "4:39am", "person": "Sam Mcmahon", "beers": [8461], "city": null, "location": "The Parakeet", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "4:47am", "person": "Thom", "beers": [8462], "city": null, "location": "The Parakeet", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "5:18am", "person": "Mags", "beers": [8463, 8464], "city": "Boston", "location": null, "location_confidence": "high", "session": 33, "notes": "Posted as 'Boston Massachusetts'"}
+{"date": "22/4", "time": "5:18am", "person": "Tom Nicholl", "beers": [8465], "city": "Boston", "location": null, "location_confidence": "high", "session": 33, "notes": "Posted as 'Boston - go pats'"}
+{"date": "22/4", "time": "5:20am", "person": "Thom", "beers": [8466, 8467], "city": "Boston", "location": null, "location_confidence": "high", "session": 33, "notes": "Posted as 'Boston, Skegness' — likely two separate cities jokingly; treating as Boston"}
+{"date": "22/4", "time": "5:21am", "person": "Conor mansfield", "beers": [8468, 8469], "city": "London", "location": "Boston Arms", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "5:22am", "person": "Sam Mcmahon", "beers": [8470], "city": "London", "location": "Boston Arms", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "5:25am", "person": "Tom Nicholl", "beers": [8471], "city": "London", "location": "Boston Arms", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "5:37am", "person": "Jared Swart", "beers": [8472], "city": null, "location": "O2", "location_confidence": "medium", "session": 33, "notes": null}
+{"date": "22/4", "time": "5:41am", "person": "Sam Mcmahon", "beers": [8473], "city": null, "location": null, "location_confidence": "low", "session": 33, "notes": "Message was 'the queen of beers is on it' — no location given"}
+{"date": "22/4", "time": "6:04am", "person": "Mags", "beers": [8474, 8475], "city": null, "location": null, "location_confidence": "low", "session": 33, "notes": "Location given as 'music concert'"}
+{"date": "22/4", "time": "6:10am", "person": "Tom Nicholl", "beers": [8477], "city": null, "location": "Balancing Act", "location_confidence": "high", "session": 33, "notes": "8476 skipped — likely image-only post"}
+{"date": "22/4", "time": "6:10am", "person": "Thom", "beers": [8478], "city": null, "location": null, "location_confidence": "low", "session": 33, "notes": "Posted as 'concerto ivii' — likely a concert venue"}
+{"date": "22/4", "time": "6:10am", "person": "Sam Mcmahon", "beers": [8479], "city": null, "location": null, "location_confidence": "low", "session": 33, "notes": "Posted 'ft admin beer king @Mags @Conor mansfield'"}
+{"date": "22/4", "time": "6:22am", "person": "James Vyse", "beers": [8480], "city": "Ruddington", "location": null, "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "6:28am", "person": "Tom Nicholl", "beers": [8481, 8482], "city": null, "location": "Balancing Act", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "6:30am", "person": "Conor mansfield", "beers": [8483], "city": null, "location": "Beerville", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "6:52am", "person": "Mags", "beers": [8484, 8485], "city": null, "location": null, "location_confidence": "low", "session": 33, "notes": "Location given as 'music gig'"}
+{"date": "22/4", "time": "7:07am", "person": "Tom Nicholl", "beers": [8486], "city": null, "location": "Balancing Act", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "7:08am", "person": "Thom", "beers": [8487], "city": null, "location": null, "location_confidence": "low", "session": 33, "notes": "Posted as 'Bally as' — likely Balancing Act abbreviated"}
+{"date": "22/4", "time": "7:09am", "person": "Phil", "beers": [8488], "city": "London", "location": "Patrick's", "location_confidence": "high", "session": 33, "notes": "Location: Patrick's Beckenham UK"}
+{"date": "22/4", "time": "7:23am", "person": "Héctor Miguel Chiñas López", "beers": [8489], "city": "Mexico City", "location": null, "location_confidence": "high", "session": 33, "notes": "Posted as 'Ciudad de México'"}
+{"date": "22/4", "time": "7:33am", "person": "Mags", "beers": [], "city": null, "location": null, "location_confidence": "low", "session": 33, "notes": "Duplicate — posted 8450 but that number was already claimed by Tom Nicholl at 4:00am; admin entry"}
+{"date": "22/4", "time": "7:34am", "person": "Tom Nicholl", "beers": [], "city": null, "location": "Balancing Act", "location_confidence": "high", "session": 33, "notes": "Duplicate — posted 8451 but that number was already claimed by Mags at 4:00am; admin entry"}
+{"date": "22/4", "time": "8:05am", "person": "Tom Nicholl", "beers": [], "city": "Boston", "location": null, "location_confidence": "high", "session": 33, "notes": "Duplicate — posted 8452,8453 but those numbers were already claimed by Thom (8452 at 4:01am) and Sam Mcmahon (8453 at 4:02am); admin entry"}
+{"date": "22/4", "time": "8:05am", "person": "Mags", "beers": [], "city": null, "location": null, "location_confidence": "low", "session": 33, "notes": "Duplicate — posted 8454 but that number was already claimed by Luke (UK) at 4:05am; admin entry"}
+{"date": "22/4", "time": "8:12am", "person": "Alex Morton", "beers": [], "city": null, "location": null, "location_confidence": "low", "session": 33, "notes": "Admin count correction: -40 beers, true count is 8494. Sequence continues from 8495."}
+{"date": "22/4", "time": "8:23am", "person": "Tom Nicholl", "beers": [8495], "city": null, "location": null, "location_confidence": "low", "session": 33, "notes": "Confirming count after Alex Morton's correction"}
+{"date": "22/4", "time": "8:33am", "person": "Eric Papineau", "beers": [8496, 8497, 8498, 8499, 8500, 8501, 8502], "city": "Montreal", "location": null, "location_confidence": "high", "session": 33, "notes": "Posted as '8496-8502, IPA/saisons/smoothie beers, MTL, go habs go'"}
+{"date": "22/4", "time": "9:04am", "person": "Matthias Hoenisch", "beers": [8503], "city": "Montreal", "location": null, "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "9:12am", "person": "David D", "beers": [8504], "city": null, "location": null, "location_confidence": "low", "session": 33, "notes": "No location given"}
+{"date": "22/4", "time": "9:23am", "person": "Mitchell Schoffro", "beers": [8505, 8506], "city": "Toronto", "location": "Duffys", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "9:48am", "person": "Imogen", "beers": [8507], "city": "Montreal", "location": null, "location_confidence": "high", "session": 33, "notes": "Posted as 'Raspberry beer Montreal for the habs'"}
+{"date": "22/4", "time": "10:07am", "person": "Matthias Hoenisch", "beers": [8508], "city": "Montreal", "location": null, "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "10:09am", "person": "Thanura", "beers": [8509, 8510], "city": "London", "location": "Dolphin", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "10:32am", "person": "David D", "beers": [8511], "city": null, "location": null, "location_confidence": "low", "session": 33, "notes": "No location given"}
+{"date": "22/4", "time": "10:45am", "person": "Luke (US)", "beers": [8512, 8513], "city": "Toronto", "location": "Duffy's Tavern", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "10:56am", "person": "David D", "beers": [8514], "city": "Montreal", "location": null, "location_confidence": "high", "session": 33, "notes": "Posted as '8514 - Mtl'"}
+{"date": "22/4", "time": "11:13am", "person": "Mitchell Schoffro", "beers": [8515, 8516], "city": "Toronto", "location": null, "location_confidence": "high", "session": 33, "notes": "Posted as 'tronna' (slang for Toronto)"}
+{"date": "22/4", "time": "3:23pm", "person": "Jack", "beers": [8517], "city": null, "location": "Stansted Airport", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "3:55pm", "person": "Jack", "beers": [8519], "city": null, "location": "Stansted Airport", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "4:10pm", "person": "SpagEddy", "beers": [8518], "city": "Sydney", "location": "The Neilson", "location_confidence": "high", "session": 33, "notes": "Posted as '8,518' — comma is thousands separator. Posted at 4:10pm, between Jack's 8517 (3:23pm) and 8519 (3:55pm) chronologically but beer number 8518 is between them. First post at 4:10pm was '8,518' and second at same time was '8520' — treating as two separate entries."}
+{"date": "22/4", "time": "4:10pm", "person": "SpagEddy", "beers": [8520], "city": "Sydney", "location": "The Neilson", "location_confidence": "high", "session": 33, "notes": "Vaucluse area, Sydney"}
+{"date": "22/4", "time": "5:53pm", "person": "Michael Schmid", "beers": [8521], "city": "Izu", "location": null, "location_confidence": "high", "session": 33, "notes": "Izu Peninsula, Japan"}
+{"date": "22/4", "time": "6:06pm", "person": "Ben Corbett-Jones", "beers": [8522, 8523], "city": "Boston", "location": "Beacon Hill", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "6:27pm", "person": "Michael Schmid", "beers": [], "city": "Izu", "location": null, "location_confidence": "high", "session": 33, "notes": "Duplicate — posted 8521 again at 6:27pm, already claimed at 5:53pm; admin entry"}
+{"date": "22/4", "time": "8:06pm", "person": "Michael Schmid", "beers": [8524], "city": "Izu", "location": null, "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "6:28pm", "person": "Ben Corbett-Jones", "beers": [8525], "city": "Boston", "location": null, "location_confidence": "medium", "session": 33, "notes": "No specific location given"}
+{"date": "22/4", "time": "6:37pm", "person": "Mitch", "beers": [8526], "city": "Sydney", "location": "Manly Vale", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "6:38pm", "person": "Ian", "beers": [8527], "city": "Sydney", "location": "Manly", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "6:50pm", "person": "Alex Morton", "beers": [8528], "city": "Griffith", "location": null, "location_confidence": "high", "session": 33, "notes": "Griffith, NSW, Australia"}
+{"date": "22/4", "time": "7:31pm", "person": "SpagEddy", "beers": [8529], "city": "Sydney", "location": "Puttanesca", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "7:44pm", "person": "Ian", "beers": [8530], "city": "Sydney", "location": "Manly", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "8:33pm", "person": "Ian", "beers": [8531], "city": "Sydney", "location": "Manly", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "10:24pm", "person": "Andrew M", "beers": [8532], "city": "Sparta", "location": null, "location_confidence": "high", "session": 33, "notes": "Posted as 'Spartan beer in Sparta. Leonidas in the background'"}
+{"date": "22/4", "time": "10:47pm", "person": "Mike Manzo", "beers": [8533], "city": "London", "location": "Shoreditch", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "22/4", "time": "11:46pm", "person": "Tom Neaverson", "beers": [8534, 8535], "city": "Hong Kong", "location": "Happy Valley Racecourse", "location_confidence": "high", "session": 33, "notes": null}
+{"date": "23/4", "time": "12:07am", "person": "Joe Hannant", "beers": [8536], "city": null, "location": "The Cricketers", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "1:24am", "person": "James Vyse", "beers": [8537], "city": "West Bridgford", "location": "Test Match", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "1:29am", "person": "Sudip Dasgupta", "beers": [8538], "city": "Porto", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "1:44am", "person": "James Vyse", "beers": [8539], "city": "West Bridgford", "location": "Test Match", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "1:47am", "person": "Josh", "beers": [8540], "city": "Doncaster", "location": "Doncaster Golf Club", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "2:02am", "person": "Elliot", "beers": [8541], "city": "London", "location": "Owl and Hitchhiker", "location_confidence": "high", "session": 34, "notes": "Holloway, London"}
+{"date": "23/4", "time": "2:09am", "person": "mattyb", "beers": [8542], "city": "London", "location": "Whitechapel", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "2:48am", "person": "Elliot", "beers": [8543], "city": "London", "location": "Owl and Hitchhiker", "location_confidence": "high", "session": 34, "notes": "Holloway, London"}
+{"date": "23/4", "time": "3:25am", "person": "Who's this Aldi fella", "beers": [8544, 8545], "city": "Birmingham", "location": "Malaya", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "3:28am", "person": "Sam", "beers": [8546], "city": "London", "location": "Heathrow Airport", "location_confidence": "high", "session": 34, "notes": "Posted as 'Airport Beer Heathrow'"}
+{"date": "23/4", "time": "3:29am", "person": "Freya", "beers": [8547, 8548, 8549], "city": null, "location": "Wickham Arms", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "3:33am", "person": "Luke (UK)", "beers": [8550], "city": "Grenoble", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "3:44am", "person": "Troy", "beers": [8551], "city": "Suffolk", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "3:56am", "person": "Marta", "beers": [8552], "city": null, "location": "home", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "3:56am", "person": "Red Freeman", "beers": [8553], "city": null, "location": "home", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "3:57am", "person": "Summer", "beers": [8554], "city": "Whittlesey", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "3:58am", "person": "Alice", "beers": [8556], "city": "London", "location": null, "location_confidence": "high", "session": 34, "notes": "8555 skipped — likely image-only post"}
+{"date": "23/4", "time": "4:21am", "person": "Troy", "beers": [8557], "city": "Barham", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "4:22am", "person": "~", "beers": [8558], "city": "London", "location": "New Cross", "location_confidence": "high", "session": 34, "notes": "Posted by anonymous user '~'"}
+{"date": "23/4", "time": "4:27am", "person": "Who's this Aldi fella", "beers": [8559], "city": "Birmingham", "location": "Birmingham Hippodrome", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "4:34am", "person": "Alex", "beers": [8560, 8561], "city": null, "location": "The Outlook", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "4:50am", "person": "Freya", "beers": [8562, 8563, 8564, 8565], "city": "London", "location": "Brockley", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "4:50am", "person": "Jesse Chrisitian", "beers": [8566, 8567], "city": "Salzburg", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "5:06am", "person": "Boby Brooks", "beers": [8568, 8569], "city": "London", "location": "Camden Town", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "5:11am", "person": "Boby Brooks", "beers": [8570, 8571], "city": "London", "location": "Camden Town", "location_confidence": "high", "session": 34, "notes": "Posted as 'same place'"}
+{"date": "23/4", "time": "5:53am", "person": "Patty", "beers": [8572, 8573, 8574, 8575, 8576, 8577], "city": "London", "location": "Catford", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "6:02am", "person": "Daniel", "beers": [8578], "city": "Montreal", "location": "my balcony", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "6:09am", "person": "Ben 1", "beers": [8579], "city": "Port de Pollença", "location": null, "location_confidence": "high", "session": 34, "notes": "Mallorca, Spain"}
+{"date": "23/4", "time": "6:10am", "person": "James Vyse", "beers": [8580], "city": "Ruddington", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "6:20am", "person": "Freya", "beers": [8581, 8582, 8583], "city": "London", "location": "Brockley", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "6:59am", "person": "Rayhan", "beers": [8584], "city": "Utrecht", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "7:02am", "person": "Phil", "beers": [8585, 8586], "city": "London", "location": "Club Langley", "location_confidence": "high", "session": 34, "notes": "Beckenham, UK"}
+{"date": "23/4", "time": "7:03am", "person": "Jamie Rhind", "beers": [8587], "city": "Ipswich", "location": "Kirby Street Social", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "7:17am", "person": "Mags", "beers": [8588, 8589, 8590, 8591], "city": null, "location": "home", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "7:27am", "person": "Andrew", "beers": [8592], "city": "Sheffield", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "7:38am", "person": "Boby Brooks", "beers": [8593, 8594], "city": "London", "location": "Camden Town", "location_confidence": "high", "session": 34, "notes": "Conflict: Sudip Dasgupta also posted 8593,8594 at 7:38am. Boby Brooks and Sudip posted at same time — treating Boby Brooks as first claimer for 8593,8594 as they appear first in log"}
+{"date": "23/4", "time": "7:38am", "person": "Sudip Dasgupta", "beers": [], "city": "Porto", "location": null, "location_confidence": "high", "session": 34, "notes": "Conflict — posted 8593,8594 at same time as Boby Brooks; Boby Brooks wins as first in log; admin entry"}
+{"date": "23/4", "time": "7:55am", "person": "Boby Brooks", "beers": [], "city": null, "location": null, "location_confidence": "low", "session": 34, "notes": "Admin count check — posted 'True count 8596'"}
+{"date": "23/4", "time": "7:55am", "person": "Boby Brooks", "beers": [8597, 8598], "city": "London", "location": "Camden Town", "location_confidence": "high", "session": 34, "notes": "8596 appears to be a count reference, not a beer claim — Boby then claims 8597,8598"}
+{"date": "23/4", "time": "8:05am", "person": "Sofia", "beers": [8599], "city": "Montreal", "location": "Henrietta", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "8:57am", "person": "Cam Schoffro", "beers": [8600, 8601], "city": "Toronto", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "11:20am", "person": "Kelsey", "beers": [8602, 8603], "city": "Atlanta", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "11:41am", "person": "Mathijs Deetman", "beers": [8604, 8605], "city": "Seattle", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "12:11pm", "person": "Mathijs Deetman", "beers": [8606, 8607], "city": "Seattle", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "12:43pm", "person": "Fionn Mahoney", "beers": [8608], "city": "Sydney", "location": "Bankstown", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "12:51pm", "person": "Mathijs Deetman", "beers": [], "city": "Seattle", "location": null, "location_confidence": "high", "session": 34, "notes": "Duplicate — repost of 8606,8607 already claimed at 12:11pm; admin entry"}
+{"date": "23/4", "time": "3:48pm", "person": "Ben Corbett-Jones", "beers": [8609], "city": "Boston", "location": "Beacon Hill", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "4:12pm", "person": "Ian", "beers": [8610], "city": "Sydney", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "5:07pm", "person": "Mitch", "beers": [8611], "city": "Sydney", "location": "Manly Vale", "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "5:16pm", "person": "Ian", "beers": [8612], "city": "Sydney", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "5:26pm", "person": "Ben Corbett-Jones", "beers": [8613], "city": "Sydney", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "5:33pm", "person": "Jack", "beers": [8614], "city": null, "location": "Mediterranean Sea", "location_confidence": "high", "session": 34, "notes": "On a cruise/ferry"}
+{"date": "23/4", "time": "5:33pm", "person": "Ben Corbett-Jones", "beers": [8615], "city": "Sydney", "location": null, "location_confidence": "medium", "session": 34, "notes": null}
+{"date": "23/4", "time": "5:54pm", "person": "Chris O'Donnell", "beers": [8616, 8617], "city": "Roma", "location": null, "location_confidence": "high", "session": 34, "notes": "Roma QLD"}
+{"date": "23/4", "time": "5:55pm", "person": "Simon", "beers": [8618], "city": "Sydney", "location": "G-Town", "location_confidence": "high", "session": 34, "notes": "Posted as 'G-Town, Sydney'"}
+{"date": "23/4", "time": "6:08pm", "person": "Ben Corbett-Jones", "beers": [8619], "city": "Sydney", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "6:09pm", "person": "Ian", "beers": [8620], "city": "Sydney", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "6:22pm", "person": "Jack", "beers": [8621], "city": null, "location": null, "location_confidence": "low", "session": 34, "notes": "No location given"}
+{"date": "23/4", "time": "6:32pm", "person": "Ben Corbett-Jones", "beers": [8622], "city": "Sydney", "location": null, "location_confidence": "medium", "session": 34, "notes": null}
+{"date": "23/4", "time": "6:33pm", "person": "Ian", "beers": [8623], "city": "Sydney", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "7:08pm", "person": "Harry Duffy", "beers": [8624], "city": "Melbourne", "location": "Tullamarine", "location_confidence": "high", "session": 34, "notes": "Tullamarine is Melbourne Airport suburb; posted as 'Tullarmarine'"}
+{"date": "23/4", "time": "7:31pm", "person": "Andrew", "beers": [8625, 8626, 8627], "city": "Kyoto", "location": null, "location_confidence": "high", "session": 34, "notes": "Japan"}
+{"date": "23/4", "time": "7:35pm", "person": "Ian", "beers": [8628], "city": "Sydney", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "7:45pm", "person": "Henry W", "beers": [8629, 8630, 8631, 8632], "city": "Sydney", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "7:50pm", "person": "Andrew M", "beers": [8633], "city": "Mystras", "location": null, "location_confidence": "high", "session": 34, "notes": "Posted as 'Mistras' — likely Mystras, Greece"}
+{"date": "23/4", "time": "8:00pm", "person": "Meg", "beers": [8634], "city": "Sydney", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "8:01pm", "person": "Ian", "beers": [8635], "city": "Sydney", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "8:02pm", "person": "Mitchell McCluskey", "beers": [8636], "city": "Sydney", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "8:05pm", "person": "Camo", "beers": [8637], "city": "Sydney", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "8:18pm", "person": "Wein", "beers": [], "city": "Sydney", "location": "Sydney Airport", "location_confidence": "high", "session": 34, "notes": "Conflict — posted 8637 but Camo already claimed 8637 at 8:05pm; Camo wins; admin entry"}
+{"date": "23/4", "time": "8:36pm", "person": "Ian", "beers": [8638], "city": "Sydney", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "8:37pm", "person": "Mitchell McCluskey", "beers": [8639], "city": "Sydney", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "8:38pm", "person": "Meg", "beers": [8640], "city": "Sydney", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "8:38pm", "person": "Wein", "beers": [], "city": null, "location": null, "location_confidence": "low", "session": 34, "notes": "Posted '8638*' as self-correction from earlier conflict on 8637, but Ian already claimed 8638 at 8:36pm; admin entry — conflict lost to Ian"}
+{"date": "23/4", "time": "9:15pm", "person": "Ian", "beers": [8642], "city": "Sydney", "location": null, "location_confidence": "high", "session": 34, "notes": "Posted '8642, Sydney (number restored)' — 8641 skipped, likely a deletion or conflict resolution"}
+{"date": "23/4", "time": "9:15pm", "person": "Coff", "beers": [8643], "city": "Sydney", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "9:16pm", "person": "Meg", "beers": [8644], "city": "Sydney", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "9:17pm", "person": "Michael Schmid", "beers": [8645], "city": "Tokyo", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "9:37pm", "person": "Mitchell McCluskey", "beers": [8646], "city": "Sydney", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "9:56pm", "person": "Cellan Brady", "beers": [8647, 8648], "city": "Bury St Edmunds", "location": null, "location_confidence": "high", "session": 34, "notes": null}
+{"date": "23/4", "time": "10:09pm", "person": "SpagEddy", "beers": [8649, 8650, 8651, 8652], "city": "Sydney", "location": "Leichhardt Oval", "location_confidence": "high", "session": 34, "notes": "Posted as '8649-8552' — obvious typo, range goes backwards; interpreted as 8649-8652"}
+{"date": "23/4", "time": "10:16pm", "person": "Sam :)", "beers": [8653], "city": "Manchester", "location": "University of Manchester Student Union", "location_confidence": "high", "session": 34, "notes": "Posted '8556' — interpreted as typo for 8653 (sequential after SpagEddy's 8652); posted as 'UoManchester student union'"}
+{"date": "23/4", "time": "10:42pm", "person": "Matt Bratt", "beers": [8656], "city": null, "location": null, "location_confidence": "low", "session": 34, "notes": "Posted as '8656**' — ** likely emphasis; 8654 and 8655 unaccounted for, likely image-only posts"}
+{"date": "24/4", "time": "12:38am", "person": "Sudip Dasgupta", "beers": [8657, 8658], "city": "Porto", "location": null, "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "12:52am", "person": "Camo", "beers": [8659], "city": null, "location": "Jetstar", "location_confidence": "high", "session": 35, "notes": "On a Jetstar flight"}
+{"date": "24/4", "time": "1:12am", "person": "Jack", "beers": [8660], "city": null, "location": "At Sea", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "1:20am", "person": "Jack", "beers": [8661], "city": null, "location": "Luton Airport", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "1:44am", "person": "Sudip Dasgupta", "beers": [8662], "city": "Porto", "location": null, "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "2:14am", "person": "Elliot", "beers": [8663], "city": "England", "location": "the train", "location_confidence": "medium", "session": 35, "notes": "On a train, England, specific location unknown"}
+{"date": "24/4", "time": "2:19am", "person": "Matt Latteman", "beers": [8664], "city": "London", "location": "Beckenham", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "2:33am", "person": "Wes - UK WES", "beers": [8665], "city": "Wilpshire", "location": null, "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "2:43am", "person": "Lia Woods", "beers": [8666, 8667], "city": "Oxfordshire", "location": "Prince of Wales", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "3:06am", "person": "Wes - UK WES", "beers": [8668], "city": null, "location": null, "location_confidence": "low", "session": 35, "notes": "No location given"}
+{"date": "24/4", "time": "3:13am", "person": "Louis", "beers": [8669], "city": null, "location": null, "location_confidence": "low", "session": 35, "notes": "No location given"}
+{"date": "24/4", "time": "3:22am", "person": "Red Freeman", "beers": [8670], "city": null, "location": null, "location_confidence": "low", "session": 35, "notes": null}
+{"date": "24/4", "time": "3:26am", "person": "Rayhan", "beers": [8671], "city": "Rotterdam", "location": null, "location_confidence": "high", "session": 35, "notes": "Conflict: anonymous '~' also posted 8671 at 3:40am; Rayhan wins as first poster"}
+{"date": "24/4", "time": "3:31am", "person": "Matt Harrall", "beers": [], "city": null, "location": "Sutton Arms", "location_confidence": "high", "session": 35, "notes": "Conflict — posted 8670 but Red Freeman already claimed 8670 at 3:22am; Red Freeman wins; admin entry. Beer was a Guinness."}
+{"date": "24/4", "time": "3:40am", "person": "~", "beers": [8672, 8673, 8674], "city": null, "location": "Readingchester", "location_confidence": "medium", "session": 35, "notes": "Anonymous user. Posted 8671,8672,8673,8674 but 8671 was already claimed by Rayhan at 3:26am; Rayhan wins 8671; ~ gets 8672-8674. Posted 'far from station'"}
+{"date": "24/4", "time": "3:43am", "person": "Charlie Roberts", "beers": [8675], "city": "London", "location": "The Dove", "location_confidence": "high", "session": 35, "notes": "The Dove, Hammersmith area"}
+{"date": "24/4", "time": "3:45am", "person": "Mark 🔴⚪️", "beers": [8676], "city": "Wrotham", "location": "Rose and Crown", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "3:46am", "person": "Elliot", "beers": [8677], "city": "England", "location": "the train", "location_confidence": "medium", "session": 35, "notes": "Train at Taunton, England"}
+{"date": "24/4", "time": "3:52am", "person": "Greg Holmes", "beers": [8678], "city": "London", "location": "The Dove", "location_confidence": "high", "session": 35, "notes": "The Dove, Hammersmith"}
+{"date": "24/4", "time": "3:57am", "person": "Elliot", "beers": [8679], "city": "England", "location": "the train", "location_confidence": "medium", "session": 35, "notes": "Train somewhere in Devon, England"}
+{"date": "24/4", "time": "4:19am", "person": "Mik", "beers": [8680], "city": "London", "location": "Heathrow Airport", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "4:20am", "person": "Adam Petley", "beers": [8681], "city": "Sheffield", "location": "Kelham Island", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "4:22am", "person": "Charlie Roberts", "beers": [8682, 8683], "city": "London", "location": "The Dove", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "4:25am", "person": "Connor Wright", "beers": [8684, 8685], "city": "Copenhagen", "location": null, "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "5:04am", "person": "Wes - UK WES", "beers": [8686], "city": "Hyndburn", "location": null, "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "5:06am", "person": "Mik", "beers": [8687], "city": "London", "location": "Heathrow Airport", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "5:10am", "person": "Salvatore", "beers": [8688, 8689], "city": "London", "location": "Horse & Groom", "location_confidence": "high", "session": 35, "notes": "Belgravia, London"}
+{"date": "24/4", "time": "5:16am", "person": "Jess - 2", "beers": [8690, 8691], "city": "Chester", "location": null, "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "5:16am", "person": "Sudip Dasgupta", "beers": [8692, 8693], "city": "Porto", "location": null, "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "5:17am", "person": "Freya", "beers": [8694, 8695, 8696], "city": "London", "location": "Ladywell", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "5:28am", "person": "Mike Manzo", "beers": [8697, 8698], "city": "London", "location": "The Lord Stanley", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "5:39am", "person": "Sudip Dasgupta", "beers": [8699, 8700], "city": "Porto", "location": null, "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "5:39am", "person": "Mik", "beers": [8701], "city": "London", "location": "Heathrow Airport", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "5:44am", "person": "Elliot", "beers": [8702], "city": "England", "location": "the train", "location_confidence": "medium", "session": 35, "notes": "Train at Saltash, Cornwall"}
+{"date": "24/4", "time": "6:09am", "person": "Mik", "beers": [8703], "city": "London", "location": "Heathrow Airport", "location_confidence": "high", "session": 35, "notes": "Posted as 'stilllll @ Heathrow'"}
+{"date": "24/4", "time": "6:10am", "person": "Hugo Ilencik", "beers": [8704, 8705, 8706, 8707, 8708], "city": "London", "location": "Peoples Park Tavern", "location_confidence": "high", "session": 35, "notes": "Venue posted on separate line: 'Peoples park tavern'"}
+{"date": "24/4", "time": "6:18am", "person": "Elliot", "beers": [8709], "city": "England", "location": "the train", "location_confidence": "medium", "session": 35, "notes": "Train at Lostwithiel, Cornwall"}
+{"date": "24/4", "time": "6:31am", "person": "Salvatore", "beers": [8710], "city": "London", "location": null, "location_confidence": "high", "session": 35, "notes": "Belgravia area"}
+{"date": "24/4", "time": "6:37am", "person": "Sudip Dasgupta", "beers": [8711, 8712], "city": "Porto", "location": "Ayrton Senna Bar", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "6:58am", "person": "Salvatore", "beers": [8713], "city": "London", "location": null, "location_confidence": "high", "session": 35, "notes": "Belgravia area"}
+{"date": "24/4", "time": "7:01am", "person": "Elliot", "beers": [8714], "city": "England", "location": "the train", "location_confidence": "medium", "session": 35, "notes": "Train at Redruth, Cornwall"}
+{"date": "24/4", "time": "7:01am", "person": "Martin Farmer", "beers": [8715], "city": "Edwalton", "location": null, "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "7:06am", "person": "James Vyse", "beers": [8716], "city": "Ruddington", "location": null, "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "8:38am", "person": "Daniel", "beers": [8717, 8718], "city": "Montreal", "location": "Just for Laughs Gags Park", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "9:12am", "person": "Imogen", "beers": [8719], "city": "Montreal", "location": "Just for Laughs Gags Park", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "11:05am", "person": "Imogen", "beers": [8720, 8721, 8722, 8723, 8724], "city": "Montreal", "location": "Casa del Popolo", "location_confidence": "high", "session": 35, "notes": "Posted as '8720-4, casa del popolo, Montréal (boomerang directed by Joe)'"}
+{"date": "24/4", "time": "11:12am", "person": "Andres", "beers": [8725, 8726], "city": "Buenos Aires", "location": null, "location_confidence": "high", "session": 35, "notes": "Argentina"}
+{"date": "24/4", "time": "2:28pm", "person": "Sam", "beers": [8727, 8728], "city": "Alliance", "location": null, "location_confidence": "high", "session": 35, "notes": "Alliance QLD, Australia"}
+{"date": "24/4", "time": "2:48pm", "person": "Will Simpson", "beers": [8729, 8730, 8731, 8732], "city": "Sydney", "location": "Artarmon", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "3:03pm", "person": "SpagEddy", "beers": [8733, 8734, 8735, 8736, 8737, 8738, 8739], "city": "Sydney", "location": "The AMZN", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "3:03pm", "person": "Fionn Mahoney", "beers": [8740], "city": "Sydney", "location": "Artarmon", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "3:09pm", "person": "Sam", "beers": [8741], "city": "Alliance", "location": null, "location_confidence": "high", "session": 35, "notes": "Alliance QLD"}
+{"date": "24/4", "time": "3:16pm", "person": "Tom Nicholl", "beers": [8742], "city": null, "location": "Stansted Airport", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "3:17pm", "person": "Ben Corbett-Jones", "beers": [8743], "city": "Sydney", "location": null, "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "3:22pm", "person": "Mike Manzo", "beers": [8744], "city": null, "location": "Stansted Airport", "location_confidence": "high", "session": 35, "notes": "Posted as 'STN airport'"}
+{"date": "24/4", "time": "3:40pm", "person": "Ian", "beers": [8745], "city": "Sydney", "location": "Manly", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "3:40pm", "person": "Will Simpson", "beers": [8746, 8747, 8748], "city": "Sydney", "location": "North Sydney", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "3:46pm", "person": "Tom Nicholl", "beers": [8749], "city": null, "location": "Stansted Airport", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "3:47pm", "person": "Mike Manzo", "beers": [8750], "city": null, "location": null, "location_confidence": "medium", "session": 35, "notes": "Posted as 'STN > NCE' — on flight Stansted to Nice"}
+{"date": "24/4", "time": "4:01pm", "person": "Ben Corbett-Jones", "beers": [8751], "city": "Sydney", "location": null, "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "4:21pm", "person": "Sam", "beers": [8752, 8753, 8754], "city": "Alliance", "location": null, "location_confidence": "high", "session": 35, "notes": "Alliance QLD"}
+{"date": "24/4", "time": "4:46pm", "person": "Ben Corbett-Jones", "beers": [8755], "city": "Sydney", "location": null, "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "4:51pm", "person": "Sam", "beers": [8756, 8757, 8758, 8759, 8760], "city": "Alliance", "location": null, "location_confidence": "high", "session": 35, "notes": "Alliance QLD"}
+{"date": "24/4", "time": "4:53pm", "person": "Adam", "beers": [8761], "city": "Sydney", "location": "Manly", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "5:14pm", "person": "Mitch", "beers": [8762], "city": "Sydney", "location": "Manly Vale", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "5:24pm", "person": "Ian", "beers": [8763], "city": "Sydney", "location": "Manly", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "5:29pm", "person": "Ben Corbett-Jones", "beers": [], "city": "Sydney", "location": null, "location_confidence": "high", "session": 35, "notes": "Admin — posted '3764 Sydney', obvious typo for 8764; self-corrected sequence continues; treating as admin entry to flag the typo"}
+{"date": "24/4", "time": "5:43pm", "person": "Sam", "beers": [], "city": "Alliance", "location": null, "location_confidence": "high", "session": 35, "notes": "Posted '3765-3768' — obvious typo for 8765-8768; self-corrected at 5:55pm; treating as admin entry"}
+{"date": "24/4", "time": "5:55pm", "person": "Sam", "beers": [8765, 8766, 8767, 8768], "city": "Alliance", "location": null, "location_confidence": "high", "session": 35, "notes": "Self-correction of earlier typo '3765-3768'; Alliance QLD"}
+{"date": "24/4", "time": "6:01pm", "person": "Sam", "beers": [8769, 8770, 8771, 8772, 8773, 8774], "city": "Alliance", "location": null, "location_confidence": "high", "session": 35, "notes": "Alliance QLD"}
+{"date": "24/4", "time": "6:04pm", "person": "Fionn Mahoney", "beers": [8775], "city": "Sydney", "location": "North Sydney", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "6:09pm", "person": "Will Simpson", "beers": [8776, 8777], "city": "Sydney", "location": "North Sydney", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "6:23pm", "person": "Ben Corbett-Jones", "beers": [8778], "city": "Sydney", "location": null, "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "6:23pm", "person": "Sam", "beers": [8779, 8780, 8781, 8782, 8783], "city": "Alliance", "location": null, "location_confidence": "high", "session": 35, "notes": "Alliance QLD"}
+{"date": "24/4", "time": "6:36pm", "person": "Mitch", "beers": [8784], "city": "Sydney", "location": "Manly Vale", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "6:56pm", "person": "Simon", "beers": [8785], "city": "Byron Bay", "location": null, "location_confidence": "high", "session": 35, "notes": "Byron Bay, Australia"}
+{"date": "24/4", "time": "6:59pm", "person": "Ben Corbett-Jones", "beers": [8876], "city": "Sydney", "location": null, "location_confidence": "high", "session": 35, "notes": "Jump from 8785 to 8876 — 8786-8875 (90 beers) unaccounted for; no correction posted; accepted as posted"}
+{"date": "24/4", "time": "7:13pm", "person": "Ian", "beers": [8877], "city": "Sydney", "location": "Manly", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "7:21pm", "person": "Alastair", "beers": [8878], "city": null, "location": "The Seven Seas", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "7:28pm", "person": "Adam", "beers": [8879], "city": "Sydney", "location": "Fairlight", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "7:32pm", "person": "SpagEddy", "beers": [8880], "city": null, "location": "Pittwater", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "7:44pm", "person": "Tom Neaverson", "beers": [8881], "city": null, "location": null, "location_confidence": "low", "session": 35, "notes": "Posted as 'Work beer'"}
+{"date": "24/4", "time": "7:48pm", "person": "Dan", "beers": [8882, 8883, 8884], "city": null, "location": "The Crowie", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "7:55pm", "person": "Simon", "beers": [8885], "city": "Byron Bay", "location": "Great Northern", "location_confidence": "high", "session": 35, "notes": "Byron Bay, Australia"}
+{"date": "24/4", "time": "8:30pm", "person": "Mitch", "beers": [8886], "city": "Sydney", "location": "Manly Vale", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "8:37pm", "person": "Ian", "beers": [8887], "city": "Sydney", "location": "Manly", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "8:39pm", "person": "Will Simpson", "beers": [8888, 8889, 8890, 8891], "city": "Sydney", "location": "North Sydney", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "9:01pm", "person": "Alastair", "beers": [8892], "city": null, "location": "Pittwater", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "9:02pm", "person": "Will Simpson", "beers": [8893, 8894], "city": "Sydney", "location": "North Sydney", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "9:16pm", "person": "Will Simpson", "beers": [8895], "city": "Sydney", "location": "North Sydney", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "9:22pm", "person": "SpagEddy", "beers": [8896], "city": null, "location": "Pittwater", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "9:26pm", "person": "Alastair", "beers": [8897], "city": null, "location": "The Plank", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "9:32pm", "person": "Ian", "beers": [8898], "city": "Sydney", "location": "Manly", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "9:34pm", "person": "Jocelyn", "beers": [8899, 8900], "city": null, "location": "Ocean", "location_confidence": "medium", "session": 35, "notes": "Location given as 'Ocean' — on a boat/beach"}
+{"date": "24/4", "time": "9:55pm", "person": "Danny", "beers": [8901], "city": "Peterborough", "location": null, "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "10:10pm", "person": "Sudip Dasgupta", "beers": [8902, 8903], "city": "Porto", "location": null, "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "10:41pm", "person": "Ian", "beers": [8904], "city": "Sydney", "location": "Manly", "location_confidence": "high", "session": 35, "notes": null}
+{"date": "24/4", "time": "11:04pm", "person": "Jack Kairys", "beers": [8905], "city": "London", "location": "Fitzrovia", "location_confidence": "high", "session": 35, "notes": "Posted as 'fitzrovia lunch beers'"}
+{"date": "24/4", "time": "11:05pm", "person": "Michael Schmid", "beers": [8906], "city": "Tokyo", "location": null, "location_confidence": "high", "session": 35, "notes": "Posted as 'tv beer Tokyo'"}
+{"date": "24/4", "time": "11:15pm", "person": "Joe Hannant", "beers": [8907], "city": "Lavant", "location": "Earl of March", "location_confidence": "high", "session": 35, "notes": "Posted as '6907' — typo, 6→8 prefix corrected to 8907. Lavant, West Sussex."}
+{"date": "24/4", "time": "11:15pm", "person": "Sam", "beers": [8908, 8909], "city": null, "location": "Grand Chancellor", "location_confidence": "medium", "session": 35, "notes": "Posted as '6908-6909' — typo, 6→8 prefix corrected to 8908-8909. Grand Chancellor is a hotel chain; city unclear, Sam is often in QLD."}
+{"date": "24/4", "time": "11:35pm", "person": "Mags", "beers": [8910], "city": "London", "location": "The Jeremy Bentham", "location_confidence": "high", "session": 35, "notes": "Posted as '6910' — typo, 6→8 prefix corrected to 8910. Jeremy Bentham pub, Bloomsbury, London."}
+{"date": "24/4", "time": "11:45pm", "person": "Marta", "beers": [8911, 8912], "city": "London", "location": "Costa del Canonbury", "location_confidence": "high", "session": 35, "notes": "Posted as '6911, 6912' — typo corrected to 8911, 8912"}
+{"date": "25/4", "time": "12:22am", "person": "mattyb", "beers": [], "city": null, "location": null, "location_confidence": "high", "session": 36, "notes": "Admin: count check — confirmed count should be at 8912"}
+{"date": "25/4", "time": "12:24am", "person": "Matt Bratt", "beers": [], "city": null, "location": null, "location_confidence": "high", "session": 36, "notes": "Admin: acknowledged skip from 8785 to 8876 in earlier sequence"}
+{"date": "25/4", "time": "12:25am", "person": "Ryan", "beers": [8913, 8914], "city": "Sydney", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "12:27am", "person": "Tom Neaverson", "beers": [8915, 8916], "city": null, "location": "Peel Street", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "12:50am", "person": "Tom Nicholl", "beers": [8917], "city": null, "location": "Cote d'Azur", "location_confidence": "medium", "session": 36, "notes": null}
+{"date": "25/4", "time": "12:50am", "person": "Brad", "beers": [8918, 8919, 8920], "city": "London", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "12:57am", "person": "Wes - UK WES", "beers": [8921, 8922], "city": "Leyland", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "1:02am", "person": "Mike Manzo", "beers": [8923], "city": null, "location": null, "location_confidence": "low", "session": 36, "notes": "Posted as 'French beach town'"}
+{"date": "25/4", "time": "1:20am", "person": "Rich", "beers": [8924], "city": "Warfield", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "1:24am", "person": "Wes - UK WES", "beers": [8925, 8926], "city": "Leyland", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "1:41am", "person": "Red Freeman", "beers": [8927], "city": "London", "location": "Dulwich", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "2:04am", "person": "Tom Nicholl", "beers": [8928], "city": null, "location": "Nice", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "2:05am", "person": "Summer", "beers": [8929], "city": "Peterborough", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "2:06am", "person": "Mike Manzo", "beers": [8930], "city": null, "location": null, "location_confidence": "low", "session": 36, "notes": "Posted as 'France somewhere'"}
+{"date": "25/4", "time": "2:11am", "person": "James Vyse", "beers": [8931], "city": null, "location": "The Crafty Crow", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "2:21am", "person": "Who's this Aldi fella", "beers": [8932, 8933], "city": "Worcester", "location": "Belgian Beer Bar", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "2:21am", "person": "Wes - UK WES", "beers": [8934, 8935, 8936], "city": "Leyland", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "2:30am", "person": "Dave Brewer", "beers": [8937], "city": "London", "location": "Leicester Square", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "2:32am", "person": "Mags", "beers": [8938], "city": null, "location": "The Institute", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "2:35am", "person": "Troy", "beers": [8939], "city": null, "location": null, "location_confidence": "low", "session": 36, "notes": "Posted as 'car to pub'"}
+{"date": "25/4", "time": "2:39am", "person": "Cellan Brady", "beers": [8940, 8941], "city": "London", "location": "Rotherhithe", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "2:41am", "person": "Martin Farmer", "beers": [8942], "city": "Nottingham", "location": "Nottingham Castle", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "2:43am", "person": "James Vyse", "beers": [8943], "city": "Nottingham", "location": "Nottingham Castle", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "2:48am", "person": "Phil", "beers": [8944], "city": "Worcester", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "2:50am", "person": "Tom Nicholl", "beers": [8945], "city": null, "location": "bière à la plage", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "2:50am", "person": "Mike Manzo", "beers": [8946], "city": null, "location": "bière à la plage", "location_confidence": "medium", "session": 36, "notes": "Posted as 'ditto ^' — same location as Tom Nicholl 8945"}
+{"date": "25/4", "time": "3:00am", "person": "Troy", "beers": [8947, 8948], "city": null, "location": "Kesgrave", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "3:04am", "person": "James Vyse", "beers": [8949, 8950], "city": "Nottingham", "location": "Nottingham Castle", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "3:17am", "person": "Rayhan", "beers": [8951, 8952], "city": "Den Haag", "location": null, "location_confidence": "high", "session": 36, "notes": "City: Den Haag, Netherlands"}
+{"date": "25/4", "time": "3:19am", "person": "Boby Brooks", "beers": [8953], "city": null, "location": "Gatwick Airport", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "3:19am", "person": "Boby Brooks", "beers": [], "city": null, "location": "Gatwick Airport", "location_confidence": "high", "session": 36, "notes": "Admin: duplicate post of 8953"}
+{"date": "25/4", "time": "3:29am", "person": "Oscar Watts", "beers": [8954, 8955], "city": "London", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "3:31am", "person": "Boby Brooks", "beers": [8956], "city": null, "location": "Gatwick Airport", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "3:32am", "person": "James Vyse", "beers": [8957], "city": "Nottingham", "location": "Nottingham Castle", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "3:36am", "person": "Troy", "beers": [8958, 8959], "city": "Kesgrave", "location": null, "location_confidence": "high", "session": 36, "notes": "City: Kesgrave, Suffolk"}
+{"date": "25/4", "time": "3:40am", "person": "mattyb", "beers": [8962], "city": "London", "location": "Victoria Park", "location_confidence": "high", "session": 36, "notes": "8960-8961 unaccounted (likely image-only posts)"}
+{"date": "25/4", "time": "3:40am", "person": "Spencer", "beers": [8963], "city": "London", "location": "Victoria Park", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "3:41am", "person": "Tom Nicholl", "beers": [8964], "city": null, "location": "Old Town Nice", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "3:44am", "person": "Charlie Roberts", "beers": [], "city": null, "location": null, "location_confidence": "high", "session": 36, "notes": "Admin: count check — confirmed count should be 8964"}
+{"date": "25/4", "time": "3:45am", "person": "Mags", "beers": [8965], "city": null, "location": "The Institute", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "3:48am", "person": "Mike Manzo", "beers": [8966], "city": null, "location": "Nice", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "3:50am", "person": "Brad", "beers": [8967], "city": "London", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "3:52am", "person": "Cam", "beers": [8968], "city": "Hitchin", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "4:02am", "person": "James Vyse", "beers": [8969, 8970], "city": "Nottingham", "location": "Nottingham Castle", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "4:03am", "person": "Martin Farmer", "beers": [8971, 8972], "city": "Nottingham", "location": "Nottingham Castle", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "4:07am", "person": "Jamie Rhind", "beers": [8973, 8974, 8975], "city": "Kesgrave", "location": "Kesgrave Social Club", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "4:20am", "person": "Wes - UK WES", "beers": [8976, 8977], "city": "Leyland", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "4:28am", "person": "Connor Wright", "beers": [8978, 8979], "city": "Copenhagen", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "4:31am", "person": "Tom Nicholl", "beers": [8980], "city": null, "location": null, "location_confidence": "medium", "session": 36, "notes": "Posted as 'France'"}
+{"date": "25/4", "time": "4:34am", "person": "Sam Mcmahon", "beers": [8981], "city": null, "location": null, "location_confidence": "medium", "session": 36, "notes": "Posted as 'France'"}
+{"date": "25/4", "time": "4:35am", "person": "Scriv", "beers": [8982, 8983], "city": null, "location": "The Florence", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "4:38am", "person": "Cellan Brady", "beers": [8984, 8985], "city": "London", "location": "Rotherhithe", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "4:39am", "person": "Jamie Rhind", "beers": [8986, 8987, 8988], "city": "Kesgrave", "location": "Kesgrave Social", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "4:39am", "person": "Ives", "beers": [8989], "city": "London", "location": "Mile End", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "4:40am", "person": "Lydia McKay", "beers": [8990], "city": "London", "location": "Mile End", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "4:43am", "person": "Cam", "beers": [8991], "city": "Hitchin", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "4:47am", "person": "Jono Dennis", "beers": [8992], "city": "Menorca", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "4:49am", "person": "James Vyse", "beers": [8993], "city": "Nottingham", "location": "Nottingham Castle", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "5:06am", "person": "Cam", "beers": [8994], "city": "Hitchin", "location": "Brickyard Hitchin", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "5:07am", "person": "Wes - UK WES", "beers": [8995, 8996], "city": "Leyland", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "5:09am", "person": "Will", "beers": [8997], "city": "Baldock", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "5:09am", "person": "mattyb", "beers": [8998], "city": "London", "location": "Victoria Park", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "5:14am", "person": "Who's this Aldi fella", "beers": [8999, 9000], "city": "Cannock", "location": "Winding Wheel", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "5:15am", "person": "Mat", "beers": [9001], "city": "Sidcup", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "5:17am", "person": "James Vyse", "beers": [9002, 9003], "city": "Nottingham", "location": "Nottingham Castle", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "5:21am", "person": "Troy", "beers": [9004, 9005, 9006], "city": "Kesgrave", "location": null, "location_confidence": "high", "session": 36, "notes": "City: Kesgrave, Suffolk"}
+{"date": "25/4", "time": "5:23am", "person": "Rayhan", "beers": [9007], "city": "Rotterdam", "location": null, "location_confidence": "high", "session": 36, "notes": "City: Rotterdam, Netherlands"}
+{"date": "25/4", "time": "5:23am", "person": "Sam Mcmahon", "beers": [9008], "city": null, "location": "Nice", "location_confidence": "high", "session": 36, "notes": "Posted as 'nice France'"}
+{"date": "25/4", "time": "5:24am", "person": "Katya R", "beers": [9009], "city": "London", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "5:24am", "person": "Oscar Watts", "beers": [9010, 9011], "city": "London", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "5:40am", "person": "Wes - UK WES", "beers": [9012, 9013], "city": "Leyland", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "5:40am", "person": "Will", "beers": [9014], "city": "Baldock", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "5:54am", "person": "Oli", "beers": [9015], "city": "Earls Colne", "location": "Drapers", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "5:56am", "person": "Fiona", "beers": [9016, 9017, 9018], "city": "London", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "5:57am", "person": "James Vyse", "beers": [9019, 9020], "city": "Nottingham", "location": "Nottingham Castle", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "5:58am", "person": "jake", "beers": [9021], "city": "Whittlesey", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "6:03am", "person": "Troy", "beers": [9022, 9023], "city": "Kesgrave", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "6:04am", "person": "Jess Smith", "beers": [9024], "city": "London", "location": "Notting Hill", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "6:09am", "person": "Billy", "beers": [9025, 9026, 9027], "city": "Exeter", "location": "Impy Wetherspoons", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "6:22am", "person": "Lydia McKay", "beers": [9028], "city": "London", "location": "Mile End", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "6:22am", "person": "Ives", "beers": [9029], "city": "London", "location": "Mile End", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "6:34am", "person": "Joseph Perkin", "beers": [9030], "city": "Nottingham", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "6:34am", "person": "Rich Moult", "beers": [9031], "city": "Hazlemere", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "6:38am", "person": "Oli", "beers": [9032, 9033], "city": "Earls Colne", "location": "Drapers", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "6:48am", "person": "Troy", "beers": [9034], "city": "Kesgrave", "location": "Kesgrave Social", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "7:04am", "person": "Andrew", "beers": [9035], "city": null, "location": "Against the Grain", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "7:32am", "person": "Conor mansfield", "beers": [9036, 9037], "city": "Japan", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "7:33am", "person": "Daniel", "beers": [9038], "city": "Montreal", "location": "Parc Montcalm", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "7:40am", "person": "Lia Woods", "beers": [], "city": "Oxfordshire", "location": "Prince of Wales", "location_confidence": "high", "session": 36, "notes": "Admin: conflict — 8957 already claimed by James Vyse (3:32am), 8958-8959 already claimed by Troy (3:36am). Lia loses both numbers."}
+{"date": "25/4", "time": "9:02am", "person": "Isabelle", "beers": [], "city": "Montreal", "location": null, "location_confidence": "high", "session": 36, "notes": "Admin: late claim for 8960 — number is in the unaccounted gap (8960-8961) but sequence had already moved past 9038 by this time. Not assigned."}
+{"date": "25/4", "time": "9:05am", "person": "Boby Brooks", "beers": [9042], "city": "Berlin", "location": null, "location_confidence": "high", "session": 36, "notes": "9039-9041 unaccounted"}
+{"date": "25/4", "time": "9:14am", "person": "Jess ✨", "beers": [9043, 9044], "city": "Santiago", "location": null, "location_confidence": "high", "session": 36, "notes": "Posted as 'santagio chile' — Santiago, Chile"}
+{"date": "25/4", "time": "9:15am", "person": "Will Nicholl", "beers": [9045, 9046, 9047, 9048, 9049, 9050, 9051, 9052], "city": "Sydney", "location": "Paddington", "location_confidence": "high", "session": 36, "notes": "Posted as '9045 - 9052 paddo'"}
+{"date": "25/4", "time": "9:46am", "person": "Tomos Griffiths", "beers": [9053], "city": "London", "location": "Balham", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "9:47am", "person": "Tomos Griffiths", "beers": [9054, 9055], "city": "London", "location": "Balham", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "10:08am", "person": "Jess ✨", "beers": [9056], "city": "Santiago", "location": null, "location_confidence": "high", "session": 36, "notes": "Posted as 'SCL chile'"}
+{"date": "25/4", "time": "10:09am", "person": "Mathew Berry", "beers": [9057], "city": null, "location": null, "location_confidence": "low", "session": 36, "notes": "Posted as 'somewhere over France'"}
+{"date": "25/4", "time": "10:10am", "person": "Tomos Griffiths", "beers": [9058], "city": "London", "location": "Balham", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "10:18am", "person": "Jess ✨", "beers": [9059], "city": "Santiago", "location": null, "location_confidence": "high", "session": 36, "notes": "Posted as 'SCL chile'"}
+{"date": "25/4", "time": "10:27am", "person": "melanie", "beers": [9060, 9061], "city": "Montreal", "location": null, "location_confidence": "high", "session": 36, "notes": "9062-9063 unaccounted"}
+{"date": "25/4", "time": "10:37am", "person": "Isabelle", "beers": [9064], "city": "Montreal", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "10:38am", "person": "Will Simpson", "beers": [9065, 9066], "city": "Sydney", "location": "North Sydney", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "10:45am", "person": "joe.", "beers": [9067], "city": "New York", "location": "Queens", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "10:54am", "person": "Cache", "beers": [9068], "city": "Montreal", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "11:09am", "person": "Addison Sherry", "beers": [9069], "city": "Sydney", "location": "The Newport", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "11:24am", "person": "Jess ✨", "beers": [9070], "city": "Santiago", "location": null, "location_confidence": "high", "session": 36, "notes": "Posted as 'SCL chile'"}
+{"date": "25/4", "time": "11:43am", "person": "Adam", "beers": [9071], "city": "Port Douglas", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "11:55am", "person": "Cache", "beers": [9072], "city": "Montreal", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "11:58am", "person": "Will Nicholl", "beers": [9073, 9074], "city": "Sydney", "location": "Paddington", "location_confidence": "high", "session": 36, "notes": "9078-9082 unaccounted"}
+{"date": "25/4", "time": "11:59am", "person": "Jess ✨", "beers": [9075], "city": "Santiago", "location": null, "location_confidence": "high", "session": 36, "notes": "Posted as 'SCL chile'"}
+{"date": "25/4", "time": "12:07pm", "person": "Will Simpson", "beers": [9076], "city": "Sydney", "location": null, "location_confidence": "high", "session": 36, "notes": "9077 — see Will Nicholl 11:58am"}
+{"date": "25/4", "time": "12:15pm", "person": "Will Nicholl", "beers": [9077], "city": "Sydney", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "12:30pm", "person": "Ben Tuckfield", "beers": [9083], "city": "London", "location": "London Bridge Rooftop", "location_confidence": "medium", "session": 36, "notes": "9078-9082 unaccounted; 'LB rooftop' interpreted as London Bridge rooftop"}
+{"date": "25/4", "time": "12:31pm", "person": "Alastair", "beers": [9084, 9085, 9086, 9087, 9088], "city": "Sydney", "location": "Newport Arms", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "12:33pm", "person": "David D", "beers": [9089, 9090, 9091, 9092], "city": null, "location": null, "location_confidence": "low", "session": 36, "notes": "Posted as 'Victory beers Go Habs Go'"}
+{"date": "25/4", "time": "12:39pm", "person": "Addison Sherry", "beers": [9093], "city": "Sydney", "location": "Newport Arms", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "12:47pm", "person": "Adam", "beers": [9094], "city": "Port Douglas", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "1:21pm", "person": "Imogen", "beers": [9095], "city": null, "location": null, "location_confidence": "low", "session": 36, "notes": "Posted as 'somewhere over Canada'"}
+{"date": "25/4", "time": "1:26pm", "person": "Ben Corbett-Jones", "beers": [9096], "city": "Sydney", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "1:35pm", "person": "Karl von Sanden", "beers": [9097, 9098, 9099, 9100], "city": "Sydney", "location": "Newport Arms", "location_confidence": "high", "session": 36, "notes": "Location on second line of message"}
+{"date": "25/4", "time": "1:47pm", "person": "Will Nicholl", "beers": [9101], "city": "Sydney", "location": "Paddington", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "1:49pm", "person": "Ian", "beers": [9102], "city": "Sydney", "location": "Manly", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "1:56pm", "person": "Ferg Ewan", "beers": [9103, 9104], "city": "Wagga Wagga", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "2:00pm", "person": "Harley", "beers": [9105, 9106, 9107], "city": "St Lucia", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "2:05pm", "person": "Alastair", "beers": [9108], "city": "Sydney", "location": "Newport Arms", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "2:09pm", "person": "Bayliss", "beers": [9109], "city": "Sydney", "location": "Paddington", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "2:21pm", "person": "Addison Sherry", "beers": [9110], "city": "Sydney", "location": "Newport Arms", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "2:26pm", "person": "Ben Corbett-Jones", "beers": [9111], "city": "Sydney", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "2:55pm", "person": "Alastair", "beers": [9112, 9113, 9114, 9115, 9116, 9117], "city": "Sydney", "location": "Newport Arms", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "2:58pm", "person": "Ben Corbett-Jones", "beers": [9118], "city": "Sydney", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "3:14pm", "person": "Michael Schmid", "beers": [9119, 9120], "city": "Tokyo", "location": null, "location_confidence": "high", "session": 36, "notes": "Posted as '9119/20 rugby beer Tokyo'"}
+{"date": "25/4", "time": "3:37pm", "person": "Wein", "beers": [9121], "city": "Gold Coast", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "3:37pm", "person": "Addison Sherry", "beers": [9122], "city": "Sydney", "location": "Newport Arms", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "3:42pm", "person": "Alastair", "beers": [9123, 9124], "city": "Sydney", "location": "Newport Arms", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "3:43pm", "person": "Oli", "beers": [9125], "city": null, "location": "Stansted Airport", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "3:43pm", "person": "Michael Schmid", "beers": [], "city": "Tokyo", "location": null, "location_confidence": "high", "session": 36, "notes": "Admin: duplicate post of 9119/9120"}
+{"date": "25/4", "time": "3:43pm", "person": "Harley", "beers": [9126], "city": "Brisbane", "location": null, "location_confidence": "high", "session": 36, "notes": "Conflict: posted '9125-9126' but 9125 already claimed by Oli (same minute, listed first). Harley gets 9126 only."}
+{"date": "25/4", "time": "3:50pm", "person": "Michael Schmid", "beers": [9127], "city": "Tokyo", "location": "Prince Chichibu Memorial Rugby Stadium", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "3:59pm", "person": "Matt Latteman", "beers": [9128], "city": null, "location": "Gatwick Airport", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "4:15pm", "person": "Oli", "beers": [9129, 9130], "city": null, "location": "Stansted Airport", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "4:20pm", "person": "Camo", "beers": [9131], "city": "Burleigh", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "4:37pm", "person": "Michael Schmid", "beers": [9132], "city": "Tokyo", "location": null, "location_confidence": "high", "session": 36, "notes": "Posted as 'faf de Klerk beer'"}
+{"date": "25/4", "time": "4:40pm", "person": "Adam", "beers": [9133], "city": "Bowral", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "4:41pm", "person": "Jocelyn", "beers": [9134, 9135, 9136, 9137, 9138], "city": "Sydney", "location": "Newport Arms", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "4:42pm", "person": "Ben Corbett-Jones", "beers": [9139], "city": "Sydney", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "4:43pm", "person": "Harley", "beers": [9140], "city": "Brisbane", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "5:02pm", "person": "Michael Schmid", "beers": [9141], "city": "Tokyo", "location": null, "location_confidence": "low", "session": 36, "notes": "No location in message; inferred Tokyo from prior posts"}
+{"date": "25/4", "time": "5:10pm", "person": "Jack", "beers": [9142], "city": "Athens", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "5:12pm", "person": "Celeste James", "beers": [9143], "city": null, "location": null, "location_confidence": "low", "session": 36, "notes": "No location given"}
+{"date": "25/4", "time": "5:23pm", "person": "Bayliss", "beers": [9144], "city": null, "location": null, "location_confidence": "low", "session": 36, "notes": "No location given"}
+{"date": "25/4", "time": "5:31pm", "person": "Ben Corbett-Jones", "beers": [9145], "city": "Sydney", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "5:41pm", "person": "Boby Brooks", "beers": [9146, 9147], "city": "Berlin", "location": null, "location_confidence": "high", "session": 36, "notes": "Posted as 'Berlin breakfast beers in bed'"}
+{"date": "25/4", "time": "5:45pm", "person": "Meg", "beers": [9148], "city": "Sydney", "location": "Manly", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "5:55pm", "person": "Addison Sherry", "beers": [9149, 9150, 9151, 9152], "city": "Sydney", "location": "Newport Arms", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "5:58pm", "person": "Jack", "beers": [9153], "city": null, "location": null, "location_confidence": "low", "session": 36, "notes": "No location given"}
+{"date": "25/4", "time": "5:58pm", "person": "Michael Schmid", "beers": [9154], "city": "Tokyo", "location": null, "location_confidence": "low", "session": 36, "notes": "No location in message; inferred Tokyo from prior posts"}
+{"date": "25/4", "time": "6:12pm", "person": "Ben Corbett-Jones", "beers": [9155], "city": "Sydney", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "6:16pm", "person": "Adam", "beers": [9156], "city": "Bowral", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "6:31pm", "person": "Alex Morton", "beers": [9157], "city": null, "location": null, "location_confidence": "low", "session": 36, "notes": "Posted as 'One for the ANZACs'"}
+{"date": "25/4", "time": "6:39pm", "person": "Bayliss", "beers": [9158], "city": null, "location": null, "location_confidence": "low", "session": 36, "notes": "Posted as 'beer on'"}
+{"date": "25/4", "time": "6:43pm", "person": "Boby Brooks", "beers": [9159, 9160], "city": "Berlin", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "6:59pm", "person": "Harry Duffy", "beers": [9161], "city": "Gold Coast", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "7:00pm", "person": "Henry W", "beers": [9162], "city": "Gold Coast", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "7:06pm", "person": "Nin", "beers": [], "city": null, "location": null, "location_confidence": "high", "session": 36, "notes": "Admin: moderation message — beer only, count is 9161 (before Henry W 9162)"}
+{"date": "25/4", "time": "7:19pm", "person": "Camo", "beers": [], "city": "Burleigh", "location": null, "location_confidence": "high", "session": 36, "notes": "Admin: conflict — posted 9162 but already claimed by Henry W (7:00pm). Camo loses."}
+{"date": "25/4", "time": "7:24pm", "person": "Will Nicholl", "beers": [9163], "city": "Sydney", "location": "Paddington", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "7:44pm", "person": "Nicholas Fraser", "beers": [9164], "city": null, "location": "Felons", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "7:48pm", "person": "Boby Brooks", "beers": [9165], "city": "Berlin", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "7:51pm", "person": "Michael Schmid", "beers": [9166], "city": "Tokyo", "location": null, "location_confidence": "low", "session": 36, "notes": "No location in message; inferred Tokyo from prior posts"}
+{"date": "25/4", "time": "7:55pm", "person": "Jack", "beers": [9167], "city": null, "location": null, "location_confidence": "low", "session": 36, "notes": "No location given"}
+{"date": "25/4", "time": "8:03pm", "person": "John Carter", "beers": [9168], "city": "Tokyo", "location": null, "location_confidence": "high", "session": 36, "notes": "Posted simultaneously with Tom Nicholl; John Carter listed first so wins 9168"}
+{"date": "25/4", "time": "8:03pm", "person": "Tom Neaverson", "beers": [9169], "city": null, "location": null, "location_confidence": "low", "session": 36, "notes": "Posted as '9169 - Monaco gp baby'; note Tom Nicholl also posted 9168 at same time — Tom's 9169 is valid, 9168 is conflicted (John Carter wins 9168)"}
+{"date": "25/4", "time": "8:03pm", "person": "Tom Nicholl", "beers": [], "city": null, "location": "Monaco", "location_confidence": "high", "session": 36, "notes": "Admin: conflict — posted 9168 at same time as John Carter; John Carter wins 9168. Tom's 9169 post also at 8:03pm is a separate valid entry. Note: Tom Nicholl was the poster, Tom Neaverson claimed 9169."}
+{"date": "25/4", "time": "8:08pm", "person": "Mike Manzo", "beers": [9170], "city": null, "location": "Monaco GP", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "8:12pm", "person": "Will Nicholl", "beers": [9171, 9172, 9173], "city": "Sydney", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "8:18pm", "person": "Joseph Perkin", "beers": [9174], "city": "Nottingham", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "8:48pm", "person": "Luke Bentley", "beers": [9175], "city": "Brighton", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "8:55pm", "person": "Joseph Perkin", "beers": [9176], "city": "Chesterfield", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "8:56pm", "person": "Charlie Roberts", "beers": [9177], "city": "London", "location": "Charlton", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "8:57pm", "person": "Michael Schmid", "beers": [9178], "city": "Tokyo", "location": null, "location_confidence": "low", "session": 36, "notes": "No location in message; inferred Tokyo from prior posts"}
+{"date": "25/4", "time": "8:59pm", "person": "John Carter", "beers": [9179], "city": null, "location": null, "location_confidence": "low", "session": 36, "notes": "No location given; John Carter posted first"}
+{"date": "25/4", "time": "8:59pm", "person": "Spencer", "beers": [], "city": "London", "location": "Charlton FC", "location_confidence": "high", "session": 36, "notes": "Admin: conflict — posted 9179 same time as John Carter; John Carter wins. Spencer loses."}
+{"date": "25/4", "time": "9:00pm", "person": "Ives", "beers": [9181], "city": "London", "location": "Charlton FC", "location_confidence": "high", "session": 36, "notes": "9180 unaccounted"}
+{"date": "25/4", "time": "9:01pm", "person": "Charlie Roberts", "beers": [9182], "city": "London", "location": "Charlton FC", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "9:03pm", "person": "Charlie Roberts", "beers": [9183], "city": "London", "location": "Charlton FC", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "9:11pm", "person": "Fiona", "beers": [9184, 9185, 9186, 9187], "city": "London", "location": "Albion", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "9:21pm", "person": "Ives", "beers": [9188], "city": "London", "location": "Charlton FC", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "9:25pm", "person": "Will", "beers": [9189], "city": "Baldock", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "9:25pm", "person": "Oli", "beers": [9190, 9191], "city": null, "location": "Malaga Airport", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "9:27pm", "person": "Charlie Roberts", "beers": [9192, 9193], "city": "London", "location": "Charlton FC", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "9:30pm", "person": "Mike Manzo", "beers": [9194], "city": null, "location": "Monaco GP", "location_confidence": "high", "session": 36, "notes": "Posted as 'Ferrari time'"}
+{"date": "25/4", "time": "9:30pm", "person": "Tom Nicholl", "beers": [9195], "city": null, "location": "Monaco", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "9:33pm", "person": "Tom Neaverson", "beers": [9196, 9197], "city": null, "location": "Peel Street", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "9:35pm", "person": "Tom Nicholl", "beers": [], "city": null, "location": "Monaco", "location_confidence": "high", "session": 36, "notes": "Admin: duplicate post of 9195"}
+{"date": "25/4", "time": "9:44pm", "person": "Will Simpson", "beers": [9198, 9199], "city": "Sydney", "location": "Paddington", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "9:47pm", "person": "Mark 🔴⚪️", "beers": [9200], "city": "London", "location": "Tortilla, Angel", "location_confidence": "high", "session": 36, "notes": "Posted as '9,200' — thousands separator interpreted as 9200"}
+{"date": "25/4", "time": "9:52pm", "person": "Joseph Perkin", "beers": [9201], "city": "Sheffield", "location": null, "location_confidence": "high", "session": 36, "notes": "Posted as '9,201' — thousands separator interpreted as 9201"}
+{"date": "25/4", "time": "10:03pm", "person": "Mark 🔴⚪️", "beers": [9202], "city": "London", "location": "The Three Johns, Angel", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "10:04pm", "person": "Will", "beers": [9203], "city": "Baldock", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "10:12pm", "person": "Chelsea Wilkins", "beers": [9204, 9205], "city": "London", "location": "The Albion", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "10:27pm", "person": "Thanura", "beers": [9206, 9207], "city": "London", "location": "The Albion", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "10:30pm", "person": "Rayhan", "beers": [9208], "city": "Luttre", "location": null, "location_confidence": "high", "session": 36, "notes": "City: Luttre, Belgium"}
+{"date": "25/4", "time": "10:36pm", "person": "Nick", "beers": [9209], "city": "London", "location": "The Three Johns, Angel", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "10:44pm", "person": "Tom Nicholl", "beers": [9210], "city": null, "location": "Monaco", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "10:46pm", "person": "Charlie Roberts", "beers": [9211], "city": "London", "location": "Charlton FC", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "10:46pm", "person": "Ives", "beers": [9212, 9213], "city": "London", "location": "Charlton FC", "location_confidence": "high", "session": 36, "notes": "9214 unaccounted"}
+{"date": "25/4", "time": "11:07pm", "person": "Nick", "beers": [9215], "city": "London", "location": "George IV, Angel", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "11:09pm", "person": "Phil", "beers": [9216, 9217], "city": "Worcester", "location": null, "location_confidence": "high", "session": 36, "notes": "Posted as 'remembered late'"}
+{"date": "25/4", "time": "11:14pm", "person": "Will", "beers": [9218], "city": "Baldock", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "11:16pm", "person": "Charlie", "beers": [9219], "city": "London", "location": "Bond Street", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "11:19pm", "person": "Salvatore", "beers": [9220, 9221], "city": "London", "location": "St James's Park", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "11:22pm", "person": "Tim Hurford", "beers": [9222], "city": "Hong Kong", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "11:24pm", "person": "Phil", "beers": [9223, 9224], "city": "Worcester", "location": "Mug House", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "11:26pm", "person": "Joseph Perkin", "beers": [9225], "city": "Sheffield", "location": null, "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "11:43pm", "person": "John Carter", "beers": [9226], "city": "Tokyo", "location": "Shibuya", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "11:45pm", "person": "Nick", "beers": [9227, 9228], "city": "London", "location": "The Albion", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "25/4", "time": "11:53pm", "person": "Tom Nicholl", "beers": [9229], "city": null, "location": "Monte Carlo", "location_confidence": "high", "session": 36, "notes": null}
+{"date": "26/4", "time": "12:03am", "person": "Mike Manzo", "beers": [9230], "city": null, "location": "Monaco", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "12:04am", "person": "Joseph Perkin", "beers": [9231, 9232], "city": "Sheffield", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "12:05am", "person": "Sam Mcmahon", "beers": [9233], "city": null, "location": null, "location_confidence": "low", "session": 37, "notes": "Posted as 'not in Monaco'"}
+{"date": "26/4", "time": "12:05am", "person": "Rayhan", "beers": [9234], "city": "Charleroi", "location": null, "location_confidence": "high", "session": 37, "notes": "City: Charleroi, Belgium"}
+{"date": "26/4", "time": "12:07am", "person": "Jess Smith", "beers": [9235], "city": "London", "location": "Bethnal Green", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "12:09am", "person": "Salvatore", "beers": [9236], "city": "London", "location": "Sherlock Holmes", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "12:15am", "person": "Rich", "beers": [9237, 9238], "city": "Warfield", "location": null, "location_confidence": "high", "session": 37, "notes": "Posted as '9237-8'"}
+{"date": "26/4", "time": "12:22am", "person": "Nick", "beers": [9239], "city": "London", "location": "The Albion", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "12:30am", "person": "Chris Marlow", "beers": [9240, 9241], "city": "Sheffield", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "12:35am", "person": "Wes - UK WES", "beers": [9242, 9243], "city": "Lango", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "12:41am", "person": "Thanura", "beers": [9244, 9245, 9246], "city": "London", "location": "The Albion", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "12:50am", "person": "Tom Neaverson", "beers": [9247, 9248], "city": "Hong Kong", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "12:58am", "person": "Jack", "beers": [9249, 9250], "city": "Mallorca", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "1:02am", "person": "Abby", "beers": [9251], "city": null, "location": null, "location_confidence": "low", "session": 37, "notes": "No location given"}
+{"date": "26/4", "time": "1:02am", "person": "Ollie Collins", "beers": [], "city": "London", "location": "Auld Sheeligh, Stoke Newington", "location_confidence": "high", "session": 37, "notes": "Admin: conflict — posted '9251-52' but 9251 already claimed by Abby (same minute, listed first). Ollie clarified with delayed send (9252-9253)."}
+{"date": "26/4", "time": "1:03am", "person": "Ollie Collins", "beers": [9252, 9253], "city": "London", "location": "Auld Sheeligh, Stoke Newington", "location_confidence": "high", "session": 37, "notes": "Delayed send clarification — actual claim is 9252-9253"}
+{"date": "26/4", "time": "1:04am", "person": "Cam", "beers": [9254], "city": "Letchworth", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "1:12am", "person": "Ives", "beers": [9255], "city": "London", "location": "Duke of Wellington", "location_confidence": "high", "session": 37, "notes": "Posted as 'duke of welly'"}
+{"date": "26/4", "time": "1:13am", "person": "Charlie Roberts", "beers": [9256, 9257], "city": "London", "location": "Duke of Wellington", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "1:26am", "person": "Sam Mcmahon", "beers": [9258], "city": "Brazil", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "1:27am", "person": "Mat", "beers": [9259], "city": "Sidcup", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "1:33am", "person": "Will", "beers": [9260, 9261, 9262], "city": null, "location": null, "location_confidence": "low", "session": 37, "notes": "Posted as '9260-9562' — '9562' is a typo for '9262'. Corrected to 9260-9262."}
+{"date": "26/4", "time": "1:37am", "person": "Matt Latteman", "beers": [9263], "city": "Krakow", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "1:43am", "person": "Nick", "beers": [9264], "city": "London", "location": "Block 12 The Arsenal", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "1:49am", "person": "Charlie Roberts", "beers": [9265], "city": "London", "location": "Duke of Wellington", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "1:59am", "person": "Dom Duncan", "beers": [9266], "city": "Kingston", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "2:11am", "person": "Wes - UK WES", "beers": [9267, 9268], "city": "Lango", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "2:33am", "person": "Dom Duncan", "beers": [9269, 9270], "city": "Kingston", "location": null, "location_confidence": "high", "session": 37, "notes": "Posted as '9269-2970' — '2970' is a typo for '9270'. Corrected to 9269-9270."}
+{"date": "26/4", "time": "2:40am", "person": "Mat", "beers": [9271], "city": "Sidcup", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "2:47am", "person": "Damo", "beers": [9272], "city": "Ribble Valley", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "2:48am", "person": "Ives", "beers": [9273], "city": "London", "location": "Duke of Wellington", "location_confidence": "high", "session": 37, "notes": "Posted as 'duke of welly'"}
+{"date": "26/4", "time": "2:49am", "person": "Elliot", "beers": [9274], "city": "Trewellard", "location": null, "location_confidence": "high", "session": 37, "notes": "City: Trewellard, Cornwall"}
+{"date": "26/4", "time": "2:51am", "person": "Mathew Berry", "beers": [9275], "city": "Mallorca", "location": "Peguera", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "2:57am", "person": "Adam Petley", "beers": [9276], "city": "Sheffield", "location": "Alder", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "3:12am", "person": "Jess 1", "beers": [9277, 9278], "city": "Mallorca", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "3:16am", "person": "Dom Duncan", "beers": [9279, 9280], "city": "Kingston", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "3:16am", "person": "Jess 1", "beers": [9281, 9282], "city": "Mallorca", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "3:16am", "person": "Tom Nicholl", "beers": [], "city": null, "location": "Monaco", "location_confidence": "high", "session": 37, "notes": "Admin: conflict — posted 9272 but already claimed by Damo (2:47am). Tom loses."}
+{"date": "26/4", "time": "3:19am", "person": "Wes - UK WES", "beers": [], "city": "Barrowford", "location": null, "location_confidence": "high", "session": 37, "notes": "Admin: conflict — posted 9273 but already claimed by Ives (2:48am). Wes loses."}
+{"date": "26/4", "time": "3:30am", "person": "Jess - 2", "beers": [], "city": "Sheffield", "location": null, "location_confidence": "high", "session": 37, "notes": "Admin: conflict — posted 9274 but already claimed by Elliot (2:49am). Jess - 2 loses."}
+{"date": "26/4", "time": "3:31am", "person": "Damo", "beers": [], "city": "Ribble Valley", "location": null, "location_confidence": "high", "session": 37, "notes": "Admin: conflict — posted 9275 but already claimed by Mathew Berry (2:51am). Damo loses."}
+{"date": "26/4", "time": "3:35am", "person": "Sam Mcmahon", "beers": [], "city": null, "location": null, "location_confidence": "high", "session": 37, "notes": "Admin: conflict — posted 9276 but already claimed by Adam Petley (2:57am). Sam loses."}
+{"date": "26/4", "time": "3:37am", "person": "James Vyse", "beers": [], "city": "Sheffield", "location": null, "location_confidence": "high", "session": 37, "notes": "Admin: conflict — posted 9277 but already claimed by Jess 1 (3:12am). James loses."}
+{"date": "26/4", "time": "3:41am", "person": "Mags", "beers": [], "city": null, "location": "my house", "location_confidence": "high", "session": 37, "notes": "Admin: conflict — posted 9278 but already claimed by Jess 1 (3:12am). Mags loses."}
+{"date": "26/4", "time": "3:50am", "person": "Matt Latteman", "beers": [], "city": "Krakow", "location": null, "location_confidence": "high", "session": 37, "notes": "Admin: conflict — posted 9279 but already claimed by Dom Duncan (3:16am). Matt loses."}
+{"date": "26/4", "time": "3:51am", "person": "Phil", "beers": [], "city": null, "location": "Patrick's Beckenham", "location_confidence": "high", "session": 37, "notes": "Admin: conflict — posted 9280 but already claimed by Dom Duncan (3:16am). Phil loses."}
+{"date": "26/4", "time": "3:53am", "person": "serena", "beers": [], "city": null, "location": "Quesada", "location_confidence": "high", "session": 37, "notes": "Admin: conflict — posted 9281 but already claimed by Jess 1 (3:16am). serena loses."}
+{"date": "26/4", "time": "3:56am", "person": "Red Freeman", "beers": [9283, 9284], "city": "London", "location": "Dulwich", "location_confidence": "high", "session": 37, "notes": "Posted as '9282-84' — 9282 conflicts with Jess 1 (3:16am). Red Freeman gets 9283-9284 only."}
+{"date": "26/4", "time": "3:58am", "person": "Elliot", "beers": [9285], "city": "Trewellard", "location": null, "location_confidence": "high", "session": 37, "notes": "City: Trewellard, Cornwall"}
+{"date": "26/4", "time": "4:02am", "person": "Matty", "beers": [9286], "city": "Sheffield", "location": "Rutland", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "4:06am", "person": "Matt Bratt", "beers": [9287], "city": "Bromley", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "4:28am", "person": "Sam Mcmahon", "beers": [9288], "city": null, "location": "12 Knots", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "4:40am", "person": "James Vyse", "beers": [9289], "city": "Sheffield", "location": "The Mowbray", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "4:44am", "person": "Wes - UK WES", "beers": [9290], "city": "Barrowford", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "4:52am", "person": "Chris Marlow", "beers": [9291, 9292], "city": "Sheffield", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "4:54am", "person": "James Vyse", "beers": [9293], "city": "Sheffield", "location": "The Mowbray", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "4:57am", "person": "Joe Hannant", "beers": [9294], "city": null, "location": "Sportsman Inn", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "5:01am", "person": "Niamh", "beers": [9295], "city": "Canterbury", "location": "The Old Weavers", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "5:12am", "person": "James Vyse", "beers": [9296], "city": "Sheffield", "location": "The Mowbray", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "5:16am", "person": "Nick", "beers": [9297], "city": "London", "location": "George IV", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "5:23am", "person": "Jack", "beers": [9300], "city": null, "location": "The Prince Arthur", "location_confidence": "high", "session": 37, "notes": "Posted as 'forgot' — late claim; 9298 unaccounted. Jack posts 9300 before James Vyse posts 9299 (5:34am)."}
+{"date": "26/4", "time": "5:34am", "person": "James Vyse", "beers": [9299], "city": "Sheffield", "location": "The Mowbray", "location_confidence": "high", "session": 37, "notes": "Retroactive/late claim for 9299 — posted after Jack claimed 9300 (5:23am) but 9299 was not yet taken"}
+{"date": "26/4", "time": "5:40am", "person": "Joseph Perkin", "beers": [], "city": "Sheffield", "location": "Triple Point", "location_confidence": "high", "session": 37, "notes": "Admin: conflict — posted 9300 but already claimed by Jack (5:23am). Joseph loses."}
+{"date": "26/4", "time": "5:48am", "person": "James Vyse", "beers": [9301], "city": "Sheffield", "location": "The Mowbray", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "5:50am", "person": "Matt", "beers": [9302, 9303, 9304, 9305], "city": "Thrapston", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "5:50am", "person": "Adam Petley", "beers": [9306], "city": "Sheffield", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "5:50am", "person": "Joseph", "beers": [9307, 9308], "city": null, "location": null, "location_confidence": "low", "session": 37, "notes": "Posted as 'beers served in a coffee cup bcs of North American drinking laws'"}
+{"date": "26/4", "time": "5:50am", "person": "Martin Farmer", "beers": [9309], "city": "Edwalton", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "5:53am", "person": "Andre", "beers": [9310], "city": null, "location": null, "location_confidence": "low", "session": 37, "notes": "No location given"}
+{"date": "26/4", "time": "5:54am", "person": "Lydia McKay", "beers": [9311], "city": "London", "location": "Mile End", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "5:55am", "person": "Ives", "beers": [9312], "city": "London", "location": "Mile End", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "5:57am", "person": "Sam Mcmahon", "beers": [9313], "city": "London", "location": "The George, London Bridge", "location_confidence": "high", "session": 37, "notes": "Posted as '8313 the George London bridge' — typo corrected to 9313"}
+{"date": "26/4", "time": "6:06am", "person": "Matt", "beers": [9314], "city": "Thrapston", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "6:08am", "person": "James Vyse", "beers": [9315], "city": "Sheffield", "location": "The Mowbray", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "6:11am", "person": "Damo", "beers": [9316], "city": null, "location": "Pints R Us", "location_confidence": "medium", "session": 37, "notes": "Location described as 'pints r us (used to be toys r us)'"}
+{"date": "26/4", "time": "6:15am", "person": "Conor mansfield", "beers": [9317], "city": null, "location": "Jubilee", "location_confidence": "low", "session": 37, "notes": null}
+{"date": "26/4", "time": "6:27am", "person": "James Vyse", "beers": [9318], "city": "Sheffield", "location": "The Mowbray", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "6:31am", "person": "Mags", "beers": [9319, 9320], "city": "London", "location": "Hackney Wick", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "6:35am", "person": "Luke Jowett", "beers": [9321, 9322, 9323], "city": "Brighton", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "6:36am", "person": "Moritz", "beers": [9324], "city": "Stockholm", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "6:47am", "person": "James Vyse", "beers": [9325], "city": "Sheffield", "location": "The Mowbray", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "6:56am", "person": "Sam Mcmahon", "beers": [9326], "city": "London", "location": "Padella", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "7:00am", "person": "Mags", "beers": [9327], "city": "London", "location": "Hackney Wick", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "7:12am", "person": "Joseph Perkin", "beers": [9328], "city": "Sheffield", "location": "Triple Point", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "7:24am", "person": "Jay", "beers": [9329, 9330], "city": "Sheffield", "location": "Triple Point Brewery", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "7:26am", "person": "Rayhan", "beers": [9331, 9332], "city": "Prague", "location": null, "location_confidence": "high", "session": 37, "notes": "city: Prague, Czechia"}
+{"date": "26/4", "time": "7:34am", "person": "Daniel Martin", "beers": [9333, 9334, 9335, 9336, 9337], "city": "Toronto", "location": "Rivoli", "location_confidence": "high", "session": 37, "notes": "city: Toronto, Canada"}
+{"date": "26/4", "time": "8:00am", "person": "Joseph Perkin", "beers": [], "city": "Sheffield", "location": "Triple Point", "location_confidence": "high", "session": 37, "notes": "Posted '9778-9' — premature out-of-sequence number, count corrected to 9348 by Ben Furby at 9:17am"}
+{"date": "26/4", "time": "8:02am", "person": "Joseph", "beers": [], "city": null, "location": null, "location_confidence": "low", "session": 37, "notes": "Posted '9780,9781' — premature out-of-sequence numbers, count corrected to 9348 by Ben Furby at 9:17am"}
+{"date": "26/4", "time": "8:32am", "person": "Joseph", "beers": [], "city": null, "location": null, "location_confidence": "low", "session": 37, "notes": "Posted '9782,9783' — premature out-of-sequence numbers, count corrected to 9348 by Ben Furby at 9:17am"}
+{"date": "26/4", "time": "8:38am", "person": "alexyael33", "beers": [], "city": null, "location": null, "location_confidence": "low", "session": 37, "notes": "Posted '9784' — premature out-of-sequence number, count corrected to 9348 by Ben Furby at 9:17am"}
+{"date": "26/4", "time": "8:59am", "person": "Mags", "beers": [], "city": null, "location": "cool party", "location_confidence": "low", "session": 37, "notes": "Posted '9785' — premature out-of-sequence number, count corrected to 9348 by Ben Furby at 9:17am"}
+{"date": "26/4", "time": "9:02am", "person": "Mags", "beers": [], "city": "London", "location": "Hackney Wick", "location_confidence": "high", "session": 37, "notes": "Posted '8786' — wrong number, part of count-correction period before Ben Furby's 9348 correction at 9:17am"}
+{"date": "26/4", "time": "9:03am", "person": "Rachael Stephenson", "beers": [], "city": null, "location": "my house", "location_confidence": "high", "session": 37, "notes": "Posted '8787' — wrong number, part of count-correction period before Ben Furby's 9348 correction at 9:17am"}
+{"date": "26/4", "time": "9:05am", "person": "Ali", "beers": [], "city": "London", "location": "Ealing", "location_confidence": "high", "session": 37, "notes": "Posted '8788' — wrong number, part of count-correction period before Ben Furby's 9348 correction at 9:17am"}
+{"date": "26/4", "time": "9:17am", "person": "Ben Furby", "beers": [], "city": null, "location": null, "location_confidence": "low", "session": 37, "notes": "Count correction announcement: 'Count 9348***' — establishing true count after out-of-sequence posts"}
+{"date": "26/4", "time": "9:35am", "person": "Andre", "beers": [9349], "city": null, "location": null, "location_confidence": "low", "session": 37, "notes": null}
+{"date": "26/4", "time": "9:37am", "person": "Marta", "beers": [9350, 9351, 9352, 9353], "city": null, "location": "Shakespeare's Head", "location_confidence": "medium", "session": 37, "notes": null}
+{"date": "26/4", "time": "9:38am", "person": "Rebecca", "beers": [9354], "city": null, "location": null, "location_confidence": "low", "session": 37, "notes": null}
+{"date": "26/4", "time": "9:47am", "person": "Charlie Roberts", "beers": [9338, 9339, 9340, 9341], "city": "London", "location": "Stepney Green", "location_confidence": "high", "session": 37, "notes": "Retroactive claim for the gap 9338-9341 before Ben Furby's count correction"}
+{"date": "26/4", "time": "9:53am", "person": "Imogen", "beers": [9359], "city": "Vancouver", "location": null, "location_confidence": "high", "session": 37, "notes": "Posted 'real count I think' — 9355-9358 unaccounted (likely image-only posts)"}
+{"date": "26/4", "time": "10:05am", "person": "Daniel", "beers": [9360], "city": "Montréal", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "11:06am", "person": "Imogen", "beers": [9361], "city": "Vancouver", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "12:33pm", "person": "Mitch", "beers": [9362], "city": "Sydney", "location": "Mascot", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "12:36pm", "person": "Ben Furby", "beers": [9363, 9364], "city": "Sydney", "location": "Bald Rock Hotel", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "1:05pm", "person": "Ben Furby", "beers": [9365, 9366], "city": "Sydney", "location": "Balmain", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "1:24pm", "person": "Ben Corbett-Jones", "beers": [9367], "city": "Sydney", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "1:55pm", "person": "Sam", "beers": [9368, 9369], "city": "Brisbane", "location": "Howard Smith Wharves", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "1:58pm", "person": "Ben Furby", "beers": [9370, 9371], "city": "Sydney", "location": "Balmain", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "2:25pm", "person": "Sam", "beers": [9372], "city": "Brisbane", "location": "Howard Smith Wharves", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "2:34pm", "person": "Thom", "beers": [9373], "city": "Newcastle", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "2:49pm", "person": "Christian Packard", "beers": [9374], "city": "New York", "location": "Washington Square Park", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "3:34pm", "person": "Adam", "beers": [9375], "city": "Bowral", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "3:59pm", "person": "Ben Corbett-Jones", "beers": [9376], "city": "Sydney", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "4:21pm", "person": "Fionn Mahoney", "beers": [9377, 9378], "city": "Sydney", "location": "North Sydney", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "4:37pm", "person": "Ben Corbett-Jones", "beers": [9379], "city": "Sydney", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "4:43pm", "person": "SpagEddy", "beers": [9380], "city": "Sydney", "location": "Narrabeen", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "5:14pm", "person": "Ben Corbett-Jones", "beers": [9381], "city": "Sydney", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "5:18pm", "person": "Adam", "beers": [9382], "city": "Bowral", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "5:26pm", "person": "SpagEddy", "beers": [9383], "city": "Sydney", "location": "Narrabeen", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "5:43pm", "person": "Ben Corbett-Jones", "beers": [9384], "city": "Sydney", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "6:12pm", "person": "Alastair", "beers": [9385, 9386], "city": "Sydney", "location": "Rose Bay", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "6:35pm", "person": "Ben Corbett-Jones", "beers": [9387], "city": "Sydney", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "7:20pm", "person": "Andrew", "beers": [9388, 9389], "city": "Kyoto", "location": null, "location_confidence": "high", "session": 37, "notes": "city: Kyoto, Japan"}
+{"date": "26/4", "time": "7:27pm", "person": "Addison Sherry", "beers": [9390, 9391, 9392], "city": "Sydney", "location": "Rose Bay", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "7:37pm", "person": "Mik", "beers": [9393], "city": "Gallipoli", "location": null, "location_confidence": "high", "session": 37, "notes": "ANZAC Day — city: Gallipoli, Turkey"}
+{"date": "26/4", "time": "7:40pm", "person": "Adam", "beers": [9394], "city": "Bowral", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "8:04pm", "person": "Mags", "beers": [9396], "city": null, "location": "fancy hotel", "location_confidence": "low", "session": 37, "notes": "Posted at same timestamp as Sam Mcmahon 9395; Mags listed first in chat but claimed 9396, Sam claimed 9395 — both accepted"}
+{"date": "26/4", "time": "8:04pm", "person": "Sam Mcmahon", "beers": [9395], "city": null, "location": null, "location_confidence": "low", "session": 37, "notes": "Posted at same timestamp as Mags 9396; Sam claimed 9395, Mags claimed 9396 — both accepted; 'with my friend mags' is a comment not a location"}
+{"date": "26/4", "time": "8:16pm", "person": "Adam Petley", "beers": [], "city": null, "location": "Coventry Building Society Arena", "location_confidence": "high", "session": 37, "notes": "Posted '9396' — conflict, 9396 already claimed by Mags at 8:04pm; Mags wins"}
+{"date": "26/4", "time": "8:19pm", "person": "Jack", "beers": [9397, 9398], "city": "Mallorca", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "8:43pm", "person": "Karl von Sanden", "beers": [9399, 9400], "city": "Sydney", "location": "Rose Bay RSL", "location_confidence": "high", "session": 37, "notes": "ANZAC Day remembrance"}
+{"date": "26/4", "time": "8:46pm", "person": "Tom Nicholl", "beers": [9401], "city": null, "location": "Tabac", "location_confidence": "medium", "session": 37, "notes": null}
+{"date": "26/4", "time": "8:46pm", "person": "Tom Nicholl", "beers": [], "city": null, "location": "Tabac", "location_confidence": "medium", "session": 37, "notes": "Posted '9340 - tabac' — retroactive claim for 9340, but 9340 already claimed by Charlie Roberts (9338-9341) at 9:47am; Charlie Roberts wins"}
+{"date": "26/4", "time": "8:53pm", "person": "Rayhan", "beers": [9402], "city": "Prague", "location": null, "location_confidence": "high", "session": 37, "notes": "city: Prague, Czechia"}
+{"date": "26/4", "time": "8:57pm", "person": "Mags", "beers": [9403], "city": null, "location": "Marathon Hotel", "location_confidence": "low", "session": 37, "notes": null}
+{"date": "26/4", "time": "8:59pm", "person": "Mike Manzo", "beers": [9404], "city": "Monaco", "location": null, "location_confidence": "high", "session": 37, "notes": "Flag emoji suggests Monaco"}
+{"date": "26/4", "time": "9:00pm", "person": "Mathew Berry", "beers": [9405], "city": "Mallorca", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "9:02pm", "person": "Jack", "beers": [9406], "city": "Mallorca", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "9:19pm", "person": "Jess 1", "beers": [9407], "city": "Mallorca", "location": null, "location_confidence": "high", "session": 37, "notes": "Posted '9407-9407' — range from same number to same number, single beer; typo in range notation"}
+{"date": "26/4", "time": "9:23pm", "person": "George Purcell", "beers": [9408, 9409], "city": null, "location": "The Cherry Tree, Stoke Row", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "9:42pm", "person": "Thom", "beers": [9410], "city": null, "location": null, "location_confidence": "low", "session": 37, "notes": "Message also contained 'Good luck in the race @Sam Mcmahon'"}
+{"date": "26/4", "time": "9:42pm", "person": "Tom Nicholl", "beers": [9411], "city": null, "location": "Le same", "location_confidence": "low", "session": 37, "notes": "Location 'Le same' implies same as previous post (Tabac/Monaco area)"}
+{"date": "26/4", "time": "9:43pm", "person": "Sam Mcmahon", "beers": [9412], "city": null, "location": null, "location_confidence": "low", "session": 37, "notes": "'with admin and my running mate @Mags' is a comment not a location"}
+{"date": "26/4", "time": "9:49pm", "person": "Jess Manzo", "beers": [9413], "city": null, "location": "LHR lounge", "location_confidence": "high", "session": 37, "notes": "Location: Heathrow Airport lounge"}
+{"date": "26/4", "time": "9:50pm", "person": "Mags", "beers": [9414], "city": null, "location": null, "location_confidence": "low", "session": 37, "notes": "'long running race' is a comment not a location"}
+{"date": "26/4", "time": "10:01pm", "person": "Marta", "beers": [9415], "city": null, "location": null, "location_confidence": "low", "session": 37, "notes": "'healthy people activities' is a comment not a location"}
+{"date": "26/4", "time": "10:11pm", "person": "Sam Mcmahon", "beers": [9416], "city": "Monaco", "location": "Monaco GP", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "10:12pm", "person": "Thom", "beers": [9417], "city": "London", "location": null, "location_confidence": "high", "session": 37, "notes": "'with Kipchoge' is a comment (marathon context)"}
+{"date": "26/4", "time": "10:22pm", "person": "Tom Nicholl", "beers": [9418], "city": "Monaco", "location": null, "location_confidence": "high", "session": 37, "notes": "'with Kimi, Ruebens, Felipe, Michael and Michael' is a comment"}
+{"date": "26/4", "time": "10:27pm", "person": "Scriv", "beers": [9419, 9420], "city": null, "location": "Bromley FC", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "11:05pm", "person": "corinna", "beers": [9421, 9422, 9423, 9424, 9425, 9426, 9427, 9428, 9429, 9430, 9431, 9432], "city": "Madrid", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "11:08pm", "person": "Thom", "beers": [9433], "city": null, "location": null, "location_confidence": "low", "session": 37, "notes": "'SKD with marathon McMahon' is a comment"}
+{"date": "26/4", "time": "11:10pm", "person": "Sam Mcmahon", "beers": [9434], "city": null, "location": null, "location_confidence": "low", "session": 37, "notes": "'with admin still' is a comment not a location"}
+{"date": "26/4", "time": "11:29pm", "person": "Tom Nicholl", "beers": [9435], "city": "Monaco", "location": "Principality", "location_confidence": "high", "session": 37, "notes": null}
+{"date": "26/4", "time": "11:31pm", "person": "Mitch", "beers": [9436], "city": null, "location": "above Alice Springs", "location_confidence": "high", "session": 37, "notes": "On a plane above Alice Springs"}
+{"date": "26/4", "time": "11:32pm", "person": "Jess 1", "beers": [9437, 9438, 9439], "city": "Mallorca", "location": null, "location_confidence": "high", "session": 37, "notes": null}
+{"date": "27/4", "time": "12:01am", "person": "Who's this Aldi fella", "beers": [9440, 9441], "city": null, "location": "Fox at Bransford", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "12:01am", "person": "corinna", "beers": [9442, 9443, 9444, 9445, 9446, 9447, 9448, 9449, 9450, 9451, 9452, 9453], "city": "Madrid", "location": null, "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "12:04am", "person": "Scriv", "beers": [9454, 9455], "city": null, "location": "The George", "location_confidence": "medium", "session": 38, "notes": null}
+{"date": "27/4", "time": "12:09am", "person": "Jess Smith", "beers": [9456, 9457, 9458], "city": "London", "location": "Brick Lane Jazz Festival", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "12:09am", "person": "Jack", "beers": [9459, 9460], "city": "Mallorca", "location": null, "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "12:11am", "person": "Connor Wright", "beers": [9461, 9462], "city": "Copenhagen", "location": null, "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "12:33am", "person": "Thom", "beers": [9463], "city": "London", "location": "Captain Kidd, Wapping", "location_confidence": "high", "session": 38, "notes": "Location written as 'captain kiddy fiddler, Wapping' — interpreted as Captain Kidd pub, Wapping"}
+{"date": "27/4", "time": "12:34am", "person": "Sam Mcmahon", "beers": [9464], "city": null, "location": null, "location_confidence": "low", "session": 38, "notes": "'With admin still' is a comment; @ mention of Aldi fella is not a location"}
+{"date": "27/4", "time": "12:34am", "person": "Marta", "beers": [9465], "city": null, "location": null, "location_confidence": "low", "session": 38, "notes": "'with the queen and the admin' is a comment not a location"}
+{"date": "27/4", "time": "12:36am", "person": "Damo", "beers": [9466], "city": null, "location": "Hyndburn Bridge, Great Harwood", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "12:42am", "person": "James Vyse", "beers": [9467], "city": null, "location": "The Knockerdown", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "12:48am", "person": "Wes - UK WES", "beers": [9468, 9469], "city": null, "location": "Barley", "location_confidence": "medium", "session": 38, "notes": "Posted '9468-9' — interpreted as 9468-9469"}
+{"date": "27/4", "time": "12:51am", "person": "Charlie Roberts", "beers": [9470, 9471], "city": null, "location": "Rose and Crown", "location_confidence": "medium", "session": 38, "notes": null}
+{"date": "27/4", "time": "12:58am", "person": "Connor Wright", "beers": [9472, 9473], "city": "Copenhagen", "location": null, "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "1:02am", "person": "Ives", "beers": [9474, 9475], "city": "London", "location": "London Bridge", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "1:03am", "person": "Mitch", "beers": [9476], "city": "Ho Chi Minh City", "location": null, "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "1:05am", "person": "Mike Manzo", "beers": [], "city": "Monaco", "location": null, "location_confidence": "high", "session": 38, "notes": "Posted '9437' — conflict, 9437 already claimed by Jess 1 at 11:32pm on 26/4 (9437-9439); Jess 1 wins"}
+{"date": "27/4", "time": "1:05am", "person": "Tom Nicholl", "beers": [9477], "city": "Monaco", "location": null, "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "1:06am", "person": "Mike Manzo", "beers": [9478], "city": "Monaco", "location": null, "location_confidence": "high", "session": 38, "notes": "'Cars and shit' is a comment (Monaco GP context)"}
+{"date": "27/4", "time": "1:08am", "person": "Oli", "beers": [9479], "city": "Marbella", "location": null, "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "1:10am", "person": "Conor mansfield", "beers": [9480, 9481], "city": null, "location": "Wembley", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "1:17am", "person": "Damo", "beers": [9482], "city": null, "location": "Freemasons, Wiswell", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "1:27am", "person": "Mitch", "beers": [9483], "city": "Ho Chi Minh City", "location": null, "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "1:28am", "person": "George Purcell", "beers": [9484, 9485], "city": null, "location": "Radley", "location_confidence": "medium", "session": 38, "notes": null}
+{"date": "27/4", "time": "1:33am", "person": "Jess 1", "beers": [9486, 9487, 9488], "city": "Mallorca", "location": null, "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "1:35am", "person": "Charlie Roberts", "beers": [9490, 9491], "city": null, "location": "Rose and Crown", "location_confidence": "medium", "session": 38, "notes": "9489 unaccounted/skipped"}
+{"date": "27/4", "time": "1:43am", "person": "Wes - UK WES", "beers": [9492], "city": null, "location": "Barley", "location_confidence": "medium", "session": 38, "notes": null}
+{"date": "27/4", "time": "1:53am", "person": "Tom Nicholl", "beers": [9493], "city": "Monaco", "location": null, "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "1:59am", "person": "Patty", "beers": [9494, 9495], "city": "London", "location": "Bromley", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "2:15am", "person": "Charlie Roberts", "beers": [9496], "city": null, "location": "Rose and Crown", "location_confidence": "medium", "session": 38, "notes": null}
+{"date": "27/4", "time": "2:24am", "person": "Jess Smith", "beers": [9497, 9498, 9499], "city": "London", "location": "Brick Lane", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "2:36am", "person": "Luke Bentley", "beers": [9500], "city": null, "location": "Arundel", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "3:36am", "person": "Hugo Ilencik", "beers": [9501], "city": "London", "location": "Broadway Market", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "3:37am", "person": "Wes - UK WES", "beers": [9502], "city": null, "location": "Barley", "location_confidence": "medium", "session": 38, "notes": null}
+{"date": "27/4", "time": "4:24am", "person": "Charlie Roberts", "beers": [9503, 9504], "city": null, "location": "Rose and Crown", "location_confidence": "medium", "session": 38, "notes": null}
+{"date": "27/4", "time": "4:43am", "person": "Andrew M", "beers": [9505, 9506], "city": "Istanbul", "location": "Besiktas", "location_confidence": "high", "session": 38, "notes": "Watching the Istanbul derby"}
+{"date": "27/4", "time": "4:44am", "person": "Louis", "beers": [9507, 9508], "city": "Amsterdam", "location": null, "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "4:58am", "person": "Oli", "beers": [9509, 9510, 9511, 9512], "city": "Marbella", "location": "Puerto Banus", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "5:40am", "person": "James Robins", "beers": [9513, 9514, 9515, 9516, 9517, 9518], "city": null, "location": null, "location_confidence": "low", "session": 38, "notes": null}
+{"date": "27/4", "time": "12:03pm", "person": "Ben Corbett-Jones", "beers": [9519, 9520], "city": "Sydney", "location": "Lane Cove", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "12:43pm", "person": "Will Nicholl", "beers": [9521], "city": "Sydney", "location": null, "location_confidence": "high", "session": 38, "notes": "'Sydney bbq beer' — bbq context"}
+{"date": "27/4", "time": "2:26pm", "person": "Ben Corbett-Jones", "beers": [9522], "city": "Sydney", "location": null, "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "3:26pm", "person": "Addison Sherry", "beers": [9523], "city": "Sydney", "location": "Fairlight", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "3:27pm", "person": "Ben Corbett-Jones", "beers": [9533], "city": "Sydney", "location": null, "location_confidence": "high", "session": 38, "notes": "Skipped 9524-9532 — out of sequence jump accepted; 9524-9532 unaccounted at time of posting"}
+{"date": "27/4", "time": "3:55pm", "person": "Addison Sherry", "beers": [9525], "city": "Sydney", "location": "Fairlight", "location_confidence": "high", "session": 38, "notes": "Retroactive claim for 9525, which was in the gap between Addison's 9523 and Ben's 9533; 9525 was unclaimed so accepted"}
+{"date": "27/4", "time": "4:07pm", "person": "Jono Stanbury", "beers": [9526], "city": "Sydney", "location": "Fairlight", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "4:08pm", "person": "Charlie Fraser", "beers": [9527], "city": "Sydney", "location": "Fairlight", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "4:08pm", "person": "Sophie", "beers": [9528], "city": "Sydney", "location": "Fairlight", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "4:09pm", "person": "Ben Corbett-Jones", "beers": [9529], "city": "Sydney", "location": null, "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "4:09pm", "person": "Lucy Stanbury", "beers": [9530], "city": "Sydney", "location": "Fairlight", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "4:09pm", "person": "Matias", "beers": [9531], "city": "Sydney", "location": "Fairlight", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "4:10pm", "person": "Liana", "beers": [9532], "city": "Sydney", "location": "Fairlight", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "4:28pm", "person": "Jono Stanbury", "beers": [], "city": "Sydney", "location": "Fairlight", "location_confidence": "high", "session": 38, "notes": "Posted 'Fairlight, 9533' — conflict, 9533 already claimed by Ben Corbett-Jones at 3:27pm; Ben wins"}
+{"date": "27/4", "time": "5:00pm", "person": "Addison Sherry", "beers": [9534], "city": "Sydney", "location": "Fairlight", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "5:00pm", "person": "Liana", "beers": [9535], "city": "Sydney", "location": "Manly", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "5:00pm", "person": "Sophie", "beers": [9536], "city": "Sydney", "location": "Fairlight", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "5:04pm", "person": "Charlie Fraser", "beers": [9537], "city": "Sydney", "location": "Fairlight", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "5:10pm", "person": "Addison Sherry", "beers": [9538, 9539, 9540, 9541], "city": "Sydney", "location": "Fairlight", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "5:12pm", "person": "Jono Stanbury", "beers": [9542], "city": "Sydney", "location": "Fairlight", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "5:45pm", "person": "Ian", "beers": [9543, 9544], "city": "Sydney", "location": "Manly", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "5:54pm", "person": "Mitch", "beers": [9545], "city": "Hội An", "location": null, "location_confidence": "high", "session": 38, "notes": "city: Hội An, Vietnam"}
+{"date": "27/4", "time": "6:11pm", "person": "Jack", "beers": [9546], "city": "Mykonos", "location": null, "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "6:20pm", "person": "Ian", "beers": [9547, 9548], "city": "Sydney", "location": "Manly", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "6:32pm", "person": "Morgan", "beers": [9549], "city": "Sydney", "location": "Lane Cove", "location_confidence": "high", "session": 38, "notes": null}
+{"date": "27/4", "time": "6:33pm", "person": "Jocelyn", "beers": [9550], "city": "Sydney", "location": "Lane Cove", "location_confidence": "high", "session": 38, "notes": null}
