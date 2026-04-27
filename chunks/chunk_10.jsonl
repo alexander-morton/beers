@@ -46,7 +46,7 @@
 {"date":"15/3","time":"6:14pm","person":"Connor Wright","beers":[3666,3667],"city":"Copenhagen","location":"Kima","location_confidence":"high","session":2,"notes":null}
 {"date":"15/3","time":"6:22pm","person":"Andrew","beers":[3668,3669,3670,3671],"city":null,"location":"Les 2 Alpes, France","location_confidence":"high","session":2,"notes":"Location stated on continuation line. Les 2 Alpes is a ski resort in France."}
 {"date":"15/3","time":"6:30pm","person":"Wes - UK WES","beers":[3672],"city":"Edinburgh","location":null,"location_confidence":"medium","session":2,"notes":null}
-{"date":"15/3","time":"7:08pm","person":"Luke","beers":[3673],"city":"London","location":"Home","location_confidence":"high","session":2,"notes":null}
+{"date":"15/3","time":"7:08pm","person":"Luke (UK)","beers":[3673],"city":"London","location":"Home","location_confidence":"high","session":2,"notes":null}
 {"date":"15/3","time":"7:16pm","person":"Connor Wright","beers":[3674],"city":"Copenhagen","location":null,"location_confidence":"medium","session":2,"notes":"Message: 'Close call on this one, Copenhagen'"}
 {"date":"15/3","time":"8:36pm","person":"Malcolm","beers":[3675,3676],"city":"New York","location":"Hendricks","location_confidence":"high","session":2,"notes":null}
 {"date":"15/3","time":"8:56pm","person":"Wes - UK WES","beers":[3677],"city":"Edinburgh","location":"Herbie More's","location_confidence":"high","session":2,"notes":null}

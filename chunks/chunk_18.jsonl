@@ -6,13 +6,13 @@
 {"date": "12/4", "time": "11:42am", "person": "Cam Schoffro", "beers": [7279, 7280], "city": "Toronto", "location": null, "location_confidence": "high", "session": 23, "notes": "'7279&7280'"}
 {"date": "12/4", "time": "11:43am", "person": "Steven", "beers": [7281], "city": "Chicago", "location": null, "location_confidence": "high", "session": 23, "notes": null}
 {"date": "12/4", "time": "12:17pm", "person": "Ethan Roy", "beers": [7284], "city": "Sudbury", "location": null, "location_confidence": "high", "session": 23, "notes": "gap accepted: 7282-7283 unclaimed"}
-{"date": "12/4", "time": "12:50pm", "person": "Luke", "beers": [7286], "city": "Ottawa", "location": "Queen and Crown", "location_confidence": "high", "session": 23, "notes": "gap accepted: 7285 unclaimed"}
+{"date": "12/4", "time": "12:50pm", "person": "Luke (US)", "beers": [7286], "city": "Ottawa", "location": "Queen and Crown", "location_confidence": "high", "session": 23, "notes": "gap accepted: 7285 unclaimed"}
 {"date": "12/4", "time": "12:59pm", "person": "James 1", "beers": [7287], "city": "Meltham", "location": null, "location_confidence": "high", "session": 23, "notes": null}
-{"date": "12/4", "time": "1:19pm", "person": "Luke", "beers": [7288], "city": "Ottawa", "location": "Bridges Well", "location_confidence": "high", "session": 23, "notes": null}
-{"date": "12/4", "time": "1:26pm", "person": "Luke", "beers": [7289], "city": "Ottawa", "location": "Bridges Well", "location_confidence": "high", "session": 23, "notes": null}
+{"date": "12/4", "time": "1:19pm", "person": "Luke (US)", "beers": [7288], "city": "Ottawa", "location": "Bridges Well", "location_confidence": "high", "session": 23, "notes": null}
+{"date": "12/4", "time": "1:26pm", "person": "Luke (US)", "beers": [7289], "city": "Ottawa", "location": "Bridges Well", "location_confidence": "high", "session": 23, "notes": null}
 {"date": "12/4", "time": "1:28pm", "person": "Will Salter", "beers": [7290], "city": "Ao Nang", "location": null, "location_confidence": "high", "session": 23, "notes": null}
 {"date": "12/4", "time": "1:30pm", "person": "Daniel", "beers": [7291], "city": "Montréal", "location": null, "location_confidence": "high", "session": 23, "notes": null}
-{"date": "12/4", "time": "2:27pm", "person": "Luke", "beers": [7292, 7293, 7294], "city": "Ottawa", "location": null, "location_confidence": "high", "session": 23, "notes": "posted '-7294 Otttawa' (typo); notation means 'up to 7294'; after Daniel's 7291, Luke claims 7292-7294"}
+{"date": "12/4", "time": "2:27pm", "person": "Luke (US)", "beers": [7292, 7293, 7294], "city": "Ottawa", "location": null, "location_confidence": "high", "session": 23, "notes": "posted '-7294 Otttawa' (typo); notation means 'up to 7294'; after Daniel's 7291, Luke claims 7292-7294"}
 {"date": "12/4", "time": "2:37pm", "person": "Daniel", "beers": [7295], "city": "Montréal", "location": null, "location_confidence": "high", "session": 23, "notes": null}
 {"date": "12/4", "time": "3:33pm", "person": "Jess ✨", "beers": [7296, 7297], "city": "Pucón", "location": null, "location_confidence": "high", "session": 23, "notes": null}
 {"date": "12/4", "time": "3:58pm", "person": "Abe", "beers": [7298], "city": "Canberra", "location": null, "location_confidence": "high", "session": 23, "notes": null}

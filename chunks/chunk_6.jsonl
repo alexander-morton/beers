@@ -99,9 +99,9 @@
 {"date": "26/2", "time": "5:39pm", "person": "Ben 3", "beers": [2144, 2145, 2146], "city": "London", "location": "Sydney Smith", "location_confidence": "high", "session": 8, "notes": "Originally posted as 2044-2046 — corrected to 2144-2146 per Ben Furby's correction."}
 {"date": "26/2", "time": "6:23pm", "person": "Lydia McKay", "beers": [2147, 2148, 2149], "city": "London", "location": "Sydney Smith", "location_confidence": "high", "session": 8, "notes": "Originally posted as 2047-2049 — corrected to 2147-2149 per Ben Furby's correction."}
 {"date": "26/2", "time": "6:26pm", "person": "Jack", "beers": [2150], "city": "London", "location": null, "location_confidence": "medium", "session": 8, "notes": "Originally posted as 2050 — corrected to 2150 per Ben Furby's correction."}
-{"date": "26/2", "time": "6:33pm", "person": "Luke", "beers": [2151], "city": "Casnewydd", "location": null, "location_confidence": "high", "session": 8, "notes": "Casnewydd is Welsh for Newport (Wales). Originally posted as 2051 — corrected to 2151 per Ben Furby's correction."}
+{"date": "26/2", "time": "6:33pm", "person": "Luke (UK)", "beers": [2151], "city": "Casnewydd", "location": null, "location_confidence": "high", "session": 8, "notes": "Casnewydd is Welsh for Newport (Wales). Originally posted as 2051 — corrected to 2151 per Ben Furby's correction."}
 {"date": "26/2", "time": "7:29pm", "person": "Natasha Foley", "beers": [2152], "city": "London", "location": "Sydney Smith", "location_confidence": "high", "session": 8, "notes": "Originally posted as 2052. Ben Furby explicitly corrected to 2152."}
-{"date": "26/2", "time": "7:30pm", "person": "Luke", "beers": [2153], "city": "Casnewydd", "location": null, "location_confidence": "medium", "session": 8, "notes": "Luke adds 'Jazz night' context."}
+{"date": "26/2", "time": "7:30pm", "person": "Luke (UK)", "beers": [2153], "city": "Casnewydd", "location": null, "location_confidence": "medium", "session": 8, "notes": "Luke adds 'Jazz night' context."}
 {"date": "26/2", "time": "7:38pm", "person": "Rich", "beers": [2154], "city": "London", "location": null, "location_confidence": "high", "session": 8, "notes": "Train beer, London"}
 {"date": "26/2", "time": "7:39pm", "person": "Mitchell Schoffro", "beers": [2155], "city": "Subotica", "location": null, "location_confidence": "high", "session": 8, "notes": "Mitchell now in Subotica, Serbia"}
 {"date": "26/2", "time": "7:53pm", "person": "Mark", "beers": [2156], "city": "Faversham", "location": "Faversham Spoons", "location_confidence": "high", "session": 8, "notes": null}
@@ -143,7 +143,7 @@
 {"date": "27/2", "time": "7:30pm", "person": "Ives", "beers": [2223, 2224], "city": "London", "location": "Mile End", "location_confidence": "high", "session": 9, "notes": "Originally claimed 2223 and 2234, but 2234 was later claimed by Em Allen at 8:21pm. Second number is likely a typo for 2224. Corrected to 2224 here."}
 {"date": "27/2", "time": "7:34pm", "person": "Louis Dale", "beers": [2225], "city": "London", "location": "Dalston", "location_confidence": "high", "session": 9, "notes": null}
 {"date": "27/2", "time": "7:44pm", "person": "Sam Mcmahon", "beers": [2226, 2227], "city": "Belfast", "location": "Titanic Museum", "location_confidence": "high", "session": 9, "notes": null}
-{"date": "27/2", "time": "7:50pm", "person": "Sam", "beers": [2228], "city": "Reading", "location": null, "location_confidence": "high", "session": 9, "notes": null}
+{"date": "27/2", "time": "7:50pm", "person": "Sam 4", "beers": [2228], "city": "Reading", "location": null, "location_confidence": "high", "session": 9, "notes": null}
 {"date": "27/2", "time": "7:51pm", "person": "Jack", "beers": [2229, 2230], "city": "England", "location": null, "location_confidence": "high", "session": 9, "notes": "On a bus somewhere in England"}
 {"date": "27/2", "time": "7:53pm", "person": "Fish", "beers": [2231], "city": "Brighton", "location": null, "location_confidence": "high", "session": 9, "notes": null}
 {"date": "27/2", "time": "8:13pm", "person": "George Purcell", "beers": [2232, 2233], "city": "London", "location": "Covent Garden", "location_confidence": "high", "session": 9, "notes": "Venue described as 'Fishbowl or something'"}
@@ -156,7 +156,7 @@
 {"date": "27/2", "time": "9:00pm", "person": "Em Allen", "beers": [2243], "city": "London", "location": "Canonbury", "location_confidence": "medium", "session": 9, "notes": null}
 {"date": "27/2", "time": "9:15pm", "person": "Jack", "beers": [2244], "city": "Wales", "location": null, "location_confidence": "medium", "session": 9, "notes": null}
 {"date": "27/2", "time": "9:26pm", "person": "Connor Wright", "beers": [2245, 2246], "city": "Copenhagen", "location": "Åben", "location_confidence": "high", "session": 9, "notes": null}
-{"date": "27/2", "time": "9:32pm", "person": "Sam", "beers": [2247], "city": "Reading", "location": null, "location_confidence": "medium", "session": 9, "notes": null}
+{"date": "27/2", "time": "9:32pm", "person": "Sam 4", "beers": [2247], "city": "Reading", "location": null, "location_confidence": "medium", "session": 9, "notes": null}
 {"date": "27/2", "time": "10:10pm", "person": "Elena", "beers": [2248, 2249], "city": "Copenhagen", "location": null, "location_confidence": "high", "session": 9, "notes": "At a Tripolism gig"}
 {"date": "27/2", "time": "10:10pm", "person": "Jack", "beers": [2248], "city": "Wales", "location": null, "location_confidence": "medium", "session": 9, "notes": "Duplicate claim — 2248 also claimed by Elena (Copenhagen) at the same time. Discrepancy unresolved."}
 {"date": "27/2", "time": "11:28pm", "person": "Mitchell Schoffro", "beers": [2249, 2250, 2251], "city": "Belgrade", "location": null, "location_confidence": "medium", "session": 9, "notes": "2249 also claimed by Elena at 10:10pm — duplicate. Discrepancy unresolved."}

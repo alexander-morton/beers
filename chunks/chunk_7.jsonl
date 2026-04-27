@@ -135,7 +135,7 @@
 {"date":"1/3","time":"6:13pm","person":"Sam Mcmahon","beers":[2518,2519,2520,2521],"city":"London","location":"Hemmingford Arms","location_confidence":"high","session":1,"notes":null}
 {"date":"1/3","time":"6:29pm","person":"Thom","beers":[2522,2523],"city":"London","location":"Old Queens Head","location_confidence":"high","session":1,"notes":null}
 {"date":"1/3","time":"6:49pm","person":"Tom Nicholl","beers":[2524,2525],"city":"London","location":"Hemmingford Arms","location_confidence":"high","session":1,"notes":null}
-{"date":"1/3","time":"7:08pm","person":"Luke","beers":[2526],"city":null,"location":null,"location_confidence":"low","session":1,"notes":"Wrote 'Sunday Guinness'"}
+{"date":"1/3","time":"7:08pm","person":"Luke (UK)","beers":[2526],"city":null,"location":null,"location_confidence":"low","session":1,"notes":"Wrote 'Sunday Guinness'"}
 {"date":"1/3","time":"8:17pm","person":"Em Allen","beers":[2527,2528],"city":"London","location":"Hemmingford Arms","location_confidence":"high","session":1,"notes":null}
 {"date":"1/3","time":"11:59pm","person":"Andre","beers":[2529],"city":"Montreal","location":"Else's","location_confidence":"high","session":1,"notes":null}
 {"date":"2/3","time":"12:01am","person":"melanie","beers":[2530],"city":"Montreal","location":"Else's","location_confidence":"high","session":1,"notes":null}
@@ -158,7 +158,7 @@
 {"date":"4/3","time":"12:26am","person":"Cam Schoffro","beers":[2568],"city":null,"location":"Crown and Dragon","location_confidence":"high","session":5,"notes":"Wrote '^' indicating same location as Mitchell Schoffro above"}
 {"date":"4/3","time":"12:48am","person":"Mitchell Schoffro","beers":[2569],"city":null,"location":"Crown and Dragon","location_confidence":"medium","session":5,"notes":null}
 {"date":"4/3","time":"2:10am","person":"Joseph","beers":[2570,2571],"city":"Montreal","location":null,"location_confidence":"high","session":5,"notes":"Wrote 'just finished the drinks, forgot to post earlier'"}
-{"date":"4/3","time":"5:30pm","person":"Sam","beers":[2572],"city":"London","location":"Paternoster, St Paul's","location_confidence":"high","session":6,"notes":null}
+{"date":"4/3","time":"5:30pm","person":"Sam 4","beers":[2572],"city":"London","location":"Paternoster, St Paul's","location_confidence":"high","session":6,"notes":null}
 {"date":"4/3","time":"6:37pm","person":"Jess 1","beers":[2573,2574],"city":"London","location":"Camden","location_confidence":"high","session":6,"notes":null}
 {"date":"4/3","time":"6:59pm","person":"Em Allen","beers":[2575,2576],"city":"London","location":"The Hart, Marylebone","location_confidence":"high","session":6,"notes":null}
 {"date":"4/3","time":"7:17pm","person":"Jess Manzo","beers":[2577],"city":"London","location":"Avanti West Coast train to Euston","location_confidence":"high","session":6,"notes":null}
@@ -200,8 +200,8 @@
 {"date":"5/3","time":"6:01pm","person":"Mik","beers":[2644,2645],"city":"London","location":"Clapham","location_confidence":"medium","session":8,"notes":null}
 {"date":"5/3","time":"6:03pm","person":"Conor Mansfield","beers":[2646,2647],"city":"London","location":"The Toucan","location_confidence":"high","session":8,"notes":"Conflict: Jack also claimed 2646-2649 at 6:03pm from Strand London"}
 {"date":"5/3","time":"6:03pm","person":"Jack","beers":[2646,2647,2648,2649],"city":"London","location":"Strand","location_confidence":"high","session":8,"notes":"Conflict: Conor Mansfield also claimed 2646-2647 at same time from The Toucan. Tom Nicholl flagged 'Can we review numbers here pls jacko' at 6:29pm"}
-{"date":"5/3","time":"6:32pm","person":"Sam","beers":[2650,2651],"city":"London","location":"Broadgate Circle","location_confidence":"high","session":8,"notes":"Wrote 'Essex Amphitheater I.e. Broadgate Circlr'"}
-{"date":"5/3","time":"6:32pm","person":"Luke","beers":[2652],"city":null,"location":"Peak District","location_confidence":"high","session":8,"notes":null}
+{"date":"5/3","time":"6:32pm","person":"Sam 4","beers":[2650,2651],"city":"London","location":"Broadgate Circle","location_confidence":"high","session":8,"notes":"Wrote 'Essex Amphitheater I.e. Broadgate Circlr'"}
+{"date":"5/3","time":"6:32pm","person":"Luke (UK)","beers":[2652],"city":null,"location":"Peak District","location_confidence":"high","session":8,"notes":null}
 {"date":"5/3","time":"6:34pm","person":"Tom Nicholl","beers":[2653,2654],"city":"London","location":"The Toucan","location_confidence":"high","session":8,"notes":null}
 {"date":"5/3","time":"6:51pm","person":"Lydia McKay","beers":[2655],"city":"London","location":"The Sydney Smith","location_confidence":"high","session":8,"notes":null}
 {"date":"5/3","time":"6:52pm","person":"Ben 3","beers":[2656],"city":"London","location":"Sidney Smith","location_confidence":"high","session":8,"notes":"Conflict: Jack also claimed 2656 at 6:53pm"}
@@ -210,7 +210,7 @@
 {"date":"5/3","time":"7:05pm","person":"Conor Mansfield","beers":[2662,2663,2664,2665,2666,2667],"city":"London","location":"The Toucan","location_confidence":"medium","session":8,"notes":null}
 {"date":"5/3","time":"7:09pm","person":"Sam Mcmahon","beers":[2668],"city":null,"location":"The George","location_confidence":"high","session":8,"notes":null}
 {"date":"5/3","time":"7:10pm","person":"Phil","beers":[2669],"city":null,"location":"Home","location_confidence":"high","session":8,"notes":null}
-{"date":"5/3","time":"7:18pm","person":"Luke","beers":[2670],"city":null,"location":"Peak District","location_confidence":"medium","session":8,"notes":null}
+{"date":"5/3","time":"7:18pm","person":"Luke (UK)","beers":[2670],"city":null,"location":"Peak District","location_confidence":"medium","session":8,"notes":null}
 {"date":"5/3","time":"7:21pm","person":"Ben 1","beers":[2671],"city":null,"location":"Llandaff","location_confidence":"high","session":8,"notes":null}
 {"date":"5/3","time":"7:38pm","person":"Lydia McKay","beers":[2672],"city":"London","location":"Sydney Smith","location_confidence":"medium","session":8,"notes":"Wrote '1672' — corrected to 2672 based on sequence"}
 {"date":"5/3","time":"7:50pm","person":"Ben 1","beers":[2673],"city":null,"location":"Llandaff","location_confidence":"medium","session":8,"notes":"Wrote '1673' — corrected to 2673 based on sequence"}

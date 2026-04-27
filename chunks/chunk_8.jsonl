@@ -16,13 +16,13 @@
 {"date":"6/3","time":"2:03pm","person":"Abbie","beers":[2749],"city":"Courchevel","location":"Courchevel, France","location_confidence":"high","session":1,"notes":null}
 {"date":"6/3","time":"2:07pm","person":"Mark McCarthy","beers":[2750],"city":"London","location":"Hammersmith","location_confidence":"medium","session":1,"notes":null}
 {"date":"6/3","time":"2:27pm","person":"Jesse Chrisitian","beers":[2751,2752],"city":"London","location":"The Devonshire","location_confidence":"high","session":1,"notes":null}
-{"date":"6/3","time":"3:03pm","person":"Luke","beers":[2753],"city":"Peak District","location":"Bamford","location_confidence":"high","session":1,"notes":null}
+{"date":"6/3","time":"3:03pm","person":"Luke (UK)","beers":[2753],"city":"Peak District","location":"Bamford","location_confidence":"high","session":1,"notes":null}
 {"date":"6/3","time":"3:47pm","person":"Jason","beers":[2754],"city":"Dubai","location":null,"location_confidence":"high","session":1,"notes":null}
 {"date":"6/3","time":"5:58pm","person":"Jono Dennis","beers":[2755,2756],"city":"Lisbon","location":"Jam Bar","location_confidence":"high","session":1,"notes":null}
 {"date":"6/3","time":"6:15pm","person":"Sudip Dasgupta","beers":[2757],"city":"London","location":"KK Mcools","location_confidence":"high","session":1,"notes":null}
 {"date":"6/3","time":"6:21pm","person":"Jono Dennis","beers":[2758,2759],"city":"Lisbon","location":"Pavilhao Chines","location_confidence":"high","session":1,"notes":null}
 {"date":"6/3","time":"6:35pm","person":"Red Freeman","beers":[2760,2761],"city":"London","location":null,"location_confidence":"low","session":1,"notes":null}
-{"date":"6/3","time":"6:48pm","person":"Luke","beers":[2762],"city":"Peak District","location":"Foolow","location_confidence":"high","session":1,"notes":null}
+{"date":"6/3","time":"6:48pm","person":"Luke (UK)","beers":[2762],"city":"Peak District","location":"Foolow","location_confidence":"high","session":1,"notes":null}
 {"date":"6/3","time":"7:01pm","person":"Ollie Collins","beers":[2763],"city":"London","location":"FabWick, Hackney Wick","location_confidence":"high","session":1,"notes":null}
 {"date":"6/3","time":"7:08pm","person":"Ryan Jones","beers":[2764],"city":null,"location":"Devon Cliffs","location_confidence":"high","session":1,"notes":null}
 {"date":"6/3","time":"7:40pm","person":"Ollie Collins","beers":[2765],"city":"London","location":"Hackney Wick","location_confidence":"medium","session":1,"notes":null}
@@ -79,7 +79,7 @@
 {"date":"7/3","time":"4:55pm","person":"Sam Mcmahon","beers":[2881,2882,2883],"city":"London","location":"Angel","location_confidence":"medium","session":3,"notes":null}
 {"date":"7/3","time":"4:56pm","person":"Tom Nicholl","beers":[2884,2885],"city":"London","location":"Angel","location_confidence":"medium","session":3,"notes":null}
 {"date":"7/3","time":"4:58pm","person":"Nin","beers":[2886,2887],"city":"London","location":"The Famous Royal Oak","location_confidence":"medium","session":3,"notes":null}
-{"date":"7/3","time":"4:58pm","person":"Sam","beers":[2888,2889,2890],"city":"London","location":"Hackney Wick","location_confidence":"high","session":3,"notes":null}
+{"date":"7/3","time":"4:58pm","person":"Sam 2","beers":[2888,2889,2890],"city":"London","location":"Hackney Wick","location_confidence":"high","session":3,"notes":null}
 {"date":"7/3","time":"5:02pm","person":"Jack","beers":[2891,2892],"city":"London","location":"Battersea","location_confidence":"medium","session":3,"notes":null}
 {"date":"7/3","time":"5:14pm","person":"Andrew M","beers":[2893],"city":null,"location":"Derby County FC","location_confidence":"high","session":3,"notes":null}
 {"date":"7/3","time":"5:16pm","person":"Tom Nicholl","beers":[2894,2895],"city":"London","location":"Angel","location_confidence":"medium","session":3,"notes":null}
@@ -89,7 +89,7 @@
 {"date":"7/3","time":"6:04pm","person":"Jack","beers":[2900],"city":"London","location":"Battersea","location_confidence":"medium","session":3,"notes":null}
 {"date":"7/3","time":"6:06pm","person":"Sam Steen","beers":[2901,2902],"city":"Marrakech","location":null,"location_confidence":"high","session":3,"notes":null}
 {"date":"7/3","time":"6:09pm","person":"Mike Manzo","beers":[2903,2904],"city":"London","location":"Breadstall, Soho","location_confidence":"high","session":3,"notes":null}
-{"date":"7/3","time":"6:42pm","person":"Luke","beers":[2905],"city":"Peak District","location":null,"location_confidence":"high","session":3,"notes":null}
+{"date":"7/3","time":"6:42pm","person":"Luke (UK)","beers":[2905],"city":"Peak District","location":null,"location_confidence":"high","session":3,"notes":null}
 {"date":"7/3","time":"6:58pm","person":"Conor Mansfield","beers":[2906,2907],"city":"London","location":"The York","location_confidence":"high","session":3,"notes":null}
 {"date":"7/3","time":"6:58pm","person":"Jess - 2","beers":[2908,2909],"city":"London","location":"The York","location_confidence":"high","session":3,"notes":null}
 {"date":"7/3","time":"6:59pm","person":"Phil","beers":[2910,2911,2912],"city":null,"location":"Upton, England","location_confidence":"high","session":3,"notes":null}

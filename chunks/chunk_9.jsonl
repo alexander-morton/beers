@@ -77,7 +77,7 @@
 {"date":"13/3","time":"6:26pm","person":"Ollie Collins","beers":[3228],"city":"London","location":"office","location_confidence":"medium","session":6,"notes":"Noted 'promise it's a beer'"}
 {"date":"13/3","time":"6:27pm","person":"Jack","beers":[3229,3230,3231],"city":"London","location":"Strand","location_confidence":"high","session":6,"notes":null}
 {"date":"13/3","time":"6:37pm","person":"Lydia McKay","beers":[3232,3233,3234],"city":"London","location":"Canonbury","location_confidence":"high","session":6,"notes":null}
-{"date":"13/3","time":"6:47pm","person":"Luke","beers":[3235],"city":"Newport","location":null,"location_confidence":"high","session":6,"notes":"Location stated as Casnewydd (Welsh name for Newport)"}
+{"date":"13/3","time":"6:47pm","person":"Luke (UK)","beers":[3235],"city":"Newport","location":null,"location_confidence":"high","session":6,"notes":"Location stated as Casnewydd (Welsh name for Newport)"}
 {"date":"13/3","time":"6:55pm","person":"Tom Nicholl","beers":[3236,3237,3238,3239],"city":"San Sebastian","location":null,"location_confidence":"high","session":6,"notes":null}
 {"date":"13/3","time":"7:02pm","person":"Em Allen","beers":[3240,3241,3242],"city":"Galway","location":null,"location_confidence":"medium","session":6,"notes":null}
 {"date":"13/3","time":"7:03pm","person":"Jack","beers":[3243,3244,3245],"city":"London","location":"Strand","location_confidence":"medium","session":6,"notes":null}
@@ -198,7 +198,7 @@
 {"date":"14/3","time":"8:10pm","person":"Connor Wright","beers":[3525],"city":"Copenhagen","location":null,"location_confidence":"medium","session":6,"notes":null}
 {"date":"14/3","time":"8:16pm","person":"Alex","beers":[3526],"city":"Earls Colne","location":"Drapers","location_confidence":"high","session":6,"notes":null}
 {"date":"14/3","time":"8:16pm","person":"Rhys","beers":[3527],"city":"Porthcawl","location":"Globe Inn","location_confidence":"high","session":6,"notes":null}
-{"date":"14/3","time":"8:19pm","person":"Luke","beers":[3528],"city":"Cwmbran","location":null,"location_confidence":"high","session":6,"notes":null}
+{"date":"14/3","time":"8:19pm","person":"Luke (UK)","beers":[3528],"city":"Cwmbran","location":null,"location_confidence":"high","session":6,"notes":null}
 {"date":"14/3","time":"8:35pm","person":"Tom Nicholl","beers":[3529,3530,3531,3532],"city":"San Sebastian","location":"Sebastian's place","location_confidence":"high","session":6,"notes":"Duplicate entry at 8:24pm (line 205 in source) with identical numbers — that entry appears out-of-order in the file and is the same claim"}
 {"date":"14/3","time":"8:37pm","person":"Jack","beers":[3533,3534,3535],"city":"London","location":"Kings Cross","location_confidence":"high","session":6,"notes":null}
 {"date":"14/3","time":"8:44pm","person":"Laura","beers":[3536,3537,3538,3539],"city":"London","location":"Beer Rebellion Peckham","location_confidence":"high","session":6,"notes":null}

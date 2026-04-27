@@ -1,10 +1,10 @@
 {
-  "appended_at": "2026-04-13T08:26:53.736917+00:00",
+  "appended_at": "2026-04-20T07:03:00.082980+00:00",
   "source_file": "new_chat.txt",
   "combined_file": "/Users/alex/beers/_chat_combined3.txt",
-  "new_content_starts_at_line": 5036,
-  "lines_appended": 898,
-  "total_lines": 5933,
-  "first_new_line": "[06/04/2026, 18:38:52] Fionn Mahoney: Her 6265",
-  "last_new_line": "‎[13/04/2026, 12:38:32] ~ Mathijs Deetman: 7386,7387 - LAX ‎image omitted"
+  "new_content_starts_at_line": 5935,
+  "lines_appended": 856,
+  "total_lines": 6790,
+  "first_new_line": "‎[13/04/2026, 21:57:52] ~ Simon: 7388 📍Kraken Bar, Warsaw Poland ‎image omitted",
+  "last_new_line": "‎[20/04/2026, 14:07:01] ~ Adrian Johansen: 8390, Hawaii ‎image omitted"
 }

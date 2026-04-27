@@ -115,7 +115,7 @@
 {"date":"28/3","time":"4:31am","person":"Paul","beers":[4680],"city":"London","location":"The Pocket, Islington","location_confidence":"high","session":8,"notes":null}
 {"date":"28/3","time":"4:45am","person":"Boby Brooks","beers":[4681],"city":"London","location":null,"location_confidence":"medium","session":8,"notes":null}
 {"date":"28/3","time":"5:02am","person":"Thom","beers":[4682,4683,4684,4685],"city":"London","location":"The Pocket, Islington","location_confidence":"high","session":8,"notes":null}
-{"date":"28/3","time":"5:02am","person":"Luke","beers":[4686,4687],"city":null,"location":null,"location_confidence":"low","session":8,"notes":null}
+{"date":"28/3","time":"5:02am","person":"Luke (UK)","beers":[4686,4687],"city":null,"location":null,"location_confidence":"low","session":8,"notes":null}
 {"date":"28/3","time":"5:03am","person":"Thanura","beers":[4688,4689,4690,4691],"city":"London","location":"Lore of the Land","location_confidence":"high","session":8,"notes":"Claimed 4686-4689 but 4686-4687 already taken by Luke at 5:02am; assigned next available [4688,4689,4690,4691]. 4692* correction is a separate entry"}
 {"date":"28/3","time":"5:03am","person":"Mags","beers":[4690],"city":null,"location":"Phineas Bar","location_confidence":"high","session":8,"notes":"Conflict: 4690 also assigned to Thanura's corrected range"}
 {"date":"28/3","time":"5:05am","person":"Thanura","beers":[4692],"city":"London","location":"Lore of the Land","location_confidence":"high","session":8,"notes":"'4692*' correction adding one more beer"}

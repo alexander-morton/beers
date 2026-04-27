@@ -254,7 +254,7 @@
 {"date": "10/4", "time": "5:55am", "person": "Jed", "beers": [6654], "city": "Nottingham", "location": "Woodthorpe", "location_confidence": "high", "session": 21, "notes": "claimed 6654; valid sequential"}
 {"date": "10/4", "time": "5:59am", "person": "James Vyse", "beers": [6656], "city": null, "location": "Trent Navigation", "location_confidence": "high", "session": 21, "notes": "claimed 6656; gap at 6655 (nobody claimed it); assigned 6656 as stated"}
 {"date": "10/4", "time": "7:01am", "person": "Taylor J", "beers": [6657], "city": null, "location": "Long Arm", "location_confidence": "high", "session": 21, "notes": "claimed 6657; valid sequential"}
-{"date": "10/4", "time": "7:07am", "person": "Luke", "beers": [6658, 6659], "city": "Ottawa", "location": null, "location_confidence": "high", "session": 21, "notes": "claimed 6658,6659; valid sequential"}
+{"date": "10/4", "time": "7:07am", "person": "Luke (US)", "beers": [6658, 6659], "city": "Ottawa", "location": null, "location_confidence": "high", "session": 21, "notes": "claimed 6658,6659; valid sequential"}
 {"date": "10/4", "time": "7:26am", "person": "Jack", "beers": [6660], "city": "Mexico City", "location": null, "location_confidence": "high", "session": 21, "notes": "claimed 6660; valid sequential"}
 {"date": "10/4", "time": "7:28am", "person": "Rayhan", "beers": [6661, 6662, 6663], "city": "London", "location": "Battersea", "location_confidence": "high", "session": 21, "notes": "claimed 6661-6663; valid sequential"}
 {"date": "10/4", "time": "7:32am", "person": "Logan", "beers": [6664], "city": "Memphis", "location": null, "location_confidence": "high", "session": 21, "notes": "claimed 6664; valid sequential"}
@@ -265,13 +265,13 @@
 {"date": "10/4", "time": "9:09am", "person": "Jack", "beers": [6672], "city": "Mexico City", "location": null, "location_confidence": "high", "session": 21, "notes": "claimed 6672; valid sequential; CDMX = Mexico City"}
 {"date": "10/4", "time": "9:16am", "person": "Mitchell Schoffro", "beers": [6673], "city": "Toronto", "location": "Future Bistro", "location_confidence": "high", "session": 21, "notes": "claimed 6673; valid sequential"}
 {"date": "10/4", "time": "9:16am", "person": "Daniel", "beers": [6674], "city": "Montréal", "location": null, "location_confidence": "high", "session": 21, "notes": "claimed 6674; valid sequential"}
-{"date": "10/4", "time": "9:25am", "person": "Luke", "beers": [6675, 6676], "city": "Ottawa", "location": null, "location_confidence": "high", "session": 21, "notes": "claimed 6675-6676; valid sequential; Go Sens Go"}
+{"date": "10/4", "time": "9:25am", "person": "Luke (US)", "beers": [6675, 6676], "city": "Ottawa", "location": null, "location_confidence": "high", "session": 21, "notes": "claimed 6675-6676; valid sequential; Go Sens Go"}
 {"date": "10/4", "time": "9:41am", "person": "wade montpellier", "beers": [6677], "city": "Whitefish", "location": null, "location_confidence": "high", "session": 21, "notes": "claimed 6677; valid sequential; Whitefish, Canada"}
 {"date": "10/4", "time": "9:53am", "person": "Jack", "beers": [6678], "city": "Mexico City", "location": null, "location_confidence": "high", "session": 21, "notes": "claimed 6678; valid sequential"}
 {"date": "10/4", "time": "10:24am", "person": "Eric Papineau", "beers": [6679], "city": "Montréal", "location": null, "location_confidence": "high", "session": 21, "notes": "claimed 6679; valid sequential"}
 {"date": "10/4", "time": "10:32am", "person": "Jack", "beers": [6680], "city": "Mexico City", "location": null, "location_confidence": "high", "session": 21, "notes": "claimed 6680; valid sequential"}
 {"date": "10/4", "time": "10:36am", "person": "Mitchell Schoffro", "beers": [6681], "city": "Toronto", "location": null, "location_confidence": "high", "session": 21, "notes": "claimed 6681; valid sequential; rooftop beer"}
-{"date": "10/4", "time": "10:42am", "person": "Luke", "beers": [6682, 6683], "city": "Ottawa", "location": null, "location_confidence": "high", "session": 21, "notes": "claimed 6682 6683; valid sequential; Ottawa Sens Game"}
+{"date": "10/4", "time": "10:42am", "person": "Luke (US)", "beers": [6682, 6683], "city": "Ottawa", "location": null, "location_confidence": "high", "session": 21, "notes": "claimed 6682 6683; valid sequential; Ottawa Sens Game"}
 {"date": "10/4", "time": "10:46am", "person": "David D", "beers": [6684], "city": "Montréal", "location": null, "location_confidence": "medium", "session": 21, "notes": "claimed 6684; valid sequential; celebrating Caufield's 50th goal"}
 {"date": "10/4", "time": "10:54am", "person": "Phil", "beers": [6685], "city": "Florida", "location": null, "location_confidence": "high", "session": 21, "notes": "claimed 6685; valid sequential"}
 {"date": "10/4", "time": "11:37am", "person": "alexyael33", "beers": [6686], "city": "Memphis", "location": null, "location_confidence": "high", "session": 21, "notes": "claimed 6686; valid sequential"}

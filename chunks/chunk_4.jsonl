@@ -9,7 +9,7 @@
 {"date": "9/2", "time": "4:05am", "person": "Mike Manzo", "beers": [1147], "city": "Los Angeles", "location": "LAX", "location_confidence": "high", "session": 1, "notes": null}
 {"date": "9/2", "time": "4:36am", "person": "Mike Manzo", "beers": [1148], "city": "Los Angeles", "location": "LAX", "location_confidence": "medium", "session": 1, "notes": null}
 {"date": "9/2", "time": "9:27am", "person": "Emily Packer", "beers": [1149, 1150], "city": "Brisbane", "location": "Shafston", "location_confidence": "high", "session": 2, "notes": null}
-{"date": "9/2", "time": "11:36am", "person": "Luke", "beers": [1151], "city": "Rome", "location": "Fontana dei Quattro Fiumi", "location_confidence": "high", "session": 2, "notes": null}
+{"date": "9/2", "time": "11:36am", "person": "Luke (UK)", "beers": [1151], "city": "Rome", "location": "Fontana dei Quattro Fiumi", "location_confidence": "high", "session": 2, "notes": null}
 {"date": "9/2", "time": "11:37am", "person": "kenny", "beers": [1152, 1153], "city": "Singapore", "location": null, "location_confidence": "high", "session": 2, "notes": null}
 {"date": "9/2", "time": "1:43pm", "person": "Jack", "beers": [1153], "city": null, "location": "Val D'Isere", "location_confidence": "high", "session": 2, "notes": "Jack claims 1153, but kenny already claimed 1153 at 11:37am. Duplicate number conflict."}
 {"date": "9/2", "time": "2:02pm", "person": "Vinay", "beers": [1154, 1155, 1156, 1157], "city": "New York", "location": "Brooklyn", "location_confidence": "low", "session": 2, "notes": "Vinay posted this entry twice in succession (2:02pm and 2:03pm); treated as one log. Flag emoji 🇮🇳 appears as continuation line on both posts."}
@@ -106,7 +106,7 @@
 {"date": "13/2", "time": "6:33pm", "person": "Jess 1", "beers": [1321, 1322], "city": null, "location": "France", "location_confidence": "high", "session": 6, "notes": null}
 {"date": "13/2", "time": "6:36pm", "person": "Mike Manzo", "beers": [1323, 1324], "city": "London", "location": "Bike Shed Moto, Shoreditch", "location_confidence": "medium", "session": 6, "notes": "'Same deal. 2 for £9 special' — same venue as earlier entry."}
 {"date": "13/2", "time": "7:20pm", "person": "Who's this Aldi fella", "beers": [1325], "city": "Malaga", "location": null, "location_confidence": "high", "session": 6, "notes": null}
-{"date": "13/2", "time": "7:24pm", "person": "Luke", "beers": [1326], "city": null, "location": null, "location_confidence": "low", "session": 6, "notes": null}
+{"date": "13/2", "time": "7:24pm", "person": "Luke (UK)", "beers": [1326], "city": null, "location": null, "location_confidence": "low", "session": 6, "notes": null}
 {"date": "13/2", "time": "8:02pm", "person": "George Purcell", "beers": [1327, 1328, 1329, 1330, 1331], "city": "London", "location": "The Elephant and Castle, Elephant and Castle", "location_confidence": "high", "session": 6, "notes": null}
 {"date": "13/2", "time": "8:19pm", "person": "Ben 1", "beers": [1332], "city": "Cardiff", "location": "Pontcanna", "location_confidence": "high", "session": 6, "notes": null}
 {"date": "13/2", "time": "8:51pm", "person": "Jack", "beers": [1333], "city": null, "location": "Val D'Isere", "location_confidence": "medium", "session": 6, "notes": null}
@@ -178,7 +178,7 @@
 {"date": "14/2", "time": "6:15pm", "person": "Jack", "beers": [1453], "city": null, "location": "Val D'Isere", "location_confidence": "medium", "session": 6, "notes": null}
 {"date": "14/2", "time": "6:28pm", "person": "Thom", "beers": [1454, 1455, 1456], "city": "London", "location": "Hammerton Tap Room", "location_confidence": "high", "session": 6, "notes": "Written as 'jammerton' (typo/nickname). 1454 and 1455 also claimed by Edward Carden at same timestamp; 1456 also claimed by Luke at same timestamp — conflicts on all three numbers."}
 {"date": "14/2", "time": "6:28pm", "person": "Edward Carden", "beers": [1454, 1455], "city": "Cambridge", "location": "Devonshire Arms", "location_confidence": "high", "session": 6, "notes": "1454 and 1455 conflict with Thom's claim at the same timestamp."}
-{"date": "14/2", "time": "6:28pm", "person": "Luke", "beers": [1456], "city": "Wales", "location": null, "location_confidence": "high", "session": 6, "notes": "1456 conflicts with Thom's claim at the same timestamp."}
+{"date": "14/2", "time": "6:28pm", "person": "Luke (UK)", "beers": [1456], "city": "Wales", "location": null, "location_confidence": "high", "session": 6, "notes": "1456 conflicts with Thom's claim at the same timestamp."}
 {"date": "14/2", "time": "6:33pm", "person": "Ben 1", "beers": [1457], "city": "Cardiff", "location": null, "location_confidence": "medium", "session": 6, "notes": null}
 {"date": "14/2", "time": "6:39pm", "person": "Evan", "beers": [1458], "city": null, "location": "Sandwich, Kent", "location_confidence": "high", "session": 6, "notes": null}
 {"date": "14/2", "time": "6:43pm", "person": "Lydia McKay", "beers": [1459, 1460], "city": "London", "location": "The Greyhound, Peckham", "location_confidence": "high", "session": 6, "notes": null}

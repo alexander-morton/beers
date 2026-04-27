@@ -41,7 +41,7 @@
 {"date":"21/3","time":"11:32am","person":"Jamie Rhind","beers":[4197],"city":"Ipswich","location":"Portman Road (ITFC)","location_confidence":"high","session":1,"notes":"ITFC = Ipswich Town FC match"}
 {"date":"21/3","time":"11:33am","person":"Nicholas Fraser","beers":[4198,4199,4200],"city":"Sydney","location":"Shakespeare Hotel","location_confidence":"high","session":1,"notes":"Originally claimed 4187,4188,4189 but those were already taken. Jamie Rhind pointed out the error. Corrected to 4198,4199,4200 to fill the gap before Tom Neaverson's confirmed 4201,4202. Nicholas did not repost; numbers inferred from sequence."}
 {"date":"21/3","time":"12:18pm","person":"Tom Neaverson","beers":[4201,4202],"city":"Hong Kong","location":null,"location_confidence":"high","session":1,"notes":"Rayhan confirmed 'should be 4201,4202'"}
-{"date":"21/3","time":"1:23pm","person":"Luke","beers":[4203],"city":"Cardiff","location":"Cardiff","location_confidence":"high","session":1,"notes":null}
+{"date":"21/3","time":"1:23pm","person":"Luke (UK)","beers":[4203],"city":"Cardiff","location":"Cardiff","location_confidence":"high","session":1,"notes":null}
 {"date":"21/3","time":"1:30pm","person":"Alex Morton","beers":[4204,4205],"city":"Hong Kong","location":null,"location_confidence":"high","session":1,"notes":null}
 {"date":"21/3","time":"2:12pm","person":"Sam Mcmahon","beers":[4206],"city":"London","location":"Scolt Head","location_confidence":"high","session":1,"notes":null}
 {"date":"21/3","time":"2:20pm","person":"Tom Neaverson","beers":[4207,4208],"city":"Hong Kong","location":null,"location_confidence":"medium","session":1,"notes":null}
@@ -59,7 +59,7 @@
 {"date":"21/3","time":"4:35pm","person":"Damo","beers":[4233,4234],"city":null,"location":"Down the Hatch","location_confidence":"high","session":1,"notes":"Venue 'Down the Hatch' stated but no city; likely London based on context"}
 {"date":"21/3","time":"4:40pm","person":"Isaac Barrett","beers":[4235,4236,4237,4238],"city":"Sydney","location":null,"location_confidence":"medium","session":1,"notes":null}
 {"date":"21/3","time":"5:04pm","person":"Thom","beers":[4239,4240,4241],"city":"London","location":"Scolt Head","location_confidence":"medium","session":1,"notes":"Said 'location unchanged'; Scolt Head carried forward from 3:23pm message"}
-{"date":"21/3","time":"5:09pm","person":"Luke","beers":[4242],"city":"Cardiff","location":"Cardiff","location_confidence":"medium","session":1,"notes":null}
+{"date":"21/3","time":"5:09pm","person":"Luke (UK)","beers":[4242],"city":"Cardiff","location":"Cardiff","location_confidence":"medium","session":1,"notes":null}
 {"date":"21/3","time":"5:18pm","person":"Jono Dennis","beers":[4243,4244],"city":"Taghazout","location":"Mungies","location_confidence":"high","session":1,"notes":null}
 {"date":"21/3","time":"5:20pm","person":"Will","beers":[4245],"city":"Taghazout","location":"Taghazout","location_confidence":"high","session":1,"notes":null}
 {"date":"21/3","time":"5:26pm","person":"Nish","beers":[4246,4247],"city":"London","location":"Tamesis Dock","location_confidence":"high","session":1,"notes":"'tamesis' = Tamesis Dock, London"}
@@ -141,7 +141,7 @@
 {"date":"22/3","time":"4:40pm","person":"Sam Mcmahon","beers":[4392],"city":"London","location":"Highbury","location_confidence":"high","session":1,"notes":null}
 {"date":"22/3","time":"4:46pm","person":"Mags","beers":[4393],"city":"London","location":"The Windmill","location_confidence":"high","session":1,"notes":null}
 {"date":"22/3","time":"4:54pm","person":"joe.","beers":[4394,4395],"city":null,"location":"Rounders","location_confidence":"high","session":1,"notes":"No city stated"}
-{"date":"22/3","time":"4:57pm","person":"Luke","beers":[4396],"city":"Cwmbran","location":"Cwmbran","location_confidence":"high","session":1,"notes":"Wales"}
+{"date":"22/3","time":"4:57pm","person":"Luke (UK)","beers":[4396],"city":"Cwmbran","location":"Cwmbran","location_confidence":"high","session":1,"notes":"Wales"}
 {"date":"22/3","time":"5:49pm","person":"Jess 1","beers":[4397,4398],"city":"Rome","location":"Rome airport","location_confidence":"high","session":1,"notes":"'rome airport, post run'"}
 {"date":"22/3","time":"6:24pm","person":"Nick Cunningham","beers":[4399,4400,4401],"city":"London","location":"Wembley","location_confidence":"medium","session":1,"notes":"Originally claimed '4378-4380' but those numbers were already assigned. Jack's 9:21pm correction sets the sequence at 4405 next, implying rogue entries. Nick's three Wembley beers tentatively assigned 4399-4401 to fill the gap, but sequence is uncertain."}
 {"date":"22/3","time":"6:25pm","person":"Nick Cunningham","beers":[4402],"city":"London","location":"Wembley station","location_confidence":"high","session":1,"notes":"Originally claimed '4381' — rogue number. Tentatively 4402 in sequence; see above."}

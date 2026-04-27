@@ -22,7 +22,7 @@
 {"date":"15/2","time":"3:47pm","person":"Ben 1","beers":[1543],"city":"Cardiff","location":null,"location_confidence":"high","session":2,"notes":null}
 {"date":"15/2","time":"4:37pm","person":"Tom Nicholl","beers":[1544,1545],"city":"London","location":"Horatia, Islington","location_confidence":"high","session":2,"notes":null}
 {"date":"15/2","time":"4:37pm","person":"Jono Dennis","beers":[1546,1547],"city":"London","location":"The Ship, Borough","location_confidence":"high","session":2,"notes":null}
-{"date":"15/2","time":"4:57pm","person":"Luke","beers":[1548],"city":"Hereford","location":null,"location_confidence":"high","session":2,"notes":null}
+{"date":"15/2","time":"4:57pm","person":"Luke (UK)","beers":[1548],"city":"Hereford","location":null,"location_confidence":"high","session":2,"notes":null}
 {"date":"15/2","time":"5:19pm","person":"Sam Mcmahon","beers":[1549],"city":"London","location":"Horatia","location_confidence":"high","session":2,"notes":null}
 {"date":"15/2","time":"5:20pm","person":"Tom Nicholl","beers":[1550,1551],"city":"London","location":"Horatia","location_confidence":"medium","session":2,"notes":null}
 {"date":"15/2","time":"5:28pm","person":"Andy Davies","beers":[1552],"city":"London","location":"Owl and Pussycat, Shoreditch","location_confidence":"high","session":2,"notes":null}
@@ -82,7 +82,7 @@
 {"date":"18/2","time":"1:27pm","person":"Phil","beers":[1643,1644],"city":"Worcester","location":null,"location_confidence":"high","session":7,"notes":null}
 {"date":"18/2","time":"3:49pm","person":"Thom","beers":[1645,1646,1647],"city":"London","location":"Toby Carvery","location_confidence":"high","session":7,"notes":null}
 {"date":"18/2","time":"5:06pm","person":"Mik","beers":[1648],"city":"Egypt","location":null,"location_confidence":"high","session":7,"notes":"Message says 'a side of kitkat milkshake, Egypt'"}
-{"date":"18/2","time":"6:20pm","person":"Luke","beers":[1649],"city":null,"location":null,"location_confidence":"low","session":7,"notes":null}
+{"date":"18/2","time":"6:20pm","person":"Luke (UK)","beers":[1649],"city":null,"location":null,"location_confidence":"low","session":7,"notes":null}
 {"date":"18/2","time":"6:22pm","person":"Ben 1","beers":[1650],"city":"Cardiff","location":null,"location_confidence":"high","session":7,"notes":null}
 {"date":"18/2","time":"6:37pm","person":"Matt","beers":[1651],"city":"Canterbury","location":"Thomas Becket","location_confidence":"high","session":7,"notes":"Location from continuation line 'Thomas becket Canterbury'"}
 {"date":"18/2","time":"6:37pm","person":"Red Freeman","beers":[1652],"city":"London","location":"Riverside","location_confidence":"high","session":7,"notes":null}
@@ -122,7 +122,7 @@
 {"date":"20/2","time":"9:33am","person":"Ben Furby","beers":[1713,1714],"city":"Sydney","location":"SFS (Sydney Football Stadium)","location_confidence":"high","session":9,"notes":"'Jorgo = ❤️, SFS'"}
 {"date":"20/2","time":"10:29am","person":"Michael Schmid","beers":[1715],"city":"Tokyo","location":null,"location_confidence":"high","session":9,"notes":null}
 {"date":"20/2","time":"11:30am","person":"Garett","beers":[1716],"city":"The Hague","location":null,"location_confidence":"high","session":9,"notes":null}
-{"date":"20/2","time":"4:16pm","person":"Luke","beers":[1717],"city":null,"location":null,"location_confidence":"low","session":10,"notes":null}
+{"date":"20/2","time":"4:16pm","person":"Luke (UK)","beers":[1717],"city":null,"location":null,"location_confidence":"low","session":10,"notes":null}
 {"date":"20/2","time":"5:25pm","person":"Garett","beers":[1718],"city":"The Hague","location":null,"location_confidence":"medium","session":10,"notes":null}
 {"date":"20/2","time":"6:25pm","person":"Tom Nicholl","beers":[1719,1720,1721],"city":"London","location":"Notting Hill","location_confidence":"high","session":10,"notes":null}
 {"date":"20/2","time":"6:48pm","person":"Thom","beers":[1722,1723,1724],"city":"London","location":"Notting Hill","location_confidence":"high","session":10,"notes":"Message says 'Hotting Nill' — deliberate misspelling of Notting Hill"}
@@ -136,7 +136,7 @@
 {"date":"20/2","time":"8:13pm","person":"Jono Dennis","beers":[1737,1738,1739],"city":"London","location":"F1 Arcade","location_confidence":"high","session":10,"notes":null}
 {"date":"20/2","time":"8:15pm","person":"Jack","beers":[1740,1741],"city":"London","location":"Marylebone","location_confidence":"medium","session":10,"notes":null}
 {"date":"20/2","time":"8:23pm","person":"Mags","beers":[1742],"city":null,"location":"uni bar","location_confidence":"high","session":10,"notes":"City unknown"}
-{"date":"20/2","time":"8:26pm","person":"Sam","beers":[1743],"city":"London","location":"Thomas Cubitt, Belgravia","location_confidence":"high","session":10,"notes":"Different person from Sam Mcmahon"}
+{"date":"20/2","time":"8:26pm","person":"Sam 4","beers":[1743],"city":"London","location":"Thomas Cubitt, Belgravia","location_confidence":"high","session":10,"notes":"Different person from Sam Mcmahon"}
 {"date":"20/2","time":"8:30pm","person":"Tom Nicholl","beers":[1744,1745,1746],"city":"London","location":"Notting Hill","location_confidence":"medium","session":10,"notes":null}
 {"date":"20/2","time":"8:35pm","person":"Who's this Aldi fella","beers":[1747],"city":"Worcester","location":null,"location_confidence":"high","session":10,"notes":null}
 {"date":"20/2","time":"8:46pm","person":"Ben 3","beers":[1748],"city":"London","location":"Fatboy Slim event","location_confidence":"high","session":10,"notes":null}
@@ -186,7 +186,7 @@
 {"date":"21/2","time":"10:00am","person":"Karl von Sanden","beers":[1814,1815],"city":"Adelaide","location":"Adelaide Fringe","location_confidence":"high","session":10,"notes":"Location from continuation lines 'Adelaide Fringe' and '5.8%' (ABV of one of the beers)"}
 {"date":"21/2","time":"11:08am","person":"Michael Schmid","beers":[1816,1817],"city":"Tokyo","location":null,"location_confidence":"high","session":10,"notes":null}
 {"date":"21/2","time":"1:14pm","person":"Red Freeman","beers":[1818],"city":"London","location":"Hand of Glory","location_confidence":"high","session":10,"notes":"Venue name from continuation line"}
-{"date":"21/2","time":"1:39pm","person":"Sam","beers":[1819,1820],"city":"Reading","location":"Queen's Head","location_confidence":"high","session":10,"notes":"Different person from Sam Mcmahon; 1819 also claimed by Phil and 1820 also claimed by Bec (corrected) and Matt — number conflicts"}
+{"date":"21/2","time":"1:39pm","person":"Sam 4","beers":[1819,1820],"city":"Reading","location":"Queen's Head","location_confidence":"high","session":10,"notes":"Different person from Sam Mcmahon; 1819 also claimed by Phil and 1820 also claimed by Bec (corrected) and Matt — number conflicts"}
 {"date":"21/2","time":"1:44pm","person":"Bec","beers":[1821,1822,1823],"city":"London","location":"Irish pub, Stoke Newington","location_confidence":"high","session":10,"notes":"Initially posted 1820,1821,1822 then corrected to 1821,1822,1823; 1820 also claimed by Sam and Matt"}
 {"date":"21/2","time":"1:56pm","person":"Phil","beers":[1819],"city":"Worcester","location":"conservatory","location_confidence":"high","session":10,"notes":"1819 also claimed by Sam (Queen's Head, Reading) — number conflict"}
 {"date":"21/2","time":"2:01pm","person":"Matt","beers":[1820],"city":"London","location":null,"location_confidence":"low","session":10,"notes":"1820 also claimed by Sam and Bec (corrected away from it) — number conflict"}
@@ -195,7 +195,7 @@
 {"date":"21/2","time":"2:42pm","person":"Tom Nicholl","beers":[1832,1833,1834,1835,1836,1837],"city":"London","location":"Red Lion, Stoke Newington","location_confidence":"high","session":10,"notes":null}
 {"date":"21/2","time":"2:44pm","person":"Mark 🔴⚪️","beers":[1838],"city":"Maidstone","location":"Duke of Marlborough","location_confidence":"high","session":10,"notes":null}
 {"date":"21/2","time":"2:46pm","person":"Mik","beers":[1839],"city":"London","location":"The Red Lion","location_confidence":"high","session":10,"notes":"Celebrating Ireland rugby win (Six Nations context from other messages)"}
-{"date":"21/2","time":"2:47pm","person":"Luke","beers":[1840,1841,1842,1843],"city":"Cardiff","location":null,"location_confidence":"high","session":10,"notes":null}
+{"date":"21/2","time":"2:47pm","person":"Luke (UK)","beers":[1840,1841,1842,1843],"city":"Cardiff","location":null,"location_confidence":"high","session":10,"notes":null}
 {"date":"21/2","time":"2:50pm","person":"Abbie","beers":[1844,1845,1846,1847],"city":"London","location":"Clissold Park","location_confidence":"high","session":10,"notes":null}
 {"date":"21/2","time":"2:56pm","person":"Andrew","beers":[1848,1849,1850,1851,1852,1853],"city":"London","location":null,"location_confidence":"high","session":10,"notes":"Location from continuation lines 'London, England' and 'England 0 - Ireland 22' (Six Nations score)"}
 {"date":"21/2","time":"3:06pm","person":"Who's this Aldi fella","beers":[1854],"city":"Worcester","location":null,"location_confidence":"medium","session":10,"notes":null}
@@ -206,16 +206,16 @@
 {"date":"21/2","time":"3:29pm","person":"Mik","beers":[1865],"city":"London","location":"The Red Lion","location_confidence":"medium","session":10,"notes":"1865 also claimed by Phil in same minute — number conflict"}
 {"date":"21/2","time":"3:29pm","person":"Phil","beers":[1866,1867,1868],"city":"Worcester","location":null,"location_confidence":"medium","session":10,"notes":"First posted '1865-1867' then immediately corrected to '1866-1868'; 1865 conflicts with Mik's claim"}
 {"date":"21/2","time":"3:30pm","person":"Mike Manzo","beers":[1869,1870],"city":"Paris","location":"Pub St Germain","location_confidence":"high","session":10,"notes":null}
-{"date":"21/2","time":"3:32pm","person":"Luke","beers":[1871],"city":"Cardiff","location":null,"location_confidence":"medium","session":10,"notes":null}
+{"date":"21/2","time":"3:32pm","person":"Luke (UK)","beers":[1871],"city":"Cardiff","location":null,"location_confidence":"medium","session":10,"notes":null}
 {"date":"21/2","time":"3:41pm","person":"Tom Nicholl","beers":[1872,1873,1874,1875],"city":"London","location":"Stoke Newington","location_confidence":"medium","session":10,"notes":null}
 {"date":"21/2","time":"3:42pm","person":"doultonjhall","beers":[1876],"city":"Canterbury","location":null,"location_confidence":"high","session":10,"notes":null}
 {"date":"21/2","time":"3:48pm","person":"Matt","beers":[1884],"city":"London","location":null,"location_confidence":"low","session":10,"notes":"Skips 1877-1883 — none claimed in this chunk"}
 {"date":"21/2","time":"3:57pm","person":"Mike Manzo","beers":[1885,1886],"city":"Paris","location":null,"location_confidence":"medium","session":10,"notes":null}
 {"date":"21/2","time":"3:59pm","person":"Red Freeman","beers":[1887,1888],"city":"London","location":null,"location_confidence":"medium","session":10,"notes":"Message says 'lundin' — likely a misspelling of London"}
-{"date":"21/2","time":"4:11pm","person":"Luke","beers":[1889],"city":"Cardiff","location":null,"location_confidence":"medium","session":10,"notes":null}
+{"date":"21/2","time":"4:11pm","person":"Luke (UK)","beers":[1889],"city":"Cardiff","location":null,"location_confidence":"medium","session":10,"notes":null}
 {"date":"21/2","time":"4:13pm","person":"Mik","beers":[1890],"city":"London","location":"The Red Lion","location_confidence":"medium","session":10,"notes":null}
 {"date":"21/2","time":"4:18pm","person":"Sam Mcmahon","beers":[1891,1892,1893,1894,1895,1896,1897],"city":"London","location":"Stoke Newington","location_confidence":"high","session":10,"notes":"Last number posted as '18967' — corrected to 1897 (obvious typo)"}
-{"date":"21/2","time":"4:33pm","person":"Luke","beers":[1898],"city":"Cardiff","location":null,"location_confidence":"medium","session":10,"notes":null}
+{"date":"21/2","time":"4:33pm","person":"Luke (UK)","beers":[1898],"city":"Cardiff","location":null,"location_confidence":"medium","session":10,"notes":null}
 {"date":"21/2","time":"5:04pm","person":"Mags","beers":[1899,1900,1901,1902,1903],"city":null,"location":null,"location_confidence":"low","session":10,"notes":"City unknown"}
 {"date":"21/2","time":"5:12pm","person":"Phil","beers":[1904,1905,1906],"city":"Worcester","location":"The Alma","location_confidence":"high","session":10,"notes":null}
 {"date":"21/2","time":"5:17pm","person":"Sam Mcmahon","beers":[1907,1908,1909,1910],"city":"London","location":"Stoke Newington","location_confidence":"medium","session":10,"notes":"Posted as '1907,1908,19091910' — '19091910' interpreted as 1909 and 1910 (missing comma)"}
