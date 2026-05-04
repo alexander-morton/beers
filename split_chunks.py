@@ -7,7 +7,7 @@ MAX_CHUNK = 300
 with open('_chat_cleaned.txt', 'r') as fh:
     lines = fh.readlines()
 
-# Original 12 chunks — hardcoded line ranges (0-indexed start, end).
+# Frozen chunks — hardcoded line ranges (0-indexed start, end).
 # These are already parsed into .jsonl files — DO NOT rewrite their .txt files.
 original_chunks = [
     ("chunk_1.txt",   0,    217,  "Jan 7  - Jan 23"),
@@ -34,6 +34,9 @@ original_chunks = [
     ("chunk_22.txt",  5063, 5363, "Apr 20 - Apr 24"),
     ("chunk_23.txt",  5363, 5663, "Apr 24 - Apr 26"),
     ("chunk_24.txt",  5663, 5813, "Apr 26 - Apr 27"),
+    ("chunk_25.txt",  5813, 6113, "Apr 27 - May 1"),
+    ("chunk_26.txt",  6113, 6413, "May 1 - May 2"),
+    ("chunk_27.txt",  6413, 6699, "May 2 - May 4"),
 ]
 
 # Derive auto-split start from the table above — never hardcode separately
