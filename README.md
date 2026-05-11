@@ -163,9 +163,9 @@ git push
 
 ## Chunk housekeeping
 
-- **Parsed chunks are frozen.** Currently 1–27 are in the hardcoded table. Their `.txt` files are never rewritten by `split_chunks.py`. Once you've parsed a chunk's `.jsonl`, add it to the hardcoded table so the auto-split starts from the next one.
-- **Auto-split start** is always taken from the `end` value of the last hardcoded chunk (currently line `6699`). If you ever add a new hardcoded entry to the table, the auto-split will automatically follow from there — no separate variable to update.
-- **If the cleaned file shifts** (e.g. `clean_tokens.py` is changed in a way that affects old data), verify that line 6699 of `_chat_cleaned.txt` still falls within `4/5` content before running the script. Run `sed -n '6699p' _chat_cleaned.txt` to check.
+- **Parsed chunks are frozen.** Currently 1–30 are in the hardcoded table. Their `.txt` files are never rewritten by `split_chunks.py`. Once you've parsed a chunk's `.jsonl`, add it to the hardcoded table so the auto-split starts from the next one.
+- **Auto-split start** is always taken from the `end` value of the last hardcoded chunk (currently line `7469`). If you ever add a new hardcoded entry to the table, the auto-split will automatically follow from there — no separate variable to update.
+- **If the cleaned file shifts** (e.g. `clean_tokens.py` is changed in a way that affects old data), verify that line 7469 of `_chat_cleaned.txt` still falls within `11/5` content before running the script. Run `sed -n '7469p' _chat_cleaned.txt` to check.
 
 ---
 
