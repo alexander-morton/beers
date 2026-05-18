@@ -1,10 +1,10 @@
 {
-  "appended_at": "2026-05-11T07:16:22.608634+00:00",
+  "appended_at": "2026-05-18T06:36:03.750051+00:00",
   "source_file": "new_chat.txt",
   "combined_file": "/Users/alex/beers/_chat_combined3.txt",
-  "new_content_starts_at_line": 8851,
-  "lines_appended": 942,
-  "total_lines": 9792,
-  "first_new_line": "‎[04/05/2026, 17:24:30] ~ Ben Corbett-Jones: 10879 Sydney ‎image omitted",
-  "last_new_line": "[11/05/2026, 16:48:35] Will Simpson: 11983,11984 Bullet Train"
+  "new_content_starts_at_line": 9794,
+  "lines_appended": 767,
+  "total_lines": 10560,
+  "first_new_line": "[11/05/2026, 17:21:39] Alex Morton: Leaderboard has been updated for this week",
+  "last_new_line": "‎[18/05/2026, 10:57:10] James Cannon: 12957 - Amherst Mass ‎image omitted"
 }
