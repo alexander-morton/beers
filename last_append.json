@@ -1,10 +1,10 @@
 {
-  "appended_at": "2026-05-18T06:36:03.750051+00:00",
+  "appended_at": "2026-05-26T09:38:55.232255+00:00",
   "source_file": "new_chat.txt",
   "combined_file": "/Users/alex/beers/_chat_combined3.txt",
-  "new_content_starts_at_line": 9794,
-  "lines_appended": 767,
-  "total_lines": 10560,
-  "first_new_line": "[11/05/2026, 17:21:39] Alex Morton: Leaderboard has been updated for this week",
-  "last_new_line": "‎[18/05/2026, 10:57:10] James Cannon: 12957 - Amherst Mass ‎image omitted"
+  "new_content_starts_at_line": 10562,
+  "lines_appended": 1559,
+  "total_lines": 12120,
+  "first_new_line": "[18/05/2026, 16:46:45] Alex Morton: Leaderboard has been updated for the week",
+  "last_new_line": "‎[26/05/2026, 19:35:04] ~ Ian: 14264, Sydney ‎image omitted"
 }

@@ -1,0 +1,268 @@
+{"date":"23/5","time":"1:02am","person":"Rich","beers":[13353],"city":"Marbella","location":"Marbella","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"1:05am","person":"James Vyse","beers":[13354],"city":null,"location":"the willow tree","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"1:11am","person":"Wes - UK WES","beers":[13355,13356],"city":null,"location":"Lango","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"1:14am","person":"Bianca","beers":[],"city":null,"location":"home","location_confidence":"high","session":64,"notes":"Skipped stale/conflict beer 13294; first poster for that number already exists and James Vyse continued with 13357"}
+{"date":"23/5","time":"1:19am","person":"James Vyse","beers":[13357],"city":"Ruddington","location":"Ruddington","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"1:24am","person":"Mags","beers":[13358],"city":"London","location":"the institute of education","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"1:38am","person":"Luke (UK)","beers":[13359,13360],"city":"Cwmbran","location":"Cwmbran","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"1:38am","person":"Josh","beers":[13361],"city":"Scaftworth","location":"Scaftworth","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"1:41am","person":"Sam Mcmahon","beers":[13362],"city":"Luton","location":"luton","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"1:42am","person":"Tom Neaverson","beers":[13363,13364],"city":"Hong Kong","location":"Hong Kong","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"1:54am","person":"Alfie King","beers":[13365],"city":null,"location":null,"location_confidence":"low","session":64,"notes":"Corrected typo 13346 to next sequential 13365"}
+{"date":"23/5","time":"1:55am","person":"Alfie King","beers":[13366],"city":null,"location":null,"location_confidence":"low","session":64,"notes":null}
+{"date":"23/5","time":"1:58am","person":"Garett","beers":[13367],"city":"Scheveningen","location":"scheveningen","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"2:03am","person":"James Vyse","beers":[13368],"city":"Keyworth","location":"keyworth","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"2:13am","person":"Ethan","beers":[13369],"city":"Stansted","location":"Stansted","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"2:19am","person":"Mik","beers":[13370],"city":"London","location":"Greenwich","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"2:20am","person":"Red Freeman","beers":[13371],"city":"London","location":"Dulwich","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"2:23am","person":"Matt Latteman","beers":[13372],"city":"Beckenham","location":"Beckenham","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"2:25am","person":"James Vyse","beers":[13373],"city":"Keyworth","location":"keyworth","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"2:40am","person":"Cam","beers":[13374],"city":null,"location":"The car","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"2:40am","person":"Ethan","beers":[13375],"city":"Stansted","location":"Stansted","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"2:48am","person":"Mags","beers":[13376],"city":"London","location":"the institute","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"2:51am","person":"Matt Latteman","beers":[13377],"city":"Beckenham","location":"Beckenham","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"2:52am","person":"Mik","beers":[13378],"city":"London","location":"Greenwich","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"2:52am","person":"Salvatore","beers":[13379],"city":"Elsenham","location":"Elsenham","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"2:55am","person":"Tom Nicholl","beers":[13380],"city":"Bucharest","location":"Bucharest","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"2:56am","person":"Tom Nicholl","beers":[],"city":"Bucharest","location":"Bucharest","location_confidence":"high","session":64,"notes":"Skipped stale/conflict beer 13338; first poster wins"}
+{"date":"23/5","time":"2:58am","person":"James Vyse","beers":[13381],"city":"Keyworth","location":"keyworth","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"2:58am","person":"Matt Bratt","beers":[13382,13383],"city":"Isle of Man","location":"isle of man","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:09am","person":"Ethan","beers":[13384],"city":"Stansted","location":"Stansted","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:10am","person":"Mikey Jennings","beers":[13385],"city":"Bickley","location":"Bickley","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:10am","person":"Chelsea Wilkins","beers":[13386,13387,13388,13389,13390],"city":"London","location":"hoxton","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:10am","person":"Chelsea Wilkins","beers":[],"city":null,"location":null,"location_confidence":"low","session":64,"notes":"Skipped duplicate post of beers 13386-13390"}
+{"date":"23/5","time":"3:11am","person":"James Vyse","beers":[13391],"city":"Keyworth","location":"keyworth","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:13am","person":"Dave Brewer","beers":[13392],"city":"Allhallows","location":"in the garden, Allhallows","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:14am","person":"Jack","beers":[13393,13394,13395],"city":"London","location":"Coal Hole","location_confidence":"medium","session":64,"notes":null}
+{"date":"23/5","time":"3:15am","person":"Mark","beers":[13396],"city":"Wrotham","location":"the moat wrotham","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:16am","person":"Oli","beers":[13397],"city":"Doncaster","location":"Doncaster","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:21am","person":"Salvatore","beers":[13398],"city":"Hertfordshire","location":"Hertfordshire","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:22am","person":"James Vyse","beers":[13399],"city":"Keyworth","location":"keyworth","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:24am","person":"Matt Latteman","beers":[13400],"city":"Bromley","location":"bromely","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:27am","person":"Thanura","beers":[13401,13402],"city":"London","location":"Jeremy Bentham, London","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:31am","person":"Mags","beers":[13403],"city":"London","location":"the institute","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:38am","person":"Mik","beers":[13404],"city":"London","location":"Greenwich","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:36am","person":"Who's this Aldi fella","beers":[13405],"city":"Worcester","location":"Arches, Worcester","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:39am","person":"Olly Lavy","beers":[13406],"city":"London","location":"Clapham","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:45am","person":"Boby Brooks","beers":[13407,13408,13409,13410,13411],"city":"London","location":"the coal hole","location_confidence":"medium","session":64,"notes":null}
+{"date":"23/5","time":"3:51am","person":"Iris Fraser","beers":[13412],"city":"Krakow","location":"Krakow","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:51am","person":"amie","beers":[13413],"city":"Krakow","location":"Krakow","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:55am","person":"Jack","beers":[13414,13415,13416],"city":"London","location":"Coal Hole","location_confidence":"medium","session":64,"notes":null}
+{"date":"23/5","time":"3:57am","person":"Mik","beers":[13417],"city":"London","location":"Greenwich","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:59am","person":"Dom Duncan","beers":[13418],"city":"Surbiton","location":"Surbiton","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"4:01am","person":"Matt 1","beers":[13419],"city":"Peterborough","location":"Addison Arms, Peterborough","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"4:28am","person":"Matt 1","beers":[13420],"city":"Peterborough","location":"Addison Arms, Peterborough","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"4:33am","person":"Mags","beers":[13421],"city":"London","location":"the institute","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"4:41am","person":"Wes - UK WES","beers":[13422],"city":null,"location":null,"location_confidence":"low","session":64,"notes":null}
+{"date":"23/5","time":"4:43am","person":"Dom Duncan","beers":[13423],"city":"Surbiton","location":"Surbiton","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"4:44am","person":"Andres","beers":[13424,13425],"city":"London","location":"beer mile","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"4:45am","person":"Jess - 2","beers":[13426,13427,13428],"city":"Chester","location":"Chester","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"4:50am","person":"Matt Latteman","beers":[13429,13430],"city":"Bromley","location":"star and garter, Bromely","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"4:50am","person":"Mikey Jennings","beers":[13431],"city":"Bromley","location":"Bromley","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"4:50am","person":"Olly Lavy","beers":[],"city":"London","location":"Wandsworth","location_confidence":"high","session":64,"notes":"Skipped duplicate/conflict beer 13431; first poster wins"}
+{"date":"23/5","time":"5:01am","person":"Andre","beers":[13433,13434],"city":null,"location":"Backyard","location_confidence":"high","session":64,"notes":"Beer 13432 is not present in the parseable chunk after duplicate/conflict beer 13431"}
+{"date":"23/5","time":"5:09am","person":"Tom Neaverson","beers":[13435],"city":"Hong Kong","location":"Hong Kong","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"5:11am","person":"Mik","beers":[13436,13437,13438,13439],"city":"London","location":"Greenwich","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"5:16am","person":"Matty","beers":[13440,13441,13442],"city":"London","location":"London","location_confidence":"high","session":64,"notes":"Expanded shorthand 13440-2 to 13440-13442"}
+{"date":"23/5","time":"5:19am","person":"Joseph Perkin","beers":[13443],"city":"London","location":"Hackney Wick","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"5:24am","person":"Garett","beers":[13444,13445],"city":"The Hague","location":"The Hague","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"5:25am","person":"Jack","beers":[13446,13447],"city":"London","location":"Theodore Bullfrog","location_confidence":"medium","session":64,"notes":null}
+{"date":"23/5","time":"5:31am","person":"Connor Wynn","beers":[13448],"city":"London","location":"Peckham","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"5:43am","person":"Salvatore","beers":[13449],"city":"Hertfordshire","location":"Hertfordshire","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"5:44am","person":"Dom Duncan","beers":[13450],"city":"Surbiton","location":"Surbiton","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"5:45am","person":"Iris Fraser","beers":[13451,13452],"city":"Krakow","location":"Krakow","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"5:45am","person":"Henry Smith","beers":[13453],"city":"Bromley","location":"Bromley, UK","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"5:45am","person":"Mikey Jennings","beers":[13454],"city":"Bromley","location":"Bromley","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"5:45am","person":"Henry Smith","beers":[],"city":"Bromley","location":"Bromley, UK","location_confidence":"high","session":64,"notes":"Skipped duplicate post of beer 13453"}
+{"date":"23/5","time":"5:46am","person":"Matt Latteman","beers":[],"city":"Bromley","location":"star and garter, bromely","location_confidence":"high","session":64,"notes":"Skipped stale/conflict beer 13446; first poster wins"}
+{"date":"23/5","time":"5:51am","person":"Alex","beers":[],"city":null,"location":"on a train, Greater Slough area","location_confidence":"high","session":64,"notes":"Skipped stale/conflict beer 13447; first poster wins"}
+{"date":"23/5","time":"5:55am","person":"Andre","beers":[],"city":null,"location":"Piss beer in the kitchen","location_confidence":"high","session":64,"notes":"Skipped stale/conflict beers 13448-13449; first poster wins"}
+{"date":"23/5","time":"5:56am","person":"Salvatore","beers":[],"city":"Hertfordshire","location":"Hertfordshire","location_confidence":"high","session":64,"notes":"Skipped stale/conflict beer 13450; first poster wins"}
+{"date":"23/5","time":"6:02am","person":"Olly Lavy","beers":[],"city":"London","location":"Old Street Records","location_confidence":"high","session":64,"notes":"Skipped stale/conflict beer 13451; first poster wins"}
+{"date":"23/5","time":"6:09am","person":"Joseph Perkin","beers":[],"city":"London","location":"Hackney Wick","location_confidence":"high","session":64,"notes":"Skipped stale/conflict beer 13452; first poster wins"}
+{"date":"23/5","time":"6:15am","person":"Chelsea Wilkins","beers":[13455,13456,13457,13458,13459],"city":"London","location":"hoxton","location_confidence":"high","session":64,"notes":"Original range 13453-13459 overlapped already-claimed 13453-13454; kept unused sequential beers 13455-13459"}
+{"date":"23/5","time":"6:18am","person":"Who's this Aldi fella","beers":[13460,13461],"city":"Worcester","location":"Conservatory, Worcester","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"6:20am","person":"Connor Wright","beers":[13462],"city":"Copenhagen","location":"Copenhagen","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"6:30am","person":"Olly Lavy","beers":[13463,13464],"city":null,"location":"Nando's","location_confidence":"high","session":64,"notes":"Corrected repeated 13463 13463 to sequential 13463-13464"}
+{"date":"23/5","time":"6:36am","person":"Matt Latteman","beers":[13465],"city":"Bromley","location":"star and garter bromely","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"6:37am","person":"Mikey Jennings","beers":[13466],"city":"Bromley","location":"Bromley","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"6:49am","person":"Salvatore","beers":[13467,13468],"city":"Hertfordshire","location":"Hertfordshire","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"6:59am","person":"Sam Mcmahon","beers":[13469],"city":null,"location":"bar tender should be shot","location_confidence":"low","session":64,"notes":null}
+{"date":"23/5","time":"6:59am","person":"Myles Baldock","beers":[13470],"city":null,"location":null,"location_confidence":"low","session":64,"notes":null}
+{"date":"23/5","time":"7:05am","person":"Ollie Collins","beers":[13472],"city":"Uppingham","location":"Uppinham","location_confidence":"high","session":64,"notes":"Beer 13471 is not present in the parseable chunk"}
+{"date":"23/5","time":"7:05am","person":"Reuben","beers":[13473],"city":"Sawbridgeworth","location":"Sawbridgeworth","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:07am","person":"H 2 (UK)","beers":[13474],"city":"Harlow","location":"Harlow","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:10am","person":"Cam","beers":[13475],"city":"Lenton","location":"The Boat Inn Lenton","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:12am","person":"Isaac Hawes","beers":[13476],"city":"Sawbridgeworth","location":"Sawbridgeworth","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:15am","person":"Boby Brooks","beers":[13477],"city":null,"location":"solo rooftop","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:15am","person":"Who's this Aldi fella","beers":[13478,13479],"city":null,"location":"Foregate","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:19am","person":"Andres","beers":[13480,13481,13482,13483,13484],"city":"London","location":"beer mile","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:22am","person":"Charlie Abrahams","beers":[13485],"city":"Winchmore Hill","location":"The kings head Winchmore Hill","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:22am","person":"Mikey Jennings","beers":[13486],"city":"Bromley","location":"Bromley","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:23am","person":"Jamie Rhind","beers":[13487],"city":"Bangkok","location":"somewhere in Bangkok","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:23am","person":"Matt Latteman","beers":[13488],"city":"Bromley","location":"star and garter bromely","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:24am","person":"Henry Smith","beers":[13489],"city":"Bromley","location":"brom","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:25am","person":"Connor Wright","beers":[13490],"city":"Copenhagen","location":"Copenhagen","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:25am","person":"Archie","beers":[],"city":"South Africa","location":"south africa","location_confidence":"high","session":64,"notes":"Skipped duplicate/conflict beer 13490; first poster wins"}
+{"date":"23/5","time":"7:25am","person":"Isaac Hawes","beers":[13491],"city":null,"location":"somewhere whimsical","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:26am","person":"Archie","beers":[13492],"city":"London","location":"Hackney","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:27am","person":"Myles Baldock","beers":[13493],"city":"Yorkshire","location":"Yorkshire","location_confidence":"high","session":64,"notes":"Corrected punctuation 13.493 to 13493"}
+{"date":"23/5","time":"7:28am","person":"Archie","beers":[13494],"city":"Italy","location":"Italy","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:28am","person":"Reuben","beers":[13495],"city":"Sawbridgeworth","location":"Sawbridgeworth","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:32am","person":"Isaac Hawes","beers":[13496],"city":"New York","location":"New York","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:33am","person":"Archie","beers":[13497],"city":"Prague","location":"Prague at the 5 STAR HOTEL","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:35am","person":"Reuben","beers":[13498],"city":null,"location":null,"location_confidence":"low","session":64,"notes":null}
+{"date":"23/5","time":"7:38am","person":"Archie","beers":[13499],"city":"London","location":"Elephant and castle","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:42am","person":"Archie","beers":[13500,13501],"city":"London","location":"leyton","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:53am","person":"Matty","beers":[13502],"city":"London","location":"London","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:53am","person":"George","beers":[13503],"city":"London","location":"london","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:53am","person":"Iris Fraser","beers":[13504,13505],"city":"Krakow","location":"Krakow","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"7:55am","person":"Darcey","beers":[13506],"city":null,"location":null,"location_confidence":"low","session":64,"notes":null}
+{"date":"23/5","time":"8:02am","person":"sophie","beers":[13507],"city":"Milwaukee","location":"milwaukee, wi","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"8:03am","person":"Darcey","beers":[],"city":null,"location":null,"location_confidence":"low","session":64,"notes":"Skipped duplicate/conflict beer 13507; first poster wins"}
+{"date":"23/5","time":"8:04am","person":"Seán","beers":[13508],"city":null,"location":null,"location_confidence":"low","session":64,"notes":null}
+{"date":"23/5","time":"8:04am","person":"Reece","beers":[13509],"city":"Baldock","location":"baldock","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"8:05am","person":"Archie","beers":[13510],"city":"Glastonbury","location":"glastonbury","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"8:06am","person":"Myles Baldock","beers":[13511],"city":"Essex","location":"ESSEX","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"8:15am","person":"Daniel","beers":[13512],"city":"Montreal","location":"Montréal","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"8:18am","person":"Connor Wright","beers":[13513],"city":"Copenhagen","location":"Copenhagen","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"8:19am","person":"Mitchell Schoffro","beers":[13514,13515],"city":"Toronto","location":"toronto","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"8:20am","person":"Myles Baldock","beers":[13516],"city":null,"location":null,"location_confidence":"low","session":64,"notes":null}
+{"date":"23/5","time":"8:24am","person":"Matt Latteman","beers":[13517],"city":"Bromley","location":"star and garter bromely","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"8:24am","person":"Mikey Jennings","beers":[13518],"city":"Bromley","location":"Bromley","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"8:33am","person":"Salvatore","beers":[13519,13520,13521],"city":"Hertfordshire","location":"Hertfordshire","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"8:46am","person":"Sam Honey","beers":[13522],"city":"Lake Como","location":"Poretti, Lake Como","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"8:48am","person":"Curtis Brighty","beers":[13523],"city":null,"location":null,"location_confidence":"low","session":64,"notes":null}
+{"date":"23/5","time":"9:00am","person":"Mitchell Schoffro","beers":[13524,13525],"city":"Toronto","location":"toronto","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"9:02am","person":"Andre","beers":[13526,13527,13528],"city":"Winnipeg","location":"The Forks, Winnipeg","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"9:17am","person":"Imogen","beers":[13529],"city":"Montreal","location":"La Fontaine Montreal","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"9:25am","person":"Alfie King","beers":[13530],"city":null,"location":null,"location_confidence":"low","session":64,"notes":null}
+{"date":"23/5","time":"9:28am","person":"Mitchell Schoffro","beers":[13531],"city":"Toronto","location":"Toronto","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"9:41am","person":"Curtis Brighty","beers":[13532],"city":null,"location":null,"location_confidence":"low","session":64,"notes":null}
+{"date":"23/5","time":"9:48am","person":"Andre","beers":[13533,13534,13535],"city":"Winnipeg","location":"The Forks, Winnipeg","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"9:55am","person":"Myles Baldock","beers":[13536],"city":null,"location":null,"location_confidence":"low","session":64,"notes":null}
+{"date":"23/5","time":"9:56am","person":"Imogen","beers":[13537],"city":"Montreal","location":"La Fontaine","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"9:56am","person":"Seán","beers":[13538],"city":null,"location":null,"location_confidence":"low","session":64,"notes":null}
+{"date":"23/5","time":"9:58am","person":"Alfie King","beers":[13539],"city":null,"location":null,"location_confidence":"low","session":64,"notes":null}
+{"date":"23/5","time":"9:58am","person":"Marta","beers":[13540,13541,13542],"city":null,"location":"post work","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"9:59am","person":"Chris Marlow","beers":[13543,13544],"city":"Panama City","location":"Panama City","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"10:35am","person":"Curtis Brighty","beers":[13545],"city":null,"location":null,"location_confidence":"low","session":64,"notes":null}
+{"date":"23/5","time":"10:46am","person":"Mitchell Schoffro","beers":[],"city":"Toronto","location":"toronto","location_confidence":"high","session":64,"notes":"Skipped stale/conflict beer 13536; first poster wins"}
+{"date":"23/5","time":"12:15pm","person":"Alastair","beers":[],"city":"Melbourne","location":"Albert park","location_confidence":"high","session":64,"notes":"Skipped stale/conflict beer 13537; first poster wins"}
+{"date":"23/5","time":"12:26pm","person":"David D","beers":[],"city":"Winnipeg","location":"Winnipeg","location_confidence":"high","session":64,"notes":"Skipped stale/conflict beers 13538-13540; first poster wins"}
+{"date":"23/5","time":"12:51pm","person":"Alastair","beers":[],"city":"Melbourne","location":"Albert park","location_confidence":"high","session":64,"notes":"Skipped stale/conflict beer 13541; first poster wins"}
+{"date":"23/5","time":"1:30pm","person":"Alastair","beers":[],"city":"Melbourne","location":"Palbert Ark","location_confidence":"high","session":64,"notes":"Skipped stale/conflict beers 13542-13543; first poster wins"}
+{"date":"23/5","time":"1:31pm","person":"Daniel","beers":[],"city":"Montreal","location":"blockhouse Montréal","location_confidence":"high","session":64,"notes":"Skipped stale/conflict beer 13542; first poster wins"}
+{"date":"23/5","time":"1:39pm","person":"Joseph","beers":[13546,13547,13548,13549],"city":"Montreal","location":"avenue laurier montreal","location_confidence":"high","session":64,"notes":"Original 13543-13547 overlapped already-claimed 13543-13545; kept unused sequential beers 13546-13549"}
+{"date":"23/5","time":"1:43pm","person":"Mitchell Schoffro","beers":[13550],"city":"Toronto","location":"toronto","location_confidence":"high","session":64,"notes":"Corrected from stale 13548 to align with Alastair count check at 13550"}
+{"date":"23/5","time":"2:21pm","person":"Alastair","beers":[],"city":null,"location":null,"location_confidence":"low","session":64,"notes":"Admin count check: 'Count is 13550*'"}
+{"date":"23/5","time":"2:29pm","person":"Leg","beers":[13551],"city":null,"location":null,"location_confidence":"low","session":64,"notes":null}
+{"date":"23/5","time":"2:53pm","person":"SpagEddy","beers":[13552],"city":"Sydney","location":"Sydney Airport, Forestville","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:40pm","person":"Addison Sherry","beers":[13553],"city":"Sydney","location":"The Carrington, Forestville","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:42pm","person":"Ben Corbett-Jones","beers":[13554],"city":"Sydney","location":"Sydney","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"3:54pm","person":"Adam","beers":[13555],"city":"Burleigh","location":"Burleigh","location_confidence":"high","session":64,"notes":"Corrected typo 13355 to 13555 using sequential context before Connor Wright +200 correction"}
+{"date":"23/5","time":"4:10pm","person":"Ben Corbett-Jones","beers":[13556],"city":"Sydney","location":"Sydney","location_confidence":"high","session":64,"notes":"Corrected from 13356 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"4:11pm","person":"Addison Sherry","beers":[13557,13558,13559],"city":"Sydney","location":"The Carrington, Forestville","location_confidence":"high","session":64,"notes":"Corrected from 13357-13359 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"4:16pm","person":"Alex Morton","beers":[13560,13561,13562],"city":"Sydney","location":"Sydney","location_confidence":"high","session":64,"notes":"Corrected from 13360-13362 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"4:28pm","person":"Ian","beers":[13563],"city":"Sydney","location":"Sydney","location_confidence":"high","session":64,"notes":"Corrected from 13363 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"4:28pm","person":"Anya Phillips","beers":[13564],"city":"Sydney","location":"The Carrington Surry Hills","location_confidence":"high","session":64,"notes":"Corrected from 13364 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"4:32pm","person":"Alastair","beers":[13565],"city":"Sydney","location":"Morris House","location_confidence":"high","session":64,"notes":"Corrected from 13365 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"4:34pm","person":"Fionn Mahoney","beers":[13566],"city":"North Sydney","location":"North Syd","location_confidence":"high","session":64,"notes":"Corrected from 13366 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"4:35pm","person":"Jarryd Butler","beers":[13567],"city":"Melbourne","location":"MCG","location_confidence":"high","session":64,"notes":"Corrected from 13367 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"4:45pm","person":"Ben Corbett-Jones","beers":[13568],"city":"Sydney","location":"Sydney","location_confidence":"high","session":64,"notes":"Corrected from 13368 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"5:05pm","person":"Tom 2","beers":[13569],"city":"West Pennant Hills","location":"West Penno","location_confidence":"high","session":64,"notes":"Corrected from 13369 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"5:07pm","person":"Sarah Ryan","beers":[13570],"city":"Sydney","location":"the carrington","location_confidence":"high","session":64,"notes":"Corrected from 13370 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"5:10pm","person":"Addison Sherry","beers":[13571],"city":"Sydney","location":"The Carrington, Forestville","location_confidence":"high","session":64,"notes":"Corrected from 13371 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"5:19pm","person":"Ben Corbett-Jones","beers":[13572],"city":"Sydney","location":"Sydney","location_confidence":"high","session":64,"notes":"Corrected from 13372 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"5:31pm","person":"Alex Morton","beers":[13573,13574,13575],"city":"Sydney","location":"Sydney","location_confidence":"high","session":64,"notes":"Corrected from 13373-13375 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"5:32pm","person":"Alastair","beers":[13576,13577,13578,13579,13580,13581],"city":"Melbourne","location":"Yarra","location_confidence":"medium","session":64,"notes":"Corrected from 13376-13381 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"5:52pm","person":"Addison Sherry","beers":[13583],"city":"Sydney","location":"The Carrington, Forestville","location_confidence":"high","session":64,"notes":"Corrected from 13383 using Connor Wright correction that 200 were lost; beer 13582 is not present in the parseable chunk"}
+{"date":"23/5","time":"5:55pm","person":"Alex Morton","beers":[13584],"city":"Sydney","location":"Sydney","location_confidence":"high","session":64,"notes":"Corrected from 13384 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"6:25pm","person":"Riley","beers":[13585],"city":"Melbourne","location":"Melbourne. Aus","location_confidence":"high","session":64,"notes":"Corrected from 13385 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"6:16pm","person":"Andrew Coles","beers":[13586,13587,13588],"city":"Sydney","location":"Paddington, Sydney, Australia","location_confidence":"high","session":64,"notes":"Corrected from 13386-13388 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"6:17pm","person":"Olivia Lyu-Liu","beers":[13589],"city":"Osaka","location":"Osaka","location_confidence":"high","session":64,"notes":"Corrected from 13389 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"6:18pm","person":"Jarryd Butler","beers":[13590],"city":"Melbourne","location":"MCG","location_confidence":"high","session":64,"notes":"Corrected from 13390 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"6:18pm","person":"Daniel G","beers":[13591,13592,13593],"city":"Melbourne","location":"Melbourne","location_confidence":"high","session":64,"notes":"Corrected from 13391-13393 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"6:22pm","person":"Jamie Rhind","beers":[13594],"city":"Bangkok","location":"Jacks Bar, Bangkok","location_confidence":"high","session":64,"notes":"Corrected from 13394 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"6:32pm","person":"Addison Sherry","beers":[13595,13596],"city":"Sydney","location":"The Carrington, Forestville","location_confidence":"high","session":64,"notes":"Corrected from 13395-13396 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"6:39pm","person":"Ali King","beers":[13597],"city":"Hatfield Heath","location":"Down Hall, Hatfield Heath","location_confidence":"high","session":64,"notes":"Corrected from 13397 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"7:00pm","person":"Alessandro","beers":[13598,13599,13600,13601,13602],"city":"Sydney","location":"Paddington, Sydney","location_confidence":"high","session":64,"notes":"Corrected from 13398-13402 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"7:20pm","person":"Riley","beers":[13603],"city":"Melbourne","location":"Melbourne","location_confidence":"high","session":64,"notes":"Corrected from 13403 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"7:21pm","person":"Ian","beers":[13604],"city":"Sydney","location":"Sydney","location_confidence":"high","session":64,"notes":"Corrected from 13404 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"7:36pm","person":"Ben Corbett-Jones","beers":[13605],"city":"Sydney","location":"Sydney","location_confidence":"high","session":64,"notes":"Corrected from 13405 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"7:41pm","person":"Karl von Sanden","beers":[13606,13607,13608],"city":null,"location":null,"location_confidence":"low","session":64,"notes":"Corrected from 13406-13408 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"7:41pm","person":"Mitchell McCluskey","beers":[13609],"city":"Sydney","location":"Sydney","location_confidence":"high","session":64,"notes":"Corrected from 13409 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"7:49pm","person":"Jamie Rhind","beers":[13610,13611],"city":"Bangkok","location":"Bangkok","location_confidence":"high","session":64,"notes":"Corrected from 13410/13411 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"8:18pm","person":"Will Simpson","beers":[13612,13613],"city":"Hue","location":"Hue","location_confidence":"high","session":64,"notes":"Corrected from 13412-13413 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"8:20pm","person":"Harley","beers":[13614,13615],"city":"Brisbane","location":"Regatta hotel","location_confidence":"high","session":64,"notes":"Corrected from 13414-13415 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"8:21pm","person":"Chris O'Donnell","beers":[13616,13617],"city":"London","location":"London Paddington","location_confidence":"high","session":64,"notes":"Corrected joined number 1341613417 to 13416-13417, then +200 using Connor Wright correction"}
+{"date":"23/5","time":"8:24pm","person":"Alex Morton","beers":[13618,13619,13620],"city":"Sydney","location":"Sydney","location_confidence":"high","session":64,"notes":"Corrected from 13418-13420 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"8:24pm","person":"Ian","beers":[13621],"city":"Sydney","location":"Sydney","location_confidence":"high","session":64,"notes":"Corrected from 13421 using Connor Wright correction that 200 were lost"}
+{"date":"23/5","time":"8:30pm","person":"Will Nicholl","beers":[13622,13623,13624,13625],"city":"Sydney","location":"Paddington","location_confidence":"high","session":64,"notes":"Corrected malformed 13422-13245 to 13622-13625 using Connor Wright correction that 200 were lost and his count check at 13625"}
+{"date":"23/5","time":"8:41pm","person":"Connor Wright","beers":[],"city":null,"location":null,"location_confidence":"low","session":64,"notes":"Count correction: '200 lost here. New count is 13625'; corrected affected 23/5 entries from posted 13356-13425 up to 13556-13625"}
+{"date":"23/5","time":"8:46pm","person":"Finn","beers":[13626],"city":"Bangkok","location":"Bangkok","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"8:46pm","person":"Jamie Rhind","beers":[13627],"city":"Bangkok","location":"Bangkok","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"8:58pm","person":"Ben Furby","beers":[13628,13629,13630,13631],"city":null,"location":"Union hotel","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"9:20pm","person":"Henry W","beers":[13632,13633,13634],"city":"Sydney","location":"Sydney","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"9:28pm","person":"Sudip Dasgupta","beers":[13635],"city":"London","location":"Cannonbury Tavern","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"9:28pm","person":"Connor Wynn","beers":[13636],"city":"London","location":"Peckham","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"9:32pm","person":"Finn","beers":[13637,13638,13639,13640,13641],"city":"Bangkok","location":"Khao San road","location_confidence":"high","session":64,"notes":"Original shorthand 13636,7,8,9,10,11 overlapped already-claimed 13636; kept unused sequential beers 13637-13641"}
+{"date":"23/5","time":"9:36pm","person":"Karl von Sanden","beers":[13642,13643,13644],"city":"Sydney","location":"Paddington","location_confidence":"high","session":64,"notes":"Expanded multiline 13642>13644 with location on following line"}
+{"date":"23/5","time":"9:37pm","person":"Matias","beers":[13645],"city":"Sydney","location":"Newtown","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"9:38pm","person":"Addison Sherry","beers":[13646],"city":"Sydney","location":"Newton","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"9:57pm","person":"Connor Wynn","beers":[13647],"city":"London","location":"Peckham","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"9:59pm","person":"Andrew Coles","beers":[13650],"city":"Sydney","location":"Paddington, Sydney","location_confidence":"high","session":64,"notes":"Beers 13648-13649 are not present in the parseable chunk"}
+{"date":"23/5","time":"10:01pm","person":"Joe","beers":[13651],"city":"Krakow","location":"Krakow","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"10:29pm","person":"Alfie King","beers":[13652],"city":null,"location":null,"location_confidence":"low","session":64,"notes":null}
+{"date":"23/5","time":"10:31pm","person":"Tim 1 (UK)","beers":[13653],"city":null,"location":null,"location_confidence":"low","session":64,"notes":null}
+{"date":"23/5","time":"10:35pm","person":"Chenice Cranton","beers":[13654],"city":"Lake District","location":"Lake District","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"10:52pm","person":"Addison Sherry","beers":[13656],"city":"Sydney","location":"Newtown","location_confidence":"high","session":64,"notes":"Beer 13655 is not present in the parseable chunk"}
+{"date":"23/5","time":"10:59pm","person":"Finn","beers":[13657],"city":null,"location":"Rajadamnern stadium","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"10:59pm","person":"Luke","beers":[13658],"city":"Milford on Sea","location":"Milford on Sea","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"11:02pm","person":"Jed","beers":[13659],"city":"Nottingham","location":"Sunny Notts","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"11:04pm","person":"Diva","beers":[13660],"city":null,"location":"Charlie Parker","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"11:05pm","person":"Sam","beers":[13661],"city":"London","location":"Greenwich Golf Range","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"11:12pm","person":"Tim 1 (UK)","beers":[13662],"city":"Utrecht","location":"Utrecht","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"11:19pm","person":"Will Nicholl","beers":[13663],"city":"Sydney","location":"Paddington","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"11:20pm","person":"Luke (UK)","beers":[13664,13665],"city":"Cardiff","location":"Pontcanna Cardiff","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"11:24pm","person":"Ethan","beers":[13666,13667,13668,13669,13670],"city":"Krakow","location":"Krakow","location_confidence":"high","session":64,"notes":null}
+{"date":"23/5","time":"11:27pm","person":"Will Simpson","beers":[13671,13672],"city":"Hue","location":"Hue","location_confidence":"high","session":64,"notes":"Corrected stale 13370-13371 to 13671-13672 using Mitchell Schoffro count correction at 13703"}
+{"date":"23/5","time":"11:28pm","person":"Joe Fryer","beers":[13673],"city":null,"location":"Panshanger Golf course","location_confidence":"high","session":64,"notes":"Corrected stale 13372 to 13673 using Mitchell Schoffro count correction at 13703"}
+{"date":"23/5","time":"11:34pm","person":"Adam","beers":[13674],"city":"Burleigh","location":"Burleigh","location_confidence":"high","session":64,"notes":"Corrected stale 13373 to 13674 using Mitchell Schoffro count correction at 13703"}
+{"date":"23/5","time":"11:35pm","person":"James Vyse","beers":[13675],"city":"Lowdham","location":"lowdham","location_confidence":"high","session":64,"notes":"Corrected stale 13374 to 13675 using Mitchell Schoffro count correction at 13703"}
+{"date":"23/5","time":"11:37pm","person":"Adrian","beers":[13676],"city":"Dagestan","location":"Dagestan, Russia","location_confidence":"high","session":64,"notes":"Corrected stale 13375 to 13676 using Mitchell Schoffro count correction at 13703"}
+{"date":"23/5","time":"11:43pm","person":"Joe Hayward","beers":[13677],"city":"Tokyo","location":"Tokyo","location_confidence":"high","session":64,"notes":"Corrected stale 13376 to 13677 using Mitchell Schoffro count correction at 13703"}
+{"date":"23/5","time":"11:44pm","person":"Josh 2 (UK)","beers":[13678],"city":"Tokyo","location":"Tokyo","location_confidence":"high","session":64,"notes":"Corrected stale 13377 to 13678 using Mitchell Schoffro count correction at 13703"}
+{"date":"23/5","time":"11:44pm","person":"Will Simpson","beers":[13679,13680],"city":"Hue","location":"Hue","location_confidence":"high","session":64,"notes":"Corrected stale 13378-13379 to 13679-13680 using Mitchell Schoffro count correction at 13703"}
+{"date":"23/5","time":"11:45pm","person":"Olly Lavy","beers":[13681],"city":"Bristol","location":"Bristol","location_confidence":"high","session":64,"notes":"Corrected stale 13380 to 13681 using Mitchell Schoffro count correction at 13703"}
+{"date":"23/5","time":"11:50pm","person":"Joe Hannant","beers":[13682],"city":"Yapton","location":"yapton","location_confidence":"high","session":64,"notes":"Corrected stale 13381 to 13682 using Mitchell Schoffro count correction at 13703"}
+{"date":"23/5","time":"11:50pm","person":"Luke (UK)","beers":[13683,13684],"city":"Cardiff","location":"Pontcanna Cardiff","location_confidence":"high","session":64,"notes":"Corrected stale 13382-13383 to 13683-13684 using Mitchell Schoffro count correction at 13703"}
+{"date":"23/5","time":"11:53pm","person":"Thom","beers":[13685],"city":null,"location":"Duke of welly","location_confidence":"high","session":64,"notes":"Original 13383-13384 overlapped already-claimed 13383; kept unused sequential beer 13685 after Mitchell Schoffro count correction"}
+{"date":"23/5","time":"11:57pm","person":"Harry","beers":[13686],"city":"Leeds","location":"Headingley Leeds","location_confidence":"high","session":64,"notes":"Corrected stale 13385 to 13686 using Mitchell Schoffro count correction at 13703"}
+{"date":"24/5","time":"12:01am","person":"James Vyse","beers":[13687],"city":"Lowdham","location":"lowdham","location_confidence":"high","session":65,"notes":"Corrected stale 13386 to 13687 using Mitchell Schoffro count correction at 13703"}
+{"date":"24/5","time":"12:02am","person":"Daniel Garnelas","beers":[13688,13689],"city":"London","location":"London","location_confidence":"high","session":65,"notes":"Corrected stale 13387-13388 to 13688-13689 using Mitchell Schoffro count correction at 13703"}
+{"date":"24/5","time":"12:08am","person":"Beckixcx","beers":[13690],"city":null,"location":null,"location_confidence":"low","session":65,"notes":"Corrected stale 13389 to 13690 using Mitchell Schoffro count correction at 13703"}
+{"date":"24/5","time":"12:18am","person":"Ollie Collins","beers":[13691],"city":"Uppingham","location":"Uppingham","location_confidence":"high","session":65,"notes":"Corrected stale 13390 to 13691 using Mitchell Schoffro count correction at 13703"}
+{"date":"24/5","time":"12:18am","person":"Tom Nicholl","beers":[13692,13693],"city":null,"location":"Duke of Wellington","location_confidence":"high","session":65,"notes":"Corrected stale 13391-13392 to 13692-13693 using Mitchell Schoffro count correction at 13703"}
+{"date":"24/5","time":"12:27am","person":"Alex Rockberger","beers":[13694,13695],"city":"Totteridge","location":"Totteridge","location_confidence":"high","session":65,"notes":"Corrected stale 13393-13394 to 13694-13695 using Mitchell Schoffro count correction at 13703"}
+{"date":"24/5","time":"12:28am","person":"Luke (UK)","beers":[13696,13697],"city":"Cardiff","location":"Pontcanna Cardiff","location_confidence":"high","session":65,"notes":"Corrected stale 13395-13396 to 13696-13697 using Mitchell Schoffro count correction at 13703"}
+{"date":"24/5","time":"12:29am","person":"Ben Tibber @securecreps","beers":[13698,13699,13700],"city":"Dubai","location":"Dubai","location_confidence":"high","session":65,"notes":"Corrected malformed 13397-14000 to 13698-13700 using Mitchell Schoffro count correction at 13703"}
+{"date":"24/5","time":"12:32am","person":"Matt Latteman","beers":[13701],"city":"Beckenham","location":"Beckenham","location_confidence":"high","session":65,"notes":"Corrected jump 14001 to 13701 using Mitchell Schoffro count correction at 13703"}
+{"date":"24/5","time":"12:34am","person":"Ethan","beers":[13702],"city":"Krakow","location":"Krakow","location_confidence":"high","session":65,"notes":"Corrected jump 14002 to 13702 using Mitchell Schoffro count correction at 13703"}
+{"date":"24/5","time":"12:35am","person":"Joe","beers":[13703],"city":"Krakow","location":"Krakow","location_confidence":"high","session":65,"notes":"Corrected jump 14003 to 13703 using Mitchell Schoffro count correction at 13703"}
+{"date":"24/5","time":"12:37am","person":"Mitchell Schoffro","beers":[],"city":null,"location":null,"location_confidence":"low","session":65,"notes":"Count correction: 'Correct count is 13703 I think'; corrected stale 23/5 11:27pm through 24/5 12:35am block to 13671-13703"}
+{"date":"24/5","time":"12:38am","person":"Addison Sherry","beers":[13704],"city":"Sydney","location":"Newtown","location_confidence":"high","session":65,"notes":null}
+{"date":"24/5","time":"12:41am","person":"Harry","beers":[13705],"city":"Leeds","location":"Headingley Leeds","location_confidence":"high","session":65,"notes":null}
+{"date":"24/5","time":"12:43am","person":"Conor","beers":[13706],"city":"Peak District","location":"Peak District","location_confidence":"high","session":65,"notes":null}
+{"date":"24/5","time":"12:52am","person":"Luke","beers":[13707],"city":"Milford on Sea","location":"Milf on sea","location_confidence":"high","session":65,"notes":null}
+{"date":"24/5","time":"12:53am","person":"Huiru","beers":[13708],"city":"Singapore","location":"Singapore","location_confidence":"high","session":65,"notes":null}
+{"date":"24/5","time":"12:54am","person":"Tom Nicholl","beers":[13709],"city":null,"location":"Duke of Welly","location_confidence":"high","session":65,"notes":null}
+{"date":"24/5","time":"12:55am","person":"Ethan","beers":[13710],"city":"Krakow","location":"Krakow","location_confidence":"high","session":65,"notes":null}
+{"date":"24/5","time":"12:56am","person":"Peter","beers":[13711],"city":"Cardigan","location":"Cardigan","location_confidence":"high","session":65,"notes":null}
+{"date":"24/5","time":"12:57am","person":"Marina","beers":[13712],"city":"Stourbridge","location":"Stourbridge","location_confidence":"high","session":65,"notes":null}
+{"date":"24/5","time":"1:00am","person":"Mags","beers":[13713],"city":null,"location":"Duke of Wellington","location_confidence":"high","session":65,"notes":null}
+{"date":"24/5","time":"1:01am","person":"Thom","beers":[13714],"city":null,"location":"train","location_confidence":"high","session":65,"notes":null}
+{"date":"24/5","time":"1:01am","person":"Lewis","beers":[13715],"city":null,"location":"coborn arms","location_confidence":"high","session":65,"notes":null}
+{"date":"24/5","time":"1:02am","person":"Joe","beers":[13716],"city":"Krakow","location":"Krakow","location_confidence":"high","session":65,"notes":null}
+{"date":"24/5","time":"1:10am","person":"Luke (UK)","beers":[13717,13718],"city":"Cardiff","location":"Pontcanna Cardiff","location_confidence":"high","session":65,"notes":null}
+{"date":"24/5","time":"1:23am","person":"Jayden","beers":[13719],"city":"Manchester","location":"Manchester","location_confidence":"high","session":65,"notes":null}
