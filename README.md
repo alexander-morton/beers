@@ -176,6 +176,11 @@ git push
 {"date":"D/M","time":"H:MMam/pm","person":"Name","beers":[N,...],"city":"City or null","location":"Venue or null","location_confidence":"high/medium/low","session":N,"notes":"explanation or null"}
 ```
 
+### Person names
+- Preserve the sender name exactly as it appears in the cleaned chunk, including emoji, punctuation, accents, apostrophe style, and suffixes like `(UK)`.
+- Do not shorten or normalise display names during parsing (e.g. `H✨` must not become `H`, and `Jeff O’Donnell` must not become `Jeff O'Donnell`).
+- If a later export clearly uses a different display name for the same person, make a deliberate source-data normalization edit across the affected JSONL rows after parsing, then rebuild the generated data.
+
 ### Session numbering
 One session per calendar day, incrementing globally across all chunks. Check the last JSONL entry of the previous chunk for the current session number.
 

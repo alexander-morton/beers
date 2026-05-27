@@ -109,7 +109,7 @@
 {"date":"3/5","time":"6:51am","person":"Sara Parker","beers":[],"city":null,"location":null,"location_confidence":"low","session":44,"notes":"Conflict loser: posted 10617 after David's updated range had already claimed it"}
 {"date":"3/5","time":"6:59am","person":"Joseph Perkin","beers":[],"city":"London","location":"Mile End","location_confidence":"high","session":44,"notes":"Conflict loser: posted 10618 after David's updated range had already claimed it"}
 {"date":"3/5","time":"7:05am","person":"Jess","beers":[],"city":"Santiago","location":null,"location_confidence":"high","session":44,"notes":"Conflict loser: posted 10619 after David's updated range had already claimed it"}
-{"date":"3/5","time":"7:14am","person":"H","beers":[],"city":"Todmorden","location":null,"location_confidence":"high","session":44,"notes":"Conflict loser: posted 10620 after David's updated range had already claimed it"}
+{"date":"3/5","time":"7:14am","person":"H✨","beers":[],"city":"Todmorden","location":null,"location_confidence":"high","session":44,"notes":"Conflict loser: posted 10620 after David's updated range had already claimed it"}
 {"date":"3/5","time":"7:22am","person":"Ollie","beers":[],"city":null,"location":null,"location_confidence":"low","session":44,"notes":"Conflict loser: posted 10621 after David's updated range had already claimed it"}
 {"date":"3/5","time":"7:29am","person":"Joseph Perkin","beers":[10622,10623],"city":"London","location":"Hackney Wick","location_confidence":"high","session":44,"notes":null}
 {"date":"3/5","time":"7:45am","person":"Ali","beers":[10624,10625],"city":null,"location":null,"location_confidence":"low","session":44,"notes":null}

@@ -63,7 +63,7 @@ function computeTotalBeers(data) {
     map[p].count += entry.beers.length
     map[p].posts += 1
   }
-  return Object.values(map).sort((a, b) => b.count - a.count)
+  return Object.values(map).filter(x => x.count > 0).sort((a, b) => b.count - a.count)
 }
 
 function computeSinglePosts(data) {

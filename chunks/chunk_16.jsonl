@@ -101,7 +101,6 @@
 {"date": "7/4", "time": "9:26pm", "person": "Gregory Vandromme", "beers": [6429], "city": "Oxford", "location": null, "location_confidence": "high", "session": 18, "notes": "claimed 6428; corrected to 6429 sequentially"}
 {"date": "7/4", "time": "9:28pm", "person": "Will Simpson", "beers": [6430, 6431], "city": "Sydney", "location": "Artarmon", "location_confidence": "high", "session": 18, "notes": "claimed 6429-6430; corrected to 6430-6431 sequentially"}
 {"date": "7/4", "time": "9:32pm", "person": "Nicholas Fraser", "beers": [6432], "city": "Bali", "location": null, "location_confidence": "high", "session": 18, "notes": "claimed 6431; corrected to 6432 sequentially"}
-{"date": "7/4", "time": "9:43pm", "person": "Darren Greaves", "beers": [], "city": null, "location": null, "location_confidence": "low", "session": 18, "notes": "chitchat: emoji only"}
 {"date": "7/4", "time": "10:01pm", "person": "Mags", "beers": [6433], "city": "Rye", "location": "Globe Inn Marsh", "location_confidence": "high", "session": 18, "notes": "claimed 6432; corrected to 6433 sequentially; Rye, Sussex"}
 {"date": "7/4", "time": "10:23pm", "person": "Nick", "beers": [6434, 6435, 6436], "city": "Lisbon", "location": null, "location_confidence": "high", "session": 18, "notes": "claimed 6433-6435; corrected to 6434-6436 sequentially"}
 {"date": "7/4", "time": "10:38pm", "person": "Nicholas Fraser", "beers": [6437], "city": "Bali", "location": null, "location_confidence": "high", "session": 18, "notes": "claimed 6436; corrected to 6437 sequentially"}
