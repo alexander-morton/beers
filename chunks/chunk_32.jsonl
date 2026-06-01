@@ -196,7 +196,7 @@
 {"date":"17/5","time":"6:09am","person":"Oliver Price","beers":[12737,12738,12739,12740],"city":"Salzburg","location":"salzburg","location_confidence":"high","session":58,"notes":"Out-of-order after 12741-12743; beers retained as posted"}
 {"date":"17/5","time":"6:12am","person":"Connor Wright","beers":[12744],"city":"Copenhagen","location":"Copenhagen","location_confidence":"high","session":58,"notes":null}
 {"date":"17/5","time":"6:15am","person":"Chelsea Wilkins","beers":[12745,12746],"city":"Prospect of whitby","location":"prospect of whitby","location_confidence":"high","session":58,"notes":null}
-{"date":"17/5","time":"6:19am","person":"Who’s this Aldi fella","beers":[12747],"city":"Worcester","location":"Rushwick CC, Worcester","location_confidence":"high","session":58,"notes":null}
+{"date":"17/5","time":"6:19am","person":"Who's this Aldi fella","beers":[12747],"city":"Worcester","location":"Rushwick CC, Worcester","location_confidence":"high","session":58,"notes":null}
 {"date":"17/5","time":"6:23am","person":"Mark 🔴⚪️","beers":[12748,12749],"city":"/  - the white horse bearsted","location":"/  - the white horse bearsted","location_confidence":"high","session":58,"notes":null}
 {"date":"17/5","time":"6:24am","person":"Andres","beers":[12750,12751,12752,12753,12754,12755,12756,12757,12758,12759,12760,12761,12762,12763,12764,12765],"city":"Alicante","location":"alicante","location_confidence":"high","session":58,"notes":null}
 {"date":"17/5","time":"6:41am","person":"Connor Wright","beers":[12766],"city":"Copenhagen","location":"Copenhagen","location_confidence":"high","session":58,"notes":null}
@@ -251,12 +251,12 @@
 {"date":"17/5","time":"6:57pm","person":"Addison Sherry","beers":[12832,12833],"city":"Menai","location":"Menai","location_confidence":"high","session":58,"notes":null}
 {"date":"17/5","time":"7:41pm","person":"Dayanne Davis","beers":[12834],"city":"Albania","location":"Ksamil, Albania","location_confidence":"high","session":58,"notes":null}
 {"date":"17/5","time":"7:53pm","person":"Nick","beers":[12835],"city":"Tunbridge Wells","location":"Padel Hub, Tunbridge Wells","location_confidence":"high","session":58,"notes":null}
-{"date":"17/5","time":"8:37pm","person":"Who’s this Aldi fella","beers":[12836],"city":"Inkberrow relay race","location":"Inkberrow relay race","location_confidence":"high","session":58,"notes":null}
+{"date":"17/5","time":"8:37pm","person":"Who's this Aldi fella","beers":[12836],"city":"Inkberrow relay race","location":"Inkberrow relay race","location_confidence":"high","session":58,"notes":null}
 {"date":"17/5","time":"9:08pm","person":"James Vyse","beers":[12837],"city":"Holme pierrepoint","location":"Holme pierrepoint","location_confidence":"high","session":58,"notes":null}
 {"date":"17/5","time":"9:24pm","person":"Troy","beers":[12838],"city":"Barham","location":"Barham","location_confidence":"high","session":58,"notes":null}
 {"date":"17/5","time":"9:32pm","person":"Dayanne Davis","beers":[12839],"city":"Albania","location":"Ksamil, Albania","location_confidence":"high","session":58,"notes":null}
 {"date":"17/5","time":"9:32pm","person":"Jocelyn","beers":[12840],"city":"Sydney","location":"Narrabeen Sydney","location_confidence":"high","session":58,"notes":null}
-{"date":"17/5","time":"9:47pm","person":"Who’s this Aldi fella","beers":[12841,12842],"city":"Inkberrow run relay","location":"Inkberrow run relay","location_confidence":"high","session":58,"notes":"Corrected typo 12481-12482 to 12841-12842 using Jocelyn count check and sequential context"}
+{"date":"17/5","time":"9:47pm","person":"Who's this Aldi fella","beers":[12841,12842],"city":"Inkberrow run relay","location":"Inkberrow run relay","location_confidence":"high","session":58,"notes":"Corrected typo 12481-12482 to 12841-12842 using Jocelyn count check and sequential context"}
 {"date":"17/5","time":"10:00pm","person":"Jocelyn","beers":[],"city":null,"location":null,"location_confidence":"low","session":58,"notes":"Count check: Jocelyn says count is 12842; treated as admin note and used with context to correct preceding typo to 12841-12842"}
 {"date":"17/5","time":"10:45pm","person":"Jess 1","beers":[12843,12844,12845,12846,12847,12848,12849],"city":"Hackney","location":"Hackney","location_confidence":"high","session":58,"notes":null}
 {"date":"17/5","time":"10:49pm","person":"James Vyse","beers":[12850],"city":"Ladybay","location":"the bottle top, ladybay","location_confidence":"high","session":58,"notes":null}

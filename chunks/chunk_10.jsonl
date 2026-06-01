@@ -90,7 +90,7 @@
 {"date":"17/3","time":"6:29pm","person":"Malcolm","beers":[3745,3746],"city":"New York","location":"Finnegans Wake","location_confidence":"high","session":5,"notes":null}
 {"date":"17/3","time":"6:33pm","person":"George Duffy","beers":[3747,3748,3749],"city":"London","location":"The Blue Posts, Soho","location_confidence":"high","session":5,"notes":null}
 {"date":"17/3","time":"6:35pm","person":"Mark 🔴⚪️","beers":[3750],"city":"London","location":"The Arsenal Tavern","location_confidence":"high","session":5,"notes":null}
-{"date":"17/3","time":"6:36pm","person":"Conor Mansfield","beers":[3751,3752],"city":"London","location":"Blue Posts","location_confidence":"high","session":5,"notes":null}
+{"date":"17/3","time":"6:36pm","person":"Conor mansfield","beers":[3751,3752],"city":"London","location":"Blue Posts","location_confidence":"high","session":5,"notes":null}
 {"date":"17/3","time":"6:36pm","person":"Oli","beers":[3753,3754],"city":null,"location":"Learoyds Bar","location_confidence":"high","session":5,"notes":null}
 {"date":"17/3","time":"6:49pm","person":"Sudip Dasgupta","beers":[3755],"city":"London","location":"Woodbine","location_confidence":"high","session":5,"notes":null}
 {"date":"17/3","time":"6:58pm","person":"Rayhan","beers":[3756,3757],"city":"London","location":"Clapham North","location_confidence":"high","session":5,"notes":null}
@@ -108,7 +108,7 @@
 {"date":"17/3","time":"7:47pm","person":"Oli","beers":[3772],"city":null,"location":"Learoyds","location_confidence":"medium","session":5,"notes":null}
 {"date":"17/3","time":"7:49pm","person":"Malcolm","beers":[3773,3774,3775,3776],"city":"New York","location":"Finnegans Wake","location_confidence":"medium","session":5,"notes":null}
 {"date":"17/3","time":"8:04pm","person":"Jonaa Eva","beers":[3777],"city":"Nottingham","location":null,"location_confidence":"medium","session":5,"notes":null}
-{"date":"17/3","time":"8:04pm","person":"Conor Mansfield","beers":[3778,3779],"city":"London","location":"Blue Posts","location_confidence":"medium","session":5,"notes":null}
+{"date":"17/3","time":"8:04pm","person":"Conor mansfield","beers":[3778,3779],"city":"London","location":"Blue Posts","location_confidence":"medium","session":5,"notes":null}
 {"date":"17/3","time":"8:09pm","person":"Mags","beers":[3780,3781],"city":"London","location":"Blue Posts","location_confidence":"medium","session":5,"notes":null}
 {"date":"17/3","time":"8:10pm","person":"Jess Manzo","beers":[3782],"city":"London","location":"Jubilee Line","location_confidence":"high","session":5,"notes":null}
 {"date":"17/3","time":"8:11pm","person":"Aidan Holmes","beers":[3783,3784],"city":"London","location":"Blue Posts","location_confidence":"high","session":5,"notes":null}
@@ -196,7 +196,7 @@
 {"date":"19/3","time":"8:08pm","person":"Sophie Bale","beers":[3933,3934],"city":"London","location":"Roundhouse","location_confidence":"high","session":9,"notes":"Location written as 'round house'"}
 {"date":"19/3","time":"8:09pm","person":"Sam","beers":[3935,3936],"city":"London","location":"Greencoat Boy","location_confidence":"medium","session":9,"notes":null}
 {"date":"19/3","time":"8:30pm","person":"Connor Wright","beers":[3937],"city":"Copenhagen","location":null,"location_confidence":"medium","session":9,"notes":"Message context: 'Fucking hammering them' — during handball game"}
-{"date":"19/3","time":"9:04pm","person":"Conor Mansfield","beers":[3938,3939,3940],"city":"London","location":"The Ship","location_confidence":"high","session":9,"notes":null}
+{"date":"19/3","time":"9:04pm","person":"Conor mansfield","beers":[3938,3939,3940],"city":"London","location":"The Ship","location_confidence":"high","session":9,"notes":null}
 {"date":"19/3","time":"9:30pm","person":"Cam Schoffro","beers":[3941,3942],"city":null,"location":"Lobster Burger Bar","location_confidence":"high","session":9,"notes":null}
 {"date":"19/3","time":"9:34pm","person":"Jack","beers":[3943,3944],"city":"London","location":"Westminster","location_confidence":"high","session":9,"notes":null}
 {"date":"19/3","time":"9:48pm","person":"Kev Morrissey","beers":[3945],"city":"Nottingham","location":"Sherwood","location_confidence":"high","session":9,"notes":null}
@@ -249,7 +249,7 @@
 {"date":"20/3","time":"5:37pm","person":"Mags","beers":[4062],"city":"London","location":"the Institute","location_confidence":"medium","session":9,"notes":null}
 {"date":"20/3","time":"5:38pm","person":"Sophie Bale","beers":[4063],"city":"Bristol","location":"Miro Lounge","location_confidence":"high","session":9,"notes":null}
 {"date":"20/3","time":"5:40pm","person":"Thanura","beers":[4064],"city":"London","location":null,"location_confidence":"medium","session":9,"notes":null}
-{"date":"20/3","time":"5:40pm","person":"Conor Mansfield","beers":[4065],"city":"Bristol","location":null,"location_confidence":"high","session":9,"notes":null}
+{"date":"20/3","time":"5:40pm","person":"Conor mansfield","beers":[4065],"city":"Bristol","location":null,"location_confidence":"high","session":9,"notes":null}
 {"date":"20/3","time":"6:21pm","person":"Tom Nicholl","beers":[4066],"city":"London","location":"Penne's house","location_confidence":"high","session":9,"notes":null}
 {"date":"20/3","time":"6:22pm","person":"Sam Mcmahon","beers":[4067],"city":"London","location":"Tom's house","location_confidence":"high","session":9,"notes":null}
 {"date":"20/3","time":"6:27pm","person":"Rayhan","beers":[4068],"city":"Nantes","location":null,"location_confidence":"high","session":9,"notes":"Nantes, France"}

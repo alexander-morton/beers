@@ -14,9 +14,9 @@
 {"date":"8/5","time":"3:28pm","person":"Ian","beers":[11273,11274],"city":null,"location":"Syd","location_confidence":"high","session":49,"notes":null}
 {"date":"8/5","time":"3:37pm","person":"Ben Furby","beers":[11275,11276,11277],"city":null,"location":"Hawke's brewing","location_confidence":"high","session":49,"notes":"Skipped duplicate/conflict beer 11274"}
 {"date":"8/5","time":"3:37pm","person":"Alex Morton","beers":[],"city":"Sydney","location":"Sydney","location_confidence":"high","session":49,"notes":"Skipped duplicate/conflict beer 11275"}
-{"date":"8/5","time":"3:37pm","person":"Chris O’Donnell","beers":[11279],"city":"Sydney","location":"Manly, Sydney","location_confidence":"high","session":49,"notes":null}
+{"date":"8/5","time":"3:37pm","person":"Chris O'Donnell","beers":[11279],"city":"Sydney","location":"Manly, Sydney","location_confidence":"high","session":49,"notes":null}
 {"date":"8/5","time":"3:39pm","person":"Sam","beers":[11280,11281],"city":null,"location":"East's Leagues Club","location_confidence":"high","session":49,"notes":null}
-{"date":"8/5","time":"3:44pm","person":"Chris O’Donnell","beers":[11282],"city":"Sydney","location":"manly Sydney","location_confidence":"high","session":49,"notes":null}
+{"date":"8/5","time":"3:44pm","person":"Chris O'Donnell","beers":[11282],"city":"Sydney","location":"manly Sydney","location_confidence":"high","session":49,"notes":null}
 {"date":"8/5","time":"4:06pm","person":"Meg","beers":[11283],"city":"Sydney","location":"Sydney","location_confidence":"high","session":49,"notes":null}
 {"date":"8/5","time":"4:15pm","person":"Jeff O’Donnell","beers":[11284],"city":"Manly","location":"Manly","location_confidence":"high","session":49,"notes":null}
 {"date":"8/5","time":"4:16pm","person":"Jeff O’Donnell","beers":[11285],"city":"Manly","location":"Manly","location_confidence":"high","session":49,"notes":null}
@@ -51,7 +51,7 @@
 {"date":"8/5","time":"7:45pm","person":"Will Nicholl","beers":[11342,11343,11344,11345],"city":null,"location":"The Bend SA","location_confidence":"high","session":49,"notes":null}
 {"date":"8/5","time":"7:46pm","person":"Ben Corbett-Jones","beers":[11346],"city":"Sydney","location":"Sydney","location_confidence":"high","session":49,"notes":null}
 {"date":"8/5","time":"8:04pm","person":"Adam","beers":[11347],"city":null,"location":"Rod Laver Arena","location_confidence":"high","session":49,"notes":null}
-{"date":"8/5","time":"8:08pm","person":"Chris O’Donnell","beers":[11349],"city":"Manly","location":"manly ferry ferry city in bound","location_confidence":"high","session":49,"notes":null}
+{"date":"8/5","time":"8:08pm","person":"Chris O'Donnell","beers":[11349],"city":"Manly","location":"manly ferry ferry city in bound","location_confidence":"high","session":49,"notes":null}
 {"date":"8/5","time":"8:18pm","person":"Adam","beers":[11350],"city":"Manly","location":"Manly","location_confidence":"high","session":49,"notes":null}
 {"date":"8/5","time":"8:28pm","person":"Salvatore","beers":[11351,11352],"city":null,"location":"Victoria","location_confidence":"high","session":49,"notes":null}
 {"date":"8/5","time":"8:43pm","person":"Dave Brewer","beers":[11354],"city":"Ghent","location":"Ghent","location_confidence":"high","session":49,"notes":null}
@@ -73,7 +73,7 @@
 {"date":"9/5","time":"12:14am","person":"Damo","beers":[11381],"city":null,"location":"Great Harwood","location_confidence":"high","session":50,"notes":null}
 {"date":"9/5","time":"12:59am","person":"Wes - UK WES","beers":[11382],"city":null,"location":"Barrowford","location_confidence":"high","session":50,"notes":null}
 {"date":"9/5","time":"1:07am","person":"Damo","beers":[11383],"city":null,"location":"great Harwood of great britiania","location_confidence":"high","session":50,"notes":null}
-{"date":"9/5","time":"1:38am","person":"Who’s this Aldi fella","beers":[11384,11385,11386],"city":null,"location":"New Road, Worcester","location_confidence":"high","session":50,"notes":null}
+{"date":"9/5","time":"1:38am","person":"Who's this Aldi fella","beers":[11384,11385,11386],"city":null,"location":"New Road, Worcester","location_confidence":"high","session":50,"notes":null}
 {"date":"9/5","time":"1:45am","person":"Wes - UK WES","beers":[11387],"city":null,"location":"Barrowford","location_confidence":"high","session":50,"notes":null}
 {"date":"9/5","time":"1:49am","person":"Sam Mcmahon","beers":[11388],"city":null,"location":"Euston road works","location_confidence":"high","session":50,"notes":null}
 {"date":"9/5","time":"2:01am","person":"Wes - UK WES","beers":[11389],"city":null,"location":null,"location_confidence":"low","session":50,"notes":null}

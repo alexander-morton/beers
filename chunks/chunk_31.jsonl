@@ -79,7 +79,7 @@
 {"date":"13/5","time":"6:47pm","person":"Ian","beers":[12091],"city":"Sydney","location":"Sydney","location_confidence":"high","session":54,"notes":null}
 {"date":"13/5","time":"7:31pm","person":"Wein","beers":[12092,12093,12094,12095,12096,12097,12098,12099],"city":null,"location":"union hotel","location_confidence":"high","session":54,"notes":null}
 {"date":"13/5","time":"8:04pm","person":"Will Simpson","beers":[12100,12101],"city":"China","location":"China","location_confidence":"high","session":54,"notes":null}
-{"date":"13/5","time":"8:15pm","person":"Chris O’Donnell","beers":[12102,12103],"city":"Sydney","location":"north sydney","location_confidence":"high","session":54,"notes":"Corrected typo 12110 to 12103 using sequential context"}
+{"date":"13/5","time":"8:15pm","person":"Chris O'Donnell","beers":[12102,12103],"city":"Sydney","location":"north sydney","location_confidence":"high","session":54,"notes":"Corrected typo 12110 to 12103 using sequential context"}
 {"date":"13/5","time":"8:15pm","person":"Fionn Mahoney","beers":[],"city":null,"location":"north syd","location_confidence":"high","session":54,"notes":"Skipped duplicate/conflict beers 12102-12103; first poster wins"}
 {"date":"13/5","time":"8:19pm","person":"Michael Schmid","beers":[12104,12105],"city":"Tsuchiura","location":"Tsuchiura Japan","location_confidence":"high","session":54,"notes":null}
 {"date":"13/5","time":"8:35pm","person":"Michael Schmid","beers":[],"city":null,"location":null,"location_confidence":"low","session":54,"notes":"Count check/correction announced: count is 12108"}

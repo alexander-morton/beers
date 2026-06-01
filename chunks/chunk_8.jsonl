@@ -90,7 +90,7 @@
 {"date":"7/3","time":"6:06pm","person":"Sam Steen","beers":[2901,2902],"city":"Marrakech","location":null,"location_confidence":"high","session":3,"notes":null}
 {"date":"7/3","time":"6:09pm","person":"Mike Manzo","beers":[2903,2904],"city":"London","location":"Breadstall, Soho","location_confidence":"high","session":3,"notes":null}
 {"date":"7/3","time":"6:42pm","person":"Luke (UK)","beers":[2905],"city":"Peak District","location":null,"location_confidence":"high","session":3,"notes":null}
-{"date":"7/3","time":"6:58pm","person":"Conor Mansfield","beers":[2906,2907],"city":"London","location":"The York","location_confidence":"high","session":3,"notes":null}
+{"date":"7/3","time":"6:58pm","person":"Conor mansfield","beers":[2906,2907],"city":"London","location":"The York","location_confidence":"high","session":3,"notes":null}
 {"date":"7/3","time":"6:58pm","person":"Jess - 2","beers":[2908,2909],"city":"London","location":"The York","location_confidence":"high","session":3,"notes":null}
 {"date":"7/3","time":"6:59pm","person":"Phil","beers":[2910,2911,2912],"city":null,"location":"Upton, England","location_confidence":"high","session":3,"notes":null}
 {"date":"7/3","time":"7:00pm","person":"Em Allen","beers":[2913],"city":"London","location":"Angel","location_confidence":"high","session":3,"notes":null}
@@ -116,11 +116,11 @@
 {"date":"7/3","time":"8:29pm","person":"Maddie","beers":[2955],"city":"London","location":"The York","location_confidence":"medium","session":3,"notes":null}
 {"date":"7/3","time":"8:31pm","person":"Bryn Nahrung","beers":[2956],"city":"New York","location":null,"location_confidence":"medium","session":3,"notes":null}
 {"date":"7/3","time":"8:39pm","person":"Sam Mcmahon","beers":[2957],"city":"London","location":"Angel","location_confidence":"medium","session":3,"notes":null}
-{"date":"7/3","time":"8:39pm","person":"Conor Mansfield","beers":[2598,2599],"city":"London","location":"The York","location_confidence":"medium","session":3,"notes":"Used out-of-sequence numbers 2598-2599. Jack responded 'Huh?'. Count confirmed as 2963 by Alex Morton at 8:55pm. Correct numbers not assigned — likely intended 2958-2959."}
+{"date":"7/3","time":"8:39pm","person":"Conor mansfield","beers":[2598,2599],"city":"London","location":"The York","location_confidence":"medium","session":3,"notes":"Used out-of-sequence numbers 2598-2599. Jack responded 'Huh?'. Count confirmed as 2963 by Alex Morton at 8:55pm. Correct numbers not assigned — likely intended 2958-2959."}
 {"date":"7/3","time":"8:40pm","person":"Tom Nicholl","beers":[2960],"city":"London","location":"Angel","location_confidence":"medium","session":3,"notes":null}
 {"date":"7/3","time":"8:41pm","person":"Nin","beers":[2961,2962],"city":"London","location":"The Salisbury","location_confidence":"medium","session":3,"notes":null}
 {"date":"7/3","time":"8:48pm","person":"Mike Wray","beers":[2963],"city":"London","location":"Black Sheep, The Warwick","location_confidence":"high","session":3,"notes":"Tom Nicholl posted 'Fuck you' in reaction; Mike Wray acknowledged he didn't fully understand the rules and fixed his message. Alex Morton confirmed count is 2963 after this."}
-{"date":"7/3","time":"9:01pm","person":"Conor Mansfield","beers":[2964,2965],"city":"London","location":"The York","location_confidence":"medium","session":3,"notes":null}
+{"date":"7/3","time":"9:01pm","person":"Conor mansfield","beers":[2964,2965],"city":"London","location":"The York","location_confidence":"medium","session":3,"notes":null}
 {"date":"7/3","time":"9:12pm","person":"Rick","beers":[2966],"city":"London","location":"The Salisbury","location_confidence":"high","session":3,"notes":null}
 {"date":"7/3","time":"9:14pm","person":"Will Choy","beers":[2967],"city":"London","location":"The Undercroft","location_confidence":"high","session":3,"notes":null}
 {"date":"7/3","time":"9:19pm","person":"Adam Petley","beers":[2968],"city":"London","location":"Balham","location_confidence":"high","session":3,"notes":null}
@@ -139,7 +139,7 @@
 {"date":"7/3","time":"10:57pm","person":"Alex","beers":[2993],"city":"Earls Colne","location":"Drapers","location_confidence":"high","session":3,"notes":null}
 {"date":"7/3","time":"11:07pm","person":"Joseph","beers":[2994,2995],"city":"Montreal","location":"Dispensarie Brewery","location_confidence":"high","session":3,"notes":null}
 {"date":"7/3","time":"11:19pm","person":"Bryn Nahrung","beers":[2996],"city":"New York","location":"Ulysses NYC","location_confidence":"high","session":3,"notes":null}
-{"date":"8/3","time":"12:02am","person":"Conor Mansfield","beers":[2997,2998],"city":"London","location":"Alpaca","location_confidence":"high","session":3,"notes":null}
+{"date":"8/3","time":"12:02am","person":"Conor mansfield","beers":[2997,2998],"city":"London","location":"Alpaca","location_confidence":"high","session":3,"notes":null}
 {"date":"8/3","time":"1:39am","person":"Mitchell Schoffro","beers":[2999,3000],"city":"Toronto","location":null,"location_confidence":"high","session":3,"notes":null}
 {"date":"8/3","time":"1:54am","person":"Jacob Holmes","beers":[3001,3002],"city":"Chicago","location":"Butchers Tap","location_confidence":"high","session":3,"notes":null}
 {"date":"8/3","time":"2:18am","person":"Harry Church","beers":[3003,3004],"city":"Chicago","location":"party bus","location_confidence":"high","session":3,"notes":null}

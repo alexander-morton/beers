@@ -26,7 +26,7 @@
 {"date":"5/2","time":"4:12am","person":"Sophie","beers":[743,744],"city":"New Zealand","location":"Nevis Road (highest public road in NZ)","location_confidence":"high","session":6,"notes":null}
 {"date":"5/2","time":"6:41am","person":"Alex Neale","beers":[745],"city":"Sydney","location":"Cabana bar","location_confidence":"high","session":6,"notes":"Stated 'on my own'."}
 {"date":"5/2","time":"6:23pm","person":"Tom Nicholl","beers":[746,747],"city":"London","location":"Crisp","location_confidence":"high","session":7,"notes":"Location 'Crisp' stated on continuation line. Emoji suggests travel context but Crisp is the destination."}
-{"date":"5/2","time":"6:46pm","person":"Conor Mansfield","beers":[748,749,750,751,752,753,754],"city":"London","location":"Hawksmoor","location_confidence":"high","session":7,"notes":null}
+{"date":"5/2","time":"6:46pm","person":"Conor mansfield","beers":[748,749,750,751,752,753,754],"city":"London","location":"Hawksmoor","location_confidence":"high","session":7,"notes":null}
 {"date":"5/2","time":"6:53pm","person":"Bec","beers":[755,756],"city":"London","location":"Crisp","location_confidence":"high","session":7,"notes":null}
 {"date":"5/2","time":"7:15pm","person":"Jack","beers":[757,758],"city":"London","location":null,"location_confidence":"low","session":7,"notes":null}
 {"date":"5/2","time":"7:24pm","person":"Tom Nicholl","beers":[757,756],"city":"London","location":"Crisp","location_confidence":"medium","session":7,"notes":"Tom claims 757 and 756 but both were already claimed: 756 by Bec (6:53pm) and 757 by Jack (7:15pm). Likely a duplicate/error — Tom was also at Crisp and may have been confused about the running count."}
@@ -60,7 +60,7 @@
 {"date":"6/2","time":"4:28pm","person":"Garett","beers":[797],"city":"The Hague","location":null,"location_confidence":"high","session":8,"notes":null}
 {"date":"6/2","time":"5:26pm","person":"Garett","beers":[798],"city":"The Hague","location":null,"location_confidence":"medium","session":8,"notes":null}
 {"date":"6/2","time":"5:27pm","person":"Edward Carden","beers":[799],"city":"London","location":"Old Street","location_confidence":"high","session":8,"notes":"Stated 'Sneaky work one'."}
-{"date":"6/2","time":"5:36pm","person":"Conor Mansfield","beers":[800],"city":"London","location":"Strand","location_confidence":"high","session":8,"notes":"Beer #800 milestone."}
+{"date":"6/2","time":"5:36pm","person":"Conor mansfield","beers":[800],"city":"London","location":"Strand","location_confidence":"high","session":8,"notes":"Beer #800 milestone."}
 {"date":"6/2","time":"6:02pm","person":"Mike Manzo","beers":[801],"city":"Los Angeles","location":"Santa Monica","location_confidence":"high","session":8,"notes":"Stated 'prison yard gym Santa Monica'."}
 {"date":"6/2","time":"6:43pm","person":"Matt","beers":[802],"city":"London","location":null,"location_confidence":"low","session":8,"notes":null}
 {"date":"6/2","time":"6:44pm","person":"Makalu","beers":[803],"city":"London","location":null,"location_confidence":"low","session":8,"notes":null}
@@ -159,7 +159,7 @@
 {"date":"7/2","time":"8:25pm","person":"Tom Nicholl","beers":[968,969,970,971,972],"city":"London","location":"The Golden Eagle","location_confidence":"high","session":8,"notes":"Stated 'we've left Max's house now. At the golden eagle. Also Joel is here'."}
 {"date":"7/2","time":"8:40pm","person":"Jess Manzo","beers":[973,974],"city":"London","location":"Lord John Russell","location_confidence":"high","session":8,"notes":null}
 {"date":"7/2","time":"8:48pm","person":"Greg","beers":[975,976,977,978,979],"city":"London","location":"Seven Stars","location_confidence":"high","session":8,"notes":"Original: '975-979'. Stated 'Creamy fockin points seven stars'."}
-{"date":"7/2","time":"9:04pm","person":"Conor Mansfield","beers":[980,981,982,983],"city":"London","location":"The Coach Makers Arms","location_confidence":"high","session":8,"notes":null}
+{"date":"7/2","time":"9:04pm","person":"Conor mansfield","beers":[980,981,982,983],"city":"London","location":"The Coach Makers Arms","location_confidence":"high","session":8,"notes":null}
 {"date":"7/2","time":"9:26pm","person":"Joel Slater","beers":[984,985],"city":"London","location":null,"location_confidence":"low","session":8,"notes":null}
 {"date":"7/2","time":"9:27pm","person":"Greg","beers":[986],"city":"London","location":"Seven Stars","location_confidence":"medium","session":8,"notes":null}
 {"date":"7/2","time":"9:37pm","person":"Jess Manzo","beers":[987,988],"city":"London","location":"Lord John Russell","location_confidence":"medium","session":8,"notes":null}

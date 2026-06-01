@@ -74,7 +74,7 @@
 {"date": "16/4", "time": "4:17am", "person": "Rayhan", "beers": [7501, 7502, 7503], "city": null, "location": "Prince Albert", "location_confidence": "high", "session": 27, "notes": null}
 {"date": "16/4", "time": "4:23am", "person": "Abbie", "beers": [7504, 7505], "city": "Brockley", "location": null, "location_confidence": "high", "session": 27, "notes": null}
 {"date": "16/4", "time": "4:42am", "person": "Mags", "beers": [7506, 7507, 7508], "city": null, "location": "Goldwood", "location_confidence": "high", "session": 27, "notes": null}
-{"date": "16/4", "time": "4:44am", "person": "Conor Mansfield", "beers": [7509, 7510], "city": null, "location": "Goldwood", "location_confidence": "high", "session": 27, "notes": null}
+{"date": "16/4", "time": "4:44am", "person": "Conor mansfield", "beers": [7509, 7510], "city": null, "location": "Goldwood", "location_confidence": "high", "session": 27, "notes": null}
 {"date": "16/4", "time": "4:45am", "person": "Mat", "beers": [7511], "city": "Barbados", "location": "Sandy Lane Golf", "location_confidence": "high", "session": 27, "notes": null}
 {"date": "16/4", "time": "5:24am", "person": "Tom Nicholl", "beers": [7512, 7513, 7514], "city": "London", "location": "Goldwood", "location_confidence": "high", "session": 27, "notes": "Bank area"}
 {"date": "16/4", "time": "5:25am", "person": "Jono Dennis", "beers": [7515], "city": null, "location": null, "location_confidence": "low", "session": 27, "notes": "'house beer'"}
@@ -224,7 +224,7 @@
 {"date": "18/4", "time": "4:04am", "person": "Boby Brooks", "beers": [7745, 7746, 7747], "city": null, "location": null, "location_confidence": "low", "session": 29, "notes": "no location given"}
 {"date": "18/4", "time": "4:06am", "person": "Oli", "beers": [7748], "city": "Doncaster", "location": null, "location_confidence": "high", "session": 29, "notes": "'Donny'"}
 {"date": "18/4", "time": "4:14am", "person": "Marta", "beers": [7749, 7750, 7751], "city": null, "location": "Bank of Friendship", "location_confidence": "high", "session": 29, "notes": null}
-{"date": "18/4", "time": "4:15am", "person": "Conor Mansfield", "beers": [7752, 7753], "city": null, "location": "The Savoy Tap", "location_confidence": "high", "session": 29, "notes": null}
+{"date": "18/4", "time": "4:15am", "person": "Conor mansfield", "beers": [7752, 7753], "city": null, "location": "The Savoy Tap", "location_confidence": "high", "session": 29, "notes": null}
 {"date": "18/4", "time": "4:19am", "person": "Charlie Roberts", "beers": [7754, 7755], "city": null, "location": "Ye Olde Cheshire Cheese", "location_confidence": "high", "session": 29, "notes": null}
 {"date": "18/4", "time": "4:21am", "person": "Mark 🔴⚪️", "beers": [7756], "city": "Ashford", "location": "Stubbs", "location_confidence": "high", "session": 29, "notes": null}
 {"date": "18/4", "time": "4:24am", "person": "Charlie Roberts", "beers": [7757, 7758, 7759], "city": null, "location": "Ye Olde Cheshire Cheese", "location_confidence": "high", "session": 29, "notes": "'ye olde Cheshire fromage'"}

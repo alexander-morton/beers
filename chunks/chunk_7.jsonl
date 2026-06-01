@@ -104,7 +104,7 @@
 {"date":"28/2","time":"10:21pm","person":"Jack","beers":[2448],"city":null,"location":"Wales","location_confidence":"medium","session":1,"notes":null}
 {"date":"28/2","time":"10:22pm","person":"shea","beers":[2449],"city":null,"location":null,"location_confidence":"low","session":1,"notes":"'championship final' context"}
 {"date":"28/2","time":"10:24pm","person":"Liam","beers":[2450],"city":null,"location":"Crack Den","location_confidence":"high","session":1,"notes":"'Crack den' is likely a pub/venue nickname"}
-{"date":"28/2","time":"10:25pm","person":"Fraser allan","beers":[2451],"city":null,"location":null,"location_confidence":"low","session":1,"notes":"2452 unaccounted for before Jack's 2453"}
+{"date":"28/2","time":"10:25pm","person":"Fraser Allan","beers":[2451],"city":null,"location":null,"location_confidence":"low","session":1,"notes":"2452 unaccounted for before Jack's 2453"}
 {"date":"28/2","time":"10:45pm","person":"Jack","beers":[2453],"city":null,"location":"Wales","location_confidence":"medium","session":1,"notes":"2452 unaccounted for"}
 {"date":"1/3","time":"12:36am","person":"Cam Schoffro","beers":[2454,2455],"city":null,"location":"PJ O'Brien's","location_confidence":"high","session":1,"notes":null}
 {"date":"1/3","time":"12:53am","person":"Cam Schoffro","beers":[2456,2457],"city":null,"location":"PJ O'Brien's","location_confidence":"medium","session":1,"notes":null}
@@ -198,7 +198,7 @@
 {"date":"5/3","time":"5:57pm","person":"Sam Mcmahon","beers":[2637],"city":null,"location":"BOF","location_confidence":"medium","session":8,"notes":"Conflict: jake lockwood also claimed 2637 at same time"}
 {"date":"5/3","time":"5:57pm","person":"jake lockwood","beers":[2637,2638,2642,2643],"city":null,"location":"Vic","location_confidence":"high","session":8,"notes":"Conflict: Sam Mcmahon also claimed 2637. jake posted two messages (5:57pm and 5:59pm) claiming 2637,2642 then 2638,2643 — combined here. Numbers non-sequential suggesting out-of-order logging"}
 {"date":"5/3","time":"6:01pm","person":"Mik","beers":[2644,2645],"city":"London","location":"Clapham","location_confidence":"medium","session":8,"notes":null}
-{"date":"5/3","time":"6:03pm","person":"Conor Mansfield","beers":[2646,2647],"city":"London","location":"The Toucan","location_confidence":"high","session":8,"notes":"Conflict: Jack also claimed 2646-2649 at 6:03pm from Strand London"}
+{"date":"5/3","time":"6:03pm","person":"Conor mansfield","beers":[2646,2647],"city":"London","location":"The Toucan","location_confidence":"high","session":8,"notes":"Conflict: Jack also claimed 2646-2649 at 6:03pm from Strand London"}
 {"date":"5/3","time":"6:03pm","person":"Jack","beers":[2646,2647,2648,2649],"city":"London","location":"Strand","location_confidence":"high","session":8,"notes":"Conflict: Conor Mansfield also claimed 2646-2647 at same time from The Toucan. Tom Nicholl flagged 'Can we review numbers here pls jacko' at 6:29pm"}
 {"date":"5/3","time":"6:32pm","person":"Sam 4","beers":[2650,2651],"city":"London","location":"Broadgate Circle","location_confidence":"high","session":8,"notes":"Wrote 'Essex Amphitheater I.e. Broadgate Circlr'"}
 {"date":"5/3","time":"6:32pm","person":"Luke (UK)","beers":[2652],"city":null,"location":"Peak District","location_confidence":"high","session":8,"notes":null}
@@ -207,7 +207,7 @@
 {"date":"5/3","time":"6:52pm","person":"Ben 3","beers":[2656],"city":"London","location":"Sidney Smith","location_confidence":"high","session":8,"notes":"Conflict: Jack also claimed 2656 at 6:53pm"}
 {"date":"5/3","time":"6:53pm","person":"Jack","beers":[2656,2657,2658,2659],"city":"London","location":"Strand","location_confidence":"medium","session":8,"notes":"Conflict: Ben 3 claimed 2656 one minute earlier. 2660 unaccounted for before Mik's 2661"}
 {"date":"5/3","time":"6:54pm","person":"Mik","beers":[2661],"city":"London","location":"Clapham","location_confidence":"medium","session":8,"notes":"2660 unaccounted for"}
-{"date":"5/3","time":"7:05pm","person":"Conor Mansfield","beers":[2662,2663,2664,2665,2666,2667],"city":"London","location":"The Toucan","location_confidence":"medium","session":8,"notes":null}
+{"date":"5/3","time":"7:05pm","person":"Conor mansfield","beers":[2662,2663,2664,2665,2666,2667],"city":"London","location":"The Toucan","location_confidence":"medium","session":8,"notes":null}
 {"date":"5/3","time":"7:09pm","person":"Sam Mcmahon","beers":[2668],"city":null,"location":"The George","location_confidence":"high","session":8,"notes":null}
 {"date":"5/3","time":"7:10pm","person":"Phil","beers":[2669],"city":null,"location":"Home","location_confidence":"high","session":8,"notes":null}
 {"date":"5/3","time":"7:18pm","person":"Luke (UK)","beers":[2670],"city":null,"location":"Peak District","location_confidence":"medium","session":8,"notes":null}
@@ -224,8 +224,8 @@
 {"date":"5/3","time":"8:22pm","person":"Harrison Living","beers":[2692,2693,2694],"city":"London","location":"Elliots, Hackney","location_confidence":"high","session":8,"notes":null}
 {"date":"5/3","time":"8:36pm","person":"Mike Manzo","beers":[2695,2696],"city":"London","location":"Commercial Tavern","location_confidence":"medium","session":8,"notes":"Wrote 'Stone & Wood. Commercial Tavern' — beer brand Stone & Wood"}
 {"date":"5/3","time":"8:49pm","person":"Lydia McKay","beers":[2697],"city":"London","location":"Sydney Smith","location_confidence":"medium","session":8,"notes":null}
-{"date":"5/3","time":"9:29pm","person":"Conor Mansfield","beers":[2698,2699,2700,2701,2702,2703,2704],"city":"London","location":"Soho","location_confidence":"high","session":8,"notes":"Location 'Soho' from prior message at 9:02pm"}
-{"date":"5/3","time":"10:18pm","person":"Conor Mansfield","beers":[2705,2706],"city":"London","location":"Soho","location_confidence":"medium","session":8,"notes":"Wrote '2075,2076' — corrected to 2705, 2706 based on sequence"}
+{"date":"5/3","time":"9:29pm","person":"Conor mansfield","beers":[2698,2699,2700,2701,2702,2703,2704],"city":"London","location":"Soho","location_confidence":"high","session":8,"notes":"Location 'Soho' from prior message at 9:02pm"}
+{"date":"5/3","time":"10:18pm","person":"Conor mansfield","beers":[2705,2706],"city":"London","location":"Soho","location_confidence":"medium","session":8,"notes":"Wrote '2075,2076' — corrected to 2705, 2706 based on sequence"}
 {"date":"5/3","time":"10:50pm","person":"Boby Brooks","beers":[2707,2708],"city":"London","location":"The Crown & Two Chairmen","location_confidence":"high","session":8,"notes":null}
 {"date":"5/3","time":"11:22pm","person":"Tom Nicholl","beers":[2709,2710],"city":"London","location":"Soho","location_confidence":"high","session":8,"notes":null}
 {"date":"5/3","time":"11:23pm","person":"Sara Parker","beers":[2711,2712],"city":"Montreal","location":"Else's","location_confidence":"high","session":8,"notes":null}

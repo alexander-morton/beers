@@ -174,14 +174,14 @@
 {"date":"31/1","time":"3:59pm","person":"Maddie","beers":[617,618,619,620],"city":"London","location":"Southwark Brewing Co","location_confidence":"high","session":9,"notes":null}
 {"date":"31/1","time":"4:09pm","person":"Mike Manzo","beers":[621],"city":"London","location":"LHR Terminal 3","location_confidence":"medium","session":9,"notes":null}
 {"date":"31/1","time":"4:18pm","person":"Mike Manzo","beers":[622,623],"city":"London","location":"LHR Terminal 3","location_confidence":"medium","session":9,"notes":null}
-{"date":"31/1","time":"4:30pm","person":"Conor Mansfield","beers":[624,625,626],"city":"London","location":"Southwark Brewing Company","location_confidence":"high","session":9,"notes":null}
+{"date":"31/1","time":"4:30pm","person":"Conor mansfield","beers":[624,625,626],"city":"London","location":"Southwark Brewing Company","location_confidence":"high","session":9,"notes":null}
 {"date":"31/1","time":"4:38pm","person":"Mike Manzo","beers":[627],"city":"London","location":"LHR T3 Gate 32","location_confidence":"high","session":9,"notes":null}
 {"date":"31/1","time":"4:47pm","person":"Tom Nicholl","beers":[628,629],"city":null,"location":"sub-Saharan Africa (in transit)","location_confidence":"high","session":9,"notes":"Humorous description: 'sub Saharan Africa, we've run out of food and water. Our only hope is beer' — likely on a flight"}
 {"date":"31/1","time":"4:52pm","person":"Maddie","beers":[630,631,632,633],"city":"London","location":"Southwark Brewing Co","location_confidence":"medium","session":9,"notes":"Also describes being 'in sub Saharan Africa' humorously — likely still at Southwark Brewing Co"}
 {"date":"31/1","time":"5:00pm","person":"Nick Cunningham","beers":[610],"city":"Leeds","location":"Elland Road, Leeds","location_confidence":"high","session":9,"notes":"610 already claimed by Mathew Berry (Highbury, London) at 2:52pm; conflict — two people claiming same number"}
 {"date":"31/1","time":"5:07pm","person":"Jack","beers":[635],"city":null,"location":null,"location_confidence":"low","session":9,"notes":null}
 {"date":"31/1","time":"5:12pm","person":"Evan","beers":[636],"city":"Canterbury","location":"Unicorn, Canterbury","location_confidence":"high","session":9,"notes":null}
-{"date":"31/1","time":"5:37pm","person":"Conor Mansfield","beers":[637,638,639,640],"city":"London","location":"Southwark Brewing Company","location_confidence":"medium","session":9,"notes":null}
+{"date":"31/1","time":"5:37pm","person":"Conor mansfield","beers":[637,638,639,640],"city":"London","location":"Southwark Brewing Company","location_confidence":"medium","session":9,"notes":null}
 {"date":"31/1","time":"5:41pm","person":"Mik","beers":[641,642,643,644],"city":"London","location":"Forever Good","location_confidence":"high","session":9,"notes":"States 'Forever good'"}
 {"date":"31/1","time":"6:05pm","person":"Greg","beers":[645],"city":null,"location":null,"location_confidence":"low","session":9,"notes":null}
 {"date":"31/1","time":"6:17pm","person":"Jono Dennis","beers":[646,647,648,649,650],"city":null,"location":null,"location_confidence":"low","session":9,"notes":null}

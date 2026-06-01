@@ -242,7 +242,7 @@
 {"date":"2/5","time":"5:47pm","person":"Jocelyn","beers":[10366,10367],"city":"Bowral","location":null,"location_confidence":"high","session":43,"notes":"Out-of-order timestamp in source; kept in source order"}
 {"date":"2/5","time":"5:48pm","person":"Charlie Fraser","beers":[10368],"city":"Sydney","location":"Newtown","location_confidence":"high","session":43,"notes":null}
 {"date":"2/5","time":"5:51pm","person":"Will Nicholl","beers":[10369],"city":"Bowral","location":null,"location_confidence":"high","session":43,"notes":null}
-{"date":"2/5","time":"5:53pm","person":"Chris O’Donnell","beers":[10370],"city":"Roma","location":null,"location_confidence":"high","session":43,"notes":null}
+{"date":"2/5","time":"5:53pm","person":"Chris O'Donnell","beers":[10370],"city":"Roma","location":null,"location_confidence":"high","session":43,"notes":null}
 {"date":"2/5","time":"5:58pm","person":"Ben Corbett-Jones","beers":[10371],"city":"Sydney","location":null,"location_confidence":"high","session":43,"notes":null}
 {"date":"2/5","time":"6:14pm","person":"Ben Furby","beers":[10372,10373,10374],"city":null,"location":"crowei","location_confidence":"low","session":43,"notes":null}
 {"date":"2/5","time":"6:23pm","person":"Charlie Fraser","beers":[10375],"city":"Sydney","location":"Newtown","location_confidence":"high","session":43,"notes":null}

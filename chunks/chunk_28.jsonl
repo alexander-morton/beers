@@ -235,7 +235,7 @@
 {"date":"7/5","time":"10:51pm","person":"Wes - UK WES","beers":[],"city":null,"location":"Bowland Social, Clitheroe","location_confidence":"high","session":48,"notes":"Skipped duplicate/conflict beer 11181; Skipped duplicate/conflict beer 11182"}
 {"date":"7/5","time":"10:54pm","person":"Mat","beers":[],"city":"London","location":"The Tayp Sidcup","location_confidence":"high","session":48,"notes":"Skipped duplicate/conflict beer 11183"}
 {"date":"7/5","time":"11:30pm","person":"Wes - UK WES","beers":[],"city":null,"location":null,"location_confidence":"low","session":48,"notes":"Skipped duplicate/conflict beer 11184"}
-{"date":"8/5","time":"12:41am","person":"Who’s this Aldi fella","beers":[11185,11186],"city":null,"location":"Bell Inn, Lower Broadheath","location_confidence":"high","session":49,"notes":null}
+{"date":"8/5","time":"12:41am","person":"Who's this Aldi fella","beers":[11185,11186],"city":null,"location":"Bell Inn, Lower Broadheath","location_confidence":"high","session":49,"notes":null}
 {"date":"8/5","time":"12:42am","person":"Christopher Hallett","beers":[11187],"city":"Gatwick","location":"Gatwick","location_confidence":"high","session":49,"notes":null}
 {"date":"8/5","time":"1:16am","person":"Will Simpson","beers":[11188,11189],"city":"Beijing","location":"Beijing","location_confidence":"high","session":49,"notes":null}
 {"date":"8/5","time":"1:25am","person":"Luke (UK)","beers":[11190,11191,11192],"city":"Grenoble","location":"Grenoble","location_confidence":"high","session":49,"notes":null}
