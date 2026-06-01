@@ -1,10 +1,10 @@
 {
-  "appended_at": "2026-05-26T09:38:55.232255+00:00",
+  "appended_at": "2026-06-01T08:55:38.983388+00:00",
   "source_file": "new_chat.txt",
   "combined_file": "/Users/alex/beers/_chat_combined3.txt",
-  "new_content_starts_at_line": 10562,
-  "lines_appended": 1559,
-  "total_lines": 12120,
-  "first_new_line": "[18/05/2026, 16:46:45] Alex Morton: Leaderboard has been updated for the week",
-  "last_new_line": "‎[26/05/2026, 19:35:04] ~ Ian: 14264, Sydney ‎image omitted"
+  "new_content_starts_at_line": 12122,
+  "lines_appended": 1917,
+  "total_lines": 14038,
+  "first_new_line": "[26/05/2026, 20:32:52] ~Danny: ‎~ Shaydon Robson added ~Danny",
+  "last_new_line": "[01/06/2026, 18:10:26] ~ Ed Russell: Lost 100 or so, 16,284 correct #"
 }
