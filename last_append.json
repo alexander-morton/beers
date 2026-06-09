@@ -1,10 +1,10 @@
 {
-  "appended_at": "2026-06-01T08:55:38.983388+00:00",
+  "appended_at": "2026-06-09T08:47:59.287420+00:00",
   "source_file": "new_chat.txt",
   "combined_file": "/Users/alex/beers/_chat_combined3.txt",
-  "new_content_starts_at_line": 12122,
-  "lines_appended": 1917,
-  "total_lines": 14038,
-  "first_new_line": "[26/05/2026, 20:32:52] ~Danny: ‎~ Shaydon Robson added ~Danny",
-  "last_new_line": "[01/06/2026, 18:10:26] ~ Ed Russell: Lost 100 or so, 16,284 correct #"
+  "new_content_starts_at_line": 14040,
+  "lines_appended": 1364,
+  "total_lines": 15403,
+  "first_new_line": "[01/06/2026, 19:13:33] Alex Morton: Leaderboard has been updated for this week: https://1millionbeers.lol",
+  "last_new_line": "[09/06/2026, 18:46:17] ~ Max Davies: ‎~ Max Davies left"
 }
