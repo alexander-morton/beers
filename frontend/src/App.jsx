@@ -79,6 +79,7 @@ function computeSinglePosts(data) {
 function computePosts(data) {
   const map = {}
   for (const entry of data) {
+    if (entry.beers.length === 0) continue
     const p = entry.person
     if (!map[p]) map[p] = { person: p, count: 0 }
     map[p].count += 1
