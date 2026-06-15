@@ -1,10 +1,10 @@
 {
-  "appended_at": "2026-06-09T08:47:59.287420+00:00",
+  "appended_at": "2026-06-15T10:51:51.681122+00:00",
   "source_file": "new_chat.txt",
   "combined_file": "/Users/alex/beers/_chat_combined3.txt",
-  "new_content_starts_at_line": 14040,
-  "lines_appended": 1364,
-  "total_lines": 15403,
-  "first_new_line": "[01/06/2026, 19:13:33] Alex Morton: Leaderboard has been updated for this week: https://1millionbeers.lol",
-  "last_new_line": "[09/06/2026, 18:46:17] ~ Max Davies: ‎~ Max Davies left"
+  "new_content_starts_at_line": 15405,
+  "lines_appended": 1250,
+  "total_lines": 16654,
+  "first_new_line": "‎[09/06/2026, 19:00:40] ~ Riley: 17679-17680 Rockhampton QLD ‎image omitted",
+  "last_new_line": "[15/06/2026, 20:49:37] ~ Raj Rawal: ‎~ Raj Rawal left"
 }
