@@ -3,7 +3,7 @@ import beersData from './data/beers.json'
 import WorldMap from './components/WorldMap'
 import VelocityChart from './components/VelocityChart'
 
-const LAST_UPDATED = '2026-06-15'
+const LAST_UPDATED = '2026-06-23'
 const MEDALS = ['🥇', '🥈', '🥉']
 const GOAL = 1_000_000
 
@@ -19,7 +19,7 @@ function shiftIsoDate(dateStr, days) {
 }
 
 function computeProjection(data) {
-  const now = new Date("2026-06-15")
+  const now = new Date("2026-06-23")
   const cutoff = new Date(now)
   cutoff.setDate(now.getDate() - 30)
 
